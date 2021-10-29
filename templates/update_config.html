@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Update Config</title>
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <form method="POST" enctype="multipart/form-data">
+        <input type="hidden" name="form-name" value="many">
+        <input type="file" name="file" accept=".json" required>
+        <input type="submit" value="Upload new config">
+    </form>
+</div>
+{% endblock %}

@@ -1,0 +1,26 @@
+{"default": {
+    "debug": "on",
+    "ecnCost": {
+        "filePath": "ECN_Cost.xlsx",
+        "sheetName": "default",
+        "dataStartFromRow": 3,
+        "dataEndAtRow": 14,
+        "dataStartFromColumn": 2,
+        "dataEndAtColumn": 11,
+        "tableHeaderRow": 2,
+        "tableIndexColumn": 1
+    },
+    "billing_status": { 
+        "filePath": "Billing_Status_2021.xlsx",
+        "sheetName": "Billing Status",
+        "dataStartFromRow": 13,
+        "dataEndAtRow": 69,
+        "column_project": 2,
+        "column_date": 5,
+        "column_amount": 8
+    },
+    "external_effort": { 
+        "filePath": "externalExpense.xlsx"
+    },
+    "projects": ["FE3AH", "FE5AB/6AB", "GE12B", "GE13", "DFM", "BYD", "RBJAC", "GAC", "BJEV", "HMI", "AE Testing", "V&V Testing", "Digital", "FE-6-A3", "AUDI_PPE&CADA&CAPA", "RBJAC_commercial"]
+}}   

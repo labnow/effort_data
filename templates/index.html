@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>alpha</title>
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <a href="/run"><h2>Start Processing...</h2></a>
+    <a href="/update_config"><h3>Update Config</h3></a>
+    <br><br>
+    <h3>Current config:</h3>
+    <p>{{ myStr }}</p>
+    
+</div>
+{% endblock %}
