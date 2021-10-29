@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>show all data</title>
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h2>DB:Table:External_expense</h2>
+    <table>
+        <tr>
+            <td>id</td><td>project</td><td>item</td><td>invoice_date</td><td>created_date</td><td>amount</td><td>category</td><td>partner</td>
+        </tr>
+        {% for item in external_expense %}
+        <tr>
+            <td>{{ item.id }}</td><td>{{ item.project }}</td><td>{{ item.item }}</td><td>{{ item.invoice_date }}</td><td>{{ item.created_date }}</td><td>{{ item.amount }}</td><td>{{ item.category }}</td><td>{{ item.partner }}</td>
+        </tr>
+        {% endfor %} 
+    </table> 
+    <h2>DB:Table:Internal_expense</h2>
+    <table>
+        <tr>
+            <td>id</td><td>project</td><td>invoice_date</td><td>created_date</td><td>amount</td>
+        </tr>
+        {% for item in internal_expense %}
+        <tr>
+            <td>{{ item.id }}</td><td>{{ item.project }}</td><td>{{ item.invoice_date }}</td><td>{{ item.created_date }}</td><td>{{ item.amount }}</td>
+        </tr>
+        {% endfor %} 
+    </table> 
+    <h2>DB:Table:Revenue</h2>
+    <table>
+        <tr>
+            <td>id</td><td>project</td><td>invoice_date</td><td>created_date</td><td>amount</td>
+        </tr>
+        {% for item in revenue %}
+        <tr>
+            <td>{{ item.id }}</td><td>{{ item.project }}</td><td>{{ item.invoice_date }}</td><td>{{ item.created_date }}</td><td>{{ item.amount }}</td>
+        </tr>
+        {% endfor %} 
+    </table> 
+</div>
+{% endblock %}

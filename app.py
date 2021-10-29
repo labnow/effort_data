@@ -1,5 +1,6 @@
 from flask import Flask, render_template, url_for, request, redirect, send_file
 import os
+import sys
 from datetime import datetime
 from flask_sqlalchemy import SQLAlchemy
 
@@ -7,18 +8,22 @@ app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///effort_data.db'
 db = SQLAlchemy(app)
 
-
 @app.route('/')
 def index():
     with open('config/config.json', 'r') as f:
         myStr = f.read()
     return render_template('index.html', myStr=myStr)
 
-
 @app.route('/run')
 def run():
-    return 0
-
+    # from myutils import stage1_data2db
+    from io import StringIO
+    # stage1_data2db()
+    tmp_out = StringIO()
+    sys.stdout = tmp_out
+    print('ok')
+    sys.stdout.close()
+    return '<p>{}</p>'.format(tmp_out.getvalue())
 
 @app.route('/update_config', methods=['POST', 'GET'])
 def update_config():
@@ -33,6 +38,14 @@ def update_config():
     else:
         return render_template('update_config.html')
 
+@app.route('/showall')
+def showall():
+    external_expense = ExpenseExternal.query.order_by(ExpenseExternal.created_date)
+    internal_expense = ExpenseInternal.query.order_by(ExpenseInternal.created_date)
+    revenue = Revenue.query.order_by(Revenue.created_date)
+    
+    return render_template("showall.html", revenue=revenue, internal_expense=internal_expense, external_expense=external_expense)
+    # return expense_internal
 
 class ExpenseInternal(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -59,6 +72,6 @@ class ExpenseExternal(db.Model):
     partner = db.Column(db.String(64))
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True, port=3000, host="0.0.0.0")
     # app.run()
     # app.run(debug=True, port=3000)
