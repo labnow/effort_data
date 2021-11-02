@@ -14,19 +14,19 @@ def read_config_json():
         # print('config load successfully.')
         return myconfig
     else:
-        print('config not exist')
+        print('config not exist<br>')
 
 def check_data(my_project, my_date, my_amount):
     myconfig = read_config_json()
     
-    if not my_project in myconfig['default']['projects']:
-        print('\tInvalid Project Name')
+    if not my_project in myconfig['projects']:
+        print('<b>!!!Invalid Project Name</b><br>')
         return False
     if not isinstance(my_date, date):
-        print('\tInvalid Invoice Date')
+        print('<b>!!!Invalid Invoice Date</b><br>')
         return False
     if not isinstance(my_amount, (int, float, complex)):
-        print('\tInvalid Amount')
+        print('<b>!!!Invalid Amount</b><br>')
         return False
 
     return True
@@ -34,20 +34,20 @@ def check_data(my_project, my_date, my_amount):
 def read_ecncost():
     ExpenseInternal.query.delete()
     # delete all records, then insert read records
-    print('Reading ecn_cost/internal_expense data...')
+    print('<h2>Reading ecn_cost/internal_expense data...</h2>')
     myconfig = read_config_json()
-    wb = load_workbook(myconfig['default']['ecnCost']['filePath'], data_only=True)
-    ws = wb[myconfig['default']['ecnCost']['sheetName']]
+    wb = load_workbook(myconfig['ecnCost']['filePath'], data_only=True)
+    ws = wb[myconfig['ecnCost']['sheetName']]
 
     myData = []
     myDataTotal = 0
 
-    row_start = myconfig['default']['ecnCost']['dataStartFromRow']
-    row_end = myconfig['default']['ecnCost']['dataEndAtRow']
-    column_start = myconfig['default']['ecnCost']['dataStartFromColumn'] # B
-    column_end = myconfig['default']['ecnCost']['dataEndAtColumn'] # K
-    table_header = myconfig['default']['ecnCost']['tableHeaderRow']
-    table_index = myconfig['default']['ecnCost']['tableIndexColumn']
+    row_start = myconfig['ecnCost']['dataStartFromRow']
+    row_end = myconfig['ecnCost']['dataEndAtRow']
+    column_start = myconfig['ecnCost']['dataStartFromColumn'] # B
+    column_end = myconfig['ecnCost']['dataEndAtColumn'] # K
+    table_header = myconfig['ecnCost']['tableHeaderRow']
+    table_index = myconfig['ecnCost']['tableIndexColumn']
     
     for row in range(row_start, row_end + 1):
         for col in range(column_start, column_end + 1):
@@ -64,30 +64,30 @@ def read_ecncost():
                         myDataTotal += myAmount
                         myTuple = (myProject, myDate, myAmount)
                         myData.append(myTuple)
-                        print('\t{} add to database successfully'.format(myTuple))
+                        print('{} add to database successfully<br>'.format(myTuple))
                     except:
-                        print('\t{} can not be added to database'.format(myTuple))
+                        print('{} can not be added to database<br>'.format(myTuple))
                 else:
-                    print('\t{} {} {} has been dropped'.format(myProject, myDate, myAmount))
+                    print('{} {} {} has been dropped<br>'.format(myProject, myDate, myAmount))
 
     # print(myData)
     myDataLength = len(myData)
-    print(str(myDataLength) + ' value read, sum of amount is ' + str(myDataTotal))
+    print('<h3>{} value read, sum of amount is {}</h3>'.format(str(myDataLength), str(myDataTotal)))
 
 def read_billing_status():
     Revenue.query.delete()
     # delete all records, then insert read records
-    print('Reading billing_status/revenue data...')
+    print('<h2>Reading billing_status/revenue data...</h2>')
     myconfig = read_config_json()
 
-    wb = load_workbook(myconfig['default']['billing_status']['filePath'], data_only=True)
-    ws = wb[myconfig['default']['billing_status']['sheetName']]
+    wb = load_workbook(myconfig['billing_status']['filePath'], data_only=True)
+    ws = wb[myconfig['billing_status']['sheetName']]
 
-    row_start = myconfig['default']['billing_status']['dataStartFromRow']
-    row_end = myconfig['default']['billing_status']['dataEndAtRow']
-    column_project = myconfig['default']['billing_status']['column_project']
-    column_date = myconfig['default']['billing_status']['column_date']
-    column_amount = myconfig['default']['billing_status']['column_amount']
+    row_start = myconfig['billing_status']['dataStartFromRow']
+    row_end = myconfig['billing_status']['dataEndAtRow']
+    column_project = myconfig['billing_status']['column_project']
+    column_date = myconfig['billing_status']['column_date']
+    column_amount = myconfig['billing_status']['column_amount']
 
     myData = []
     myDataTotal = 0
@@ -112,20 +112,26 @@ def read_billing_status():
                 myDataTotal += myAmount
                 myTuple = (myProject, myDate, myAmount)
                 myData.append(myTuple)
-                print('\t{} add to database successfully'.format(myTuple))
+                print('{} add to database successfully<br>'.format(myTuple))
             except:
-                print('\t{} can not be added to database'.format(myTuple))
+                print('{} can not be added to database<br>'.format(myTuple))
         else:
-            print('\t{} {} {} has been dropped'.format(myProject, myDate, myAmount))
+            print('{} {} {} has been dropped<br>'.format(myProject, myDate, myAmount))
 
     myDataLength = len(myData)
-    print(str(myDataLength) + ' value read, sum of amount is ' + str(myDataTotal))
+    print('<h3>{} value read, sum of amount is {}</h3>'.format(str(myDataLength), str(myDataTotal)))
 
 def read_external_effort():
     import shutil
+    print('<h2>Reading external_efoort...</h2>')
     myconfig = read_config_json()
 
-    wb = load_workbook(myconfig['default']['external_effort']['filePath'], data_only=True)
+    try:
+        wb = load_workbook(myconfig['external_effort']['filePath'], data_only=True)
+    except:
+        print('<h3>externalExpense.xlsx does not exist, please check!</h3>')
+        return 0
+    
     ws = wb.active
 
     myData = []
@@ -140,31 +146,62 @@ def read_external_effort():
                 db.session.commit()
                 myDataTotal += current_data[3]
                 myData.append(current_data)
-                print('\t{} add to database successfully'.format(current_data))
+                print('{} add to database successfully<br>'.format(current_data))
             except:
-                print('\t{} can not be added to database'.format(current_data))         
+                print('{} can not be added to database<br>'.format(current_data))         
         else:
-            print('\t{} has been dropped'.format(current_data))
+            print('{} has been dropped<br>'.format(current_data))
 
     now = str(datetime.now())[:10]
-    os.rename(myconfig['default']['external_effort']['filePath'], myconfig['default']['external_effort']['filePath'] + '_' + now)
-    shutil.copyfile('externalExpense_Template.xlsx', 'externalExpense.xlsx')
+    os.rename(myconfig['external_effort']['filePath'], myconfig['external_effort']['filePath'] + '_' + now)
+    shutil.copyfile('data4database/externalExpense_Template.xlsx', 'data4database/externalExpense.xlsx')
     myDataLength = len(myData)
-    print(str(myDataLength) + ' value read, sum of amount is ' + str(myDataTotal))
-
+    print('<h3>{} value read, sum of amount is {}</h3>'.format(str(myDataLength), str(myDataTotal)))
 
 def stage1_data2db():
+    print('<h1>Stage1: Read data into database</h1>')
     read_ecncost()
     read_billing_status()
     read_external_effort()
 
-def stage2_db2json():
-    return 0
+def stage2_db2csv():
+    print('<h1>Stage2: Export data to csv</h1>')
+    import pandas as pd
+    import sqlite3
+    myconfig = read_config_json()
+
+    conn = sqlite3.connect('effort_data.db')
+    cur = conn.cursor()
+
+    # refresh dataProfit.csv
+    cols1 = ['project','revenue_total','expense_total','profit']
+    cur.execute('SELECT project, sum(revenue), sum(expense), sum(revenue) - sum(expense) FROM (SELECT project AS project, amount AS expense, 0 AS revenue FROM expense_external UNION SELECT project AS project, 0 AS expense, amount*1.06 AS revenue FROM revenue AS foo) GROUP BY project')
+    result1 = pd.DataFrame(cur, columns=cols1)
+    file_to_write1 = myconfig['path_to_data4pivot'] + '/dataProfit.csv'
+    result1.to_csv(file_to_write1,index=False)
+
+    # refresh dataExpense.csv
+    cols2 = ['project','billDate','expense','category', 'partner']
+    cur.execute('SELECT project, invoice_date, amount, category, partner FROM expense_external')
+    result2 = pd.DataFrame(cur, columns=cols2)
+    file_to_write2 = myconfig['path_to_data4pivot'] + '/dataExpense.csv'
+    result2.to_csv(file_to_write2,index=False)
+
+    # refresh dataRevenue.csv
+    cols3 = ['project','billDate','revenue']
+    cur.execute('SELECT project, invoice_date, amount FROM revenue')
+    result3 = pd.DataFrame(cur, columns=cols3)
+    file_to_write3 = myconfig['path_to_data4pivot'] + '/dataRevenue.csv'
+    result3.to_csv(file_to_write3,index=False)
+
+    # refresh dataDumped.csv
+    cols4 = ['project','amount', 'billDate', 'type']
+    cur.execute('''SELECT project, amount, billDate, type FROM (SELECT project AS project, amount*(-1) AS amount, invoice_date AS billDate, '01-Vendor' AS type FROM expense_external UNION SELECT project AS project, amount*(-1) AS amount, invoice_date AS billDate, '02-RBEI' AS type FROM expense_internal UNION SELECT project AS project, amount*1.06 AS amount, invoice_date AS billDate, '03-Revenue' AS type FROM revenue AS foo)''')
+    result4 = pd.DataFrame(cur, columns=cols4)
+    file_to_write4 = myconfig['path_to_data4pivot'] + '/dataDumped.csv'
+    result4.to_csv(file_to_write4, index=False)
+
+    conn.close()
 
 if __name__ == '__main__':
-    # sys.stdout = open('log', 'w')
-    # print('u r directly execcutng this script')
-    # # read_ecncost()
-    # read_billing_status()
-    # sys.stdout.close()
-    stage1_data2db()
+    print('OK')

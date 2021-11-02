@@ -1,4 +1,0 @@
-	Invalid Project Name
-	['category', 'project', 'item', 'amount', 'invoice_date', 'partner'] has been dropped
-	['a', 'b', 'c', 12, datetime.datetime(2021, 12, 12, 0, 0), 'd'] add to database successfully
-1 value read, sum of amount is 12

@@ -1,7 +1,10 @@
-{"default": {
+{
     "debug": "on",
+    "path_to_logs": "logs",
+    "path_to_data4database": "data4database",
+    "path_to_data4pivot": "data4pivot",
     "ecnCost": {
-        "filePath": "ECN_Cost.xlsx",
+        "filePath": "data4database/ECN_Cost.xlsx",
         "sheetName": "default",
         "dataStartFromRow": 3,
         "dataEndAtRow": 14,
@@ -11,7 +14,7 @@
         "tableIndexColumn": 1
     },
     "billing_status": { 
-        "filePath": "Billing_Status_2021.xlsx",
+        "filePath": "data4database/Billing_Status_2021.xlsx",
         "sheetName": "Billing Status",
         "dataStartFromRow": 13,
         "dataEndAtRow": 69,
@@ -20,7 +23,7 @@
         "column_amount": 8
     },
     "external_effort": { 
-        "filePath": "externalExpense.xlsx"
+        "filePath": "data4database/externalExpense.xlsx"
     },
-    "projects": ["FE3AH", "FE5AB/6AB", "GE12B", "GE13", "DFM", "BYD", "RBJAC", "GAC", "BJEV", "HMI", "AE Testing", "V&V Testing", "Digital", "FE-6-A3", "AUDI_PPE&CADA&CAPA", "RBJAC_commercial"]
-}}   
+    "projects": ["FE3AH", "FE5AB/6AB", "GE12B", "GE13", "DFM", "BYD", "RBJAC", "GAC", "BJEV", "HMI", "AE Testing", "V&V Testing", "Digital", "FE-6-A3", "AUDI_PPE&CADA&CAPA", "RBJAC_commercial", "GAC_Complex Driver", "Overhead", "FE5AB/6AB_Extension", "FE5AB/6AB_3rd Party_1", "FE5AB/6AB_3rd Party_2", "UAES", "VF11-A2"]
+} 

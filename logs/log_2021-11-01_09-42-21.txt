@@ -1,0 +1,1410 @@
+<h1>Stage1: Read data into database</h1>
+<h2>Reading ecn_cost/internal_expense data...</h2>
+('BYD', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('GAC', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('RBJAC', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('BJEV', datetime.date(2021, 1, 1), 29012.423000000006) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 1, 1), 29012.423000000006) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('FE3AH', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('Overhead', datetime.date(2021, 1, 1), 145062.11500000002) add to database successfully<br>
+('BYD', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('GAC', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('RBJAC', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('BJEV', datetime.date(2021, 2, 1), 30451.089000000007) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 2, 1), 30451.089000000007) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('FE3AH', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('Overhead', datetime.date(2021, 2, 1), 152255.44500000004) add to database successfully<br>
+('BYD', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('GAC', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('RBJAC', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('BJEV', datetime.date(2021, 3, 1), 30189.037) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 3, 1), 30189.037) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('FE3AH', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('Overhead', datetime.date(2021, 3, 1), 150945.185) add to database successfully<br>
+('BYD', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('GAC', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('RBJAC', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('BJEV', datetime.date(2021, 4, 1), 25552.323999999997) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 4, 1), 25552.323999999997) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('Overhead', datetime.date(2021, 4, 1), 140537.78199999998) add to database successfully<br>
+('BYD', datetime.date(2021, 5, 1), 10997.956999999999) add to database successfully<br>
+('RBJAC', datetime.date(2021, 5, 1), 10997.956999999999) add to database successfully<br>
+('BJEV', datetime.date(2021, 5, 1), 21995.913999999997) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 5, 1), 21995.913999999997) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 5, 1), 10997.956999999999) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 5, 1), 10997.956999999999) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 5, 1), 21995.913999999997) add to database successfully<br>
+('Overhead', datetime.date(2021, 5, 1), 109979.56999999998) add to database successfully<br>
+('BYD', datetime.date(2021, 6, 1), 12488.367000000002) add to database successfully<br>
+('BJEV', datetime.date(2021, 6, 1), 12488.367000000002) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 6, 1), 37465.10100000001) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 6, 1), 12488.367000000002) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 6, 1), 12488.367000000002) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 6, 1), 37465.10100000001) add to database successfully<br>
+('Overhead', datetime.date(2021, 6, 1), 124883.67000000001) add to database successfully<br>
+('BYD', datetime.date(2021, 7, 1), 10209.5375) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 7, 1), 40838.15) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 7, 1), 20419.075) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 7, 1), 30628.612500000003) add to database successfully<br>
+('Overhead', datetime.date(2021, 7, 1), 102095.375) add to database successfully<br>
+('BYD', datetime.date(2021, 8, 1), 14994.108000000007) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 8, 1), 59976.43200000003) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 8, 1), 29988.216000000015) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 8, 1), 44982.32400000003) add to database successfully<br>
+('Overhead', datetime.date(2021, 8, 1), 149941.08000000007) add to database successfully<br>
+('BYD', datetime.date(2021, 9, 1), 12669.737500000003) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 9, 1), 50678.95000000001) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 9, 1), 25339.475000000006) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 9, 1), 38009.212500000016) add to database successfully<br>
+('Overhead', datetime.date(2021, 9, 1), 126697.37500000003) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 10, 1), 59920.793) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 10, 1), 14937.0915) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 10, 1), 74708.4575) add to database successfully<br>
+('Overhead', datetime.date(2021, 10, 1), 164363.0065) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 11, 1), 59920.793) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 11, 1), 14936.0915) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 11, 1), 74708.4575) add to database successfully<br>
+('Overhead', datetime.date(2021, 11, 1), 164363.0065) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 12, 1), 59920.793) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 12, 1), 14935.0915) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 12, 1), 74708.4575) add to database successfully<br>
+('Overhead', datetime.date(2021, 12, 1), 164363.0065) add to database successfully<br>
+<h3>77 value read, sum of amount is 3321027.915500002</h3>
+<h2>Reading billing_status/revenue data...</h2>
+('GE13', datetime.datetime(2019, 3, 30, 0, 0), 678867.9) add to database successfully<br>
+('GE13', datetime.datetime(2019, 8, 30, 0, 0), 678867.9) add to database successfully<br>
+('GE13', datetime.datetime(2019, 11, 30, 0, 0), 509150.9) add to database successfully<br>
+('GE13', datetime.datetime(2020, 2, 28, 0, 0), 509150.9) add to database successfully<br>
+('GE13', datetime.datetime(2020, 5, 31, 0, 0), 678867.9) add to database successfully<br>
+('GE13', datetime.datetime(2020, 11, 30, 0, 0), 339434) add to database successfully<br>
+('GE12B', datetime.datetime(2019, 7, 4, 0, 0), 358490.57) add to database successfully<br>
+('GE12B', datetime.datetime(2019, 8, 30, 0, 0), 448113.21) add to database successfully<br>
+('GE12B', datetime.datetime(2020, 2, 28, 0, 0), 89622.64) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 1, 30, 0, 0), 407337.358490566) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 3, 30, 0, 0), 407337.358490566) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 6, 30, 0, 0), 407337.358490566) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 10, 31, 0, 0), 611006.037735849) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 11, 4, 0, 0), 203668.679245283) add to database successfully<br>
+('FE5AB/6AB_Extension', datetime.datetime(2020, 8, 30, 0, 0), 122641.50943396226) add to database successfully<br>
+('FE5AB/6AB_3rd Party_1', datetime.datetime(2020, 8, 7, 0, 0), 75471.69811320755) add to database successfully<br>
+('FE5AB/6AB_3rd Party_2', datetime.datetime(2020, 9, 30, 0, 0), 80188.67924528301) add to database successfully<br>
+<b>!!!Invalid Invoice Date</b><br>
+UAES - 121500 has been dropped<br>
+('UAES', datetime.datetime(2019, 11, 30, 0, 0), 121500) add to database successfully<br>
+('BYD', datetime.datetime(2019, 10, 30, 0, 0), 438679.24528301886) add to database successfully<br>
+('BYD', datetime.datetime(2020, 11, 30, 0, 0), 438679.24528301886) add to database successfully<br>
+('BYD', datetime.datetime(2021, 11, 30, 0, 0), 438679.24528301886) add to database successfully<br>
+('BYD', datetime.datetime(2022, 4, 30, 0, 0), 146226.4150943396) add to database successfully<br>
+('GAC', datetime.datetime(2019, 11, 30, 0, 0), 633962.2641509434) add to database successfully<br>
+('GAC', datetime.datetime(2020, 11, 30, 0, 0), 316981.1320754717) add to database successfully<br>
+('GAC', datetime.datetime(2021, 3, 30, 0, 0), 475471.6981132075) add to database successfully<br>
+('GAC', datetime.datetime(2021, 9, 30, 0, 0), 158490.56603773584) add to database successfully<br>
+('DFM', datetime.datetime(2020, 8, 15, 0, 0), 339622.641509434) add to database successfully<br>
+('DFM', datetime.datetime(2020, 9, 30, 0, 0), 679245.283018868) add to database successfully<br>
+('DFM', datetime.datetime(2020, 12, 31, 0, 0), 113207.54716981133) add to database successfully<br>
+('FE3AH', datetime.datetime(2020, 7, 30, 0, 0), 377357.7358490566) add to database successfully<br>
+('FE3AH', datetime.datetime(2020, 9, 30, 0, 0), 471697.1698113207) add to database successfully<br>
+('FE3AH', datetime.datetime(2020, 11, 4, 0, 0), 94339.43396226416) add to database successfully<br>
+('RBJAC', datetime.datetime(2020, 9, 30, 0, 0), 579056.6037735848) add to database successfully<br>
+('RBJAC', datetime.datetime(2020, 11, 30, 0, 0), 965094.3396226414) add to database successfully<br>
+('RBJAC', datetime.datetime(2021, 4, 30, 0, 0), 386037.7358490566) add to database successfully<br>
+('BJEV', datetime.datetime(2020, 12, 15, 0, 0), 208806.2264150943) add to database successfully<br>
+('BJEV', datetime.datetime(2021, 5, 15, 0, 0), 1044031.1320754716) add to database successfully<br>
+('BJEV', datetime.datetime(2021, 9, 15, 0, 0), 139204.15094339623) add to database successfully<br>
+('GAC_Complex Driver', datetime.datetime(2021, 3, 1, 0, 0), 392452.8301886793) add to database successfully<br>
+('GAC_Complex Driver', datetime.datetime(2021, 11, 30, 0, 0), 1177358.4905660376) add to database successfully<br>
+('GAC_Complex Driver', datetime.datetime(2022, 5, 1, 0, 0), 392452.8301886793) add to database successfully<br>
+('RBJAC_commercial', datetime.datetime(2021, 4, 1, 0, 0), 320754.71698113205) add to database successfully<br>
+('RBJAC_commercial', datetime.datetime(2021, 6, 30, 0, 0), 801886.7924528301) add to database successfully<br>
+('RBJAC_commercial', datetime.datetime(2021, 6, 30, 0, 0), 481132.0754716981) add to database successfully<br>
+<b>!!!Invalid Invoice Date</b><br>
+FE-6-A3 12/12/2012 325471.69811320753 has been dropped<br>
+('FE-6-A3', datetime.datetime(2022, 4, 30, 0, 0), 433962.26415094343) add to database successfully<br>
+('FE-6-A3', datetime.datetime(2022, 10, 30, 0, 0), 216981.13207547172) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.datetime(2021, 11, 30, 0, 0), 3514150.943396226) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.datetime(2021, 12, 30, 0, 0), 3514150.943396226) add to database successfully<br>
+<b>!!!Invalid Project Name</b><br>
+Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+<b>!!!Invalid Project Name</b><br>
+Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+<b>!!!Invalid Project Name</b><br>
+Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+<b>!!!Invalid Project Name</b><br>
+Baoneng_GX16_EE / 367547.1698113207 has been dropped<br>
+('VF11-A2', datetime.datetime(2022, 3, 31, 0, 0), 305660.37735849054) add to database successfully<br>
+('VF11-A2', datetime.datetime(2022, 9, 30, 0, 0), 382075.4716981132) add to database successfully<br>
+('VF11-A2', datetime.datetime(2023, 3, 31, 0, 0), 76415.09433962264) add to database successfully<br>
+<h3>51 value read, sum of amount is 27181358.372830182</h3>
+<h2>Reading external_efoort...</h2>
+<b>!!!Invalid Project Name</b><br>
+['category', 'project', 'item', 'amount', 'invoice_date', 'partner'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense', 62.7, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Expense', 3293.5, 43709, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Expense', 18039.27, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Expense', 2300, 43862, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Expense', 3565, 43647, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Expense', 8783, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense', 5702.29, 43617, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense', 2560, 43678, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense', 17729.5, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense', 6263.5, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense', 4000, 43891, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'DFM', 'Expense - Caiyinan', 14100, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'DFM', 'Expense - Caiyinan', 8520.3, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'DFM', 'Expense - CaiYinan', 3775.75, 44136, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'DFM', 'Expense - CaiYinan&WangKe', 23404.84, 44166, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'DFM', 'Expense - CaiyinanWangke', 5838, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'DFM', 'Expense - CaiyinanWangke', 15300, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'DFM', 'Expense - DF', 3255, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - Fanguodong', 350, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense - Hanyixuan', 736, 43862, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense - Hanyixuan', 6100, 43891, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense - Hanyixuan', 6000, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense - Hanyixuan', 6689, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense - Hanyixuan', 500, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense - Liyan', 235, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - Lizhipeng', 4800, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - Lizhipeng', 36494, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - Lizhipeng', 5100, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - LiZhipeng', 4430, 44105, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - LiZhipeng', 10509, 44136, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - LiZhipeng&XuGang&WuDan', 16117.5, 44166, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - Other', 13013, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Expense - Other', 13013, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense - Other', 59200, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense - Other', 13013, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'BYD', 'Expense - Taowenqiang', 4816.96, 43891, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'BYD', 'Expense - Taowenqiang', 6783.4, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'BYD', 'Expense - Taowenqiang', 6548.37, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'BYD', 'Expense - Taowenqiang', 6903.58, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'BYD', 'Expense - Taowenqiang', 6923, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'BYD', 'Expense - Taowenqiang', 5423, 44044, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'DFM', 'Expense - Wangke', 1295, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'DFM', 'Expense - WangKe', 8100, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'DFM', 'Expense - WangKe', 16818.05, 44105, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'DFM', 'Expense - WangKe', 10397.84, 44136, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'DFM', 'Expense - WangKe', 5463.31, 44197, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - Wangyulong', 1880, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - Wangyulong', 1100, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - WangYulong', 1610, 44136, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - Wenmingxin', 4754.5, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - Wenmingxin', 80, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Expense - XuGang', 3064.28, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense - XuGang', 11250, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Expense of XuMengmeng', 3028.75, 43586, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense of XuMengmeng', 17227.22, 43525, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Resistance Box', 350, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Room Service', 450, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Room Service - Venu', 450, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', 'Shen Chunjian', 32175, 43678, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', 'Shen Chunjian', 16200, 43709, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'T-Box Testing', 18000, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Test Case Writing', 40500, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Test Case Writing', 102600, 43617, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Test case-Feb', 111600, 43497, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Test case-Jan', 84600, 43466, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Utility&Room Service', 1015.87, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Utility&Room Service', 4496.2, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Utility&Room Service', 506.87, 43862, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Utility&Room Service', 1476.49, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Utility&Room Service', 1105.59, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '于慧媛/Huiyuan Yu', 19950, 44197, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '代天文/Tianwen Dai', 7200, 43678, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '代天文/Tianwen Dai', 43065, 43709, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '代天文/Tianwen Dai', 46091.25, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '代天文/Tianwen Dai', 43425, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '代天文/Tianwen Dai', 45967.5, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'RBJAC', '1st Payment of Brilliance-Renault Project', 495000, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GAC', 'Apartment - Manoj', 9373.2, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GAC', 'Apartment - Manoj', 4686.6, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GAC', 'Apartment - Manoj', 5148.49, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GAC', 'Apartment - Manoj', 4944, 44105, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GAC', 'Apartment - Manoj', 4901.88, 44136, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GAC', 'Apartment - Manoj', 4847.8, 44166, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GAC', 'Apartment - Manoj', 4874.84, 44197, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Apartment - Manoj', 4433.37, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Apartment - Manoj', 666, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Apartment - Venu', 52.33, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Apartment - Venu', 78.55, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Apartment - Venu', 384.75, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Apartment for Mar-Jun2019', 10500, 43497, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Apartment rental', 21000, 43617, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Apartment Rental - Manoj', 21000, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Apartment Rental - Manoj', 14000, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Apartment Rental - Venu', 21000, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Apartment renteal&Utility', 25348.3, 43709, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Apartment&Electricity - Venu', 7063.11, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'BCM Testing', 18000, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'BJ Biding', 3161, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Cables-Dec2018', 30150, 43435, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'CANoe', 2666.67, 43709, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'CANoe', 4000, 43647, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'CANoe', 4000, 43678, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'CANoe', 2666.67, 43709, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'CANoe', 4000, 43647, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'CANoe', 4000, 43678, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'CANoe', 2666.67, 43709, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'CANoe+Canalyzer', 16297.85, 43770, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'CANoe+Canalyzer', 16297.85, 43770, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'DESAY MMI Testing Fee', 60000, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'DESAY MMI Testing Fee', 65000, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'DF NEV Project', 18000, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'DFM', 'DF New Energy Project', 45900, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Expense Purchase', 10125, 43435, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Expense purchase', 17883, 43525, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense purchase', 17883, 43525, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense rent from ETAS', 11925, 43435, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Expense rent from For you', 14400, 43435, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Expense rental', 5419.35, 43739, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Expense rental', 5419.35, 43739, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense rental', 5419.35, 43739, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Expense Rental Feb', 33986.5, 43497, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense Rental Jan', 23287.5, 43466, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Euiqment rental', 1600, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Euiqment rental', 5122.22, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'Euiqment rental', 1233.33, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 13233.33, 43709, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 15900, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 27850, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 23850, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 7661.29, 43800, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 19850, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 19850, 43862, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 19850, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 2967.74, 43891, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 21527.42, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 6133.33, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 23850, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 8000.1387, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 16850, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 1600, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 15350, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 5122.22, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 1233.33, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 300, 44105, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 300, 44136, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Euiqment rental', 21850, 43525, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Euiqment rental', 20887.1, 43556, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Euiqment rental', 21850, 43586, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Euiqment rental', 18916.67, 43617, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Euiqment rental', 19850, 43647, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Euiqment rental', 19850, 43678, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Euiqment rental', 13233.33, 43709, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Euiqment rental', 15900, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 21850, 43525, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 20887.1, 43556, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 21850, 43586, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 18916.67, 43617, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 19850, 43647, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 19850, 43678, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 13233.33, 43709, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 15900, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 27850, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 23850, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 7661.29, 43800, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 19850, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 19850, 43862, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 19850, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 2967.74, 43891, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 21527.42, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 6133.33, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 23850, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 8000.14, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 16850, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 1600, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 15350, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 5122.22, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Euiqment rental', 1233.33, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Expense on Geely Project', 35317.74, 43800, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Expense on Geely Projects', 31427.8, 43770, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', 'FE-3AH Test Case', 46800.48, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'FE-6AB Test Case', 21599.7, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Function&Network testing', 100000, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE5AB/6AB', 'Infotainment Testing', 54000, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE12B', 'Intern Fee', 10784, 43525, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Intern Fee', 6246.5, 43556, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Intern Fee', 9196.5, 43586, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Intern Fee-Feb', 4922, 43497, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Intern Fee-Jan', 15637.5, 43466, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Internet Fee', 3500, 43647, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', 'Li Xinhui', 43680, 43709, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', 'Li Xinhui', 44100, 43739, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', 'Li Xinhui', 3780, 43709, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'RBJAC', 'Payment of Brilliance-Renault Project', 330000, 44105, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'RBJAC', 'Payment of Brilliance-Renault Project', 495000, 44136, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'BJEV', 'Payment of Tsinghua University Project', 250000, 44105, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '代天文/Tianwen Dai', 29070, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE12B', '博阳/Yang Bo', 34537.5, 43466, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE12B', '博阳/Yang Bo', 32400, 43497, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '博阳/Yang Bo', 44550, 43525, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '博阳/Yang Bo', 40950, 43556, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '博阳/Yang Bo', 27562.5, 43586, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '叶贤辉/Xianhui Ye', 47936.25, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '叶贤辉/Xianhui Ye', 64035, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '叶贤辉/Xianhui Ye', 51176.25, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '叶贤辉/Xianhui Ye', 41512, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', '吉利FE-6-A3项目耗材/Geely Project', 38882, 44197, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '周梦雪/Mengxue Zhou', 19974.375, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '周梦雪/Mengxue Zhou', 25016.25, 44044, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '周梦雪/Mengxue Zhou', 18988.13, 44075, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '周梦雪/Mengxue Zhou', 14540.625, 44105, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '周梦雪/Mengxue Zhou', 2915.53, 44166, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 14400, 43647, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 38362.5, 43678, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 37800, 43709, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 38925, 43739, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 51070.175, 43770, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 50539.3, 43800, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 26775, 43831, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 29250, 43862, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 45899.45, 43891, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 53550.42, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 47587.64, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 35662, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 19974.38, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 25016.25, 44044, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 18988.125, 44075, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 14540.63, 44105, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 18354.38, 44136, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 18354.375, 44136, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 2915.53, 44166, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'HMI', '孙胜龙/Shenglong Sun', 37800, 44044, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'HMI', '孙胜龙/Shenglong Sun', 39900, 44075, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'HMI', '孙胜龙/Shenglong Sun', 31395, 44105, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'HMI', '孙胜龙/Shenglong Sun', 35280, 44136, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'HMI', '孙胜龙/Shenglong Sun', 41370, 44166, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'HMI', '孙胜龙/Shenglong Sun', 36120, 44197, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 3600, 43497, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 5175, 43525, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 40500, 43556, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 39375, 43586, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 38025, 43617, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 49938.75, 43647, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 47767.5, 43678, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 39060, 43709, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 39903.75, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 45720, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 43987.5, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 30993.75, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 23625, 43862, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 52593.75, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 49275, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 49680, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 39228.75, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '张海洋/Haiyang Zhang', 1999.85, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '张海洋/Haiyang Zhang', 3833.33, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '张海洋/Haiyang Zhang', 2750, 44044, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '张海洋/Haiyang Zhang', 2187.5, 44075, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张海洋/Haiyang Zhang', 1999.85, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张海洋/Haiyang Zhang', 3833.33, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张海洋/Haiyang Zhang', 2750, 44044, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张海洋/Haiyang Zhang', 2187.5, 44075, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '张海洋/Haiyang Zhang', 1999.8484, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '张海洋/Haiyang Zhang', 3833.33, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '张海洋/Haiyang Zhang', 2750, 44044, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '张海洋/Haiyang Zhang', 2187.5, 44075, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 22680, 43739, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 51240, 43770, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 47460, 43800, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 26250, 43831, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 28455, 43862, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 41895, 43891, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 60690, 43922, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 60480, 43952, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 43260, 43983, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 48825, 44013, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 52815, 44044, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 40425, 44075, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 38430, 44166, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 24150, 44197, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE12B', '徐萌萌/Mengmeng Xu', 28800, 43497, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 32625, 43405, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 32625, 43435, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 51300, 43466, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 54450, 43525, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 37800, 43556, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 48937.5, 43586, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 39262.5, 43617, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 50186.25, 43647, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 48633.75, 43678, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 42806.25, 43709, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 48813.75, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 55125, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 47081.25, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 29295, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 15187.5, 43862, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 50737.5, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 46698.75, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 18000, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 29193.75, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 56733.75, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 47823.75, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 33052.5, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 29925, 43862, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 52965, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 62673.75, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 54810, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 51165, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 56362, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 47250, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 32962.5, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 22387.5, 44105, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '易晨/Cheng Yi', 26105.63, 44166, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '易晨/Cheng Yi', 2786.25, 44197, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 24300, 43862, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 6637.5, 43862, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 54000.61, 43891, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 57374.85, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 51412.06, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 48938.18, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 46612.5, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 49717.5, 44044, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 38088.75, 44075, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 35212.5, 44105, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 38700, 44136, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 26105.63, 44166, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 2786.25, 44197, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '易晨/Cheng Yi', 47700, 43739, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '易晨/Cheng Yi', 49159.025, 43770, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '易晨/Cheng Yi', 49583.7, 43800, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '易晨/Cheng Yi', 23626.1, 43831, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 30600, 43586, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 42300, 43617, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 47340, 43647, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 46901.25, 43678, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 42693.75, 43709, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 49927.5, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 50670, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 44977.5, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 35055, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 25200, 43862, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 51232.5, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 50051.25, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 50670, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 2700, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 1800, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 11587.5, 43586, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 44887.5, 43617, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 48948.75, 43647, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 44426.25, 43678, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 13351.5, 43709, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 44583.75, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 55248.75, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 53145, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 7200, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 24300.27, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 24300.27, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 21768.75, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 25511.25, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 19635, 44044, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 23229.38, 44075, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 18279.375, 44105, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 14503.13, 44136, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 4006.88, 44166, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 42862.85, 43891, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 24300.27, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 24300.2722, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 21768.75, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 25511.25, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 19635, 44044, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 23229.375, 44075, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 18279.38, 44105, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 14503.125, 44136, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 4006.88, 44166, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE12B', '杨波涛/Botao Yang', 48600, 43647, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE12B', '杨波涛/Botao Yang', 64912.5, 43678, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE12B', '杨波涛/Botao Yang', 31387.5, 43709, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE12B', '杨波涛/Botao Yang', 41625, 43739, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE12B', '杨波涛/Botao Yang', 43637.925, 43770, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE12B', '杨波涛/Botao Yang', 35993.3, 43800, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '杨波涛/Botao Yang', 22949.9, 43831, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '杨波涛/Botao Yang', 13500, 43862, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE12B', '汤元/Yuan Tang', 21600, 43497, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 34560, 43466, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 31680, 43525, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 37800, 43556, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 31590, 43586, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 29160, 43617, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 33813, 43647, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 15840, 43678, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王嘉伟/Jiawei Wang', 44842.5, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王嘉伟/Jiawei Wang', 50883.75, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王嘉伟/Jiawei Wang', 48127.5, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王嘉伟/Jiawei Wang', 53887.5, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王嘉伟/Jiawei Wang', 45450, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王嘉伟/Jiawei Wang', 28687.5, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 20160, 43770, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 46200, 43800, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 27930, 43831, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 17220, 43862, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 15172.5, 43891, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 25410, 43922, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 2835, 43952, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '王林辉/Linhui Wang', 15172.5, 43891, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '王林辉/Linhui Wang', 25410, 43922, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '王林辉/Linhui Wang', 2835, 43952, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 34377.75, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 34411.5, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 37638, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 30692.25, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 35100, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 26550, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 18000, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 14737.5, 44105, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 8100, 44136, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 38666.25, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 52526.25, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 47576.25, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 32703.75, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 29565, 43862, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 22918.5, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 22941, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 25092, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 20461.5, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 23400, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 26550, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 18000, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 14737.5, 44105, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 8100, 44136, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 40680, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 34200, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 35437.5, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 55800, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 44437.5, 44105, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 61762.5, 44136, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 59062, 44166, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 32625, 44197, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 42502.5, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 55710, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 45596.25, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 34998.75, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 26775, 43862, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 53460, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 52773.75, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 47328.75, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 48870, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 49275, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 42750, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 23850, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 32850, 44105, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 30600, 44136, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '范国栋/Guodong Fan', 14850, 43709, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 43425, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 23400, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 15412.5, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 1687.5, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 0, 44105, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 21487.5, 44136, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 42525, 44166, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 11587.5, 44197, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '谢厚德/Houde Xie', 18000, 43586, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '谢厚德/Houde Xie', 23400, 43617, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '赵洪飞/Hongfei Zhao', 36787.5, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '赵洪飞/Hongfei Zhao', 39600, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '赵洪飞/Hongfei Zhao', 33975, 44105, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '赵洪飞/Hongfei Zhao', 37800, 44136, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '赵洪飞/Hongfei Zhao', 7200, 44166, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 37800, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 48937.5, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 45967.5, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 28800, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 21150, 43862, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 51356.25, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 52402.5, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 43616.25, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 47823.75, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 44775, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 19125, 43739, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 46292.3, 43770, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 47723.7, 43800, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 23850, 43831, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 0, 43862, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 52650.26, 43891, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 54112.14, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 49274.95, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 42862.5, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 3789.54, 44136, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '陈威迪/Weidi Chen', 41511.76, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '陈威迪/Weidi Chen', 52200.96, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '陈威迪/Weidi Chen', 41850, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '陈威迪/Weidi Chen', 40207.5, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE12B', '陈康康/Kangkang Chen', 23175, 43497, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE12B', '陈康康/Kangkang Chen', 36000, 43525, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE12B', '陈康康/Kangkang Chen', 29340, 43556, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈康康/Kangkang Chen', 17500, 43405, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈康康/Kangkang Chen', 17500, 43435, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈康康/Kangkang Chen', 48375, 43466, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈康康/Kangkang Chen', 43312.5, 43586, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈康康/Kangkang Chen', 32850, 43617, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'AE Testing', '陈洽/Qia Chen', 59535, 44105, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'AE Testing', '陈洽/Qia Chen', 36120, 44166, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'AE Testing', '陈洽/Qia Chen', 27930, 44197, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', '陈洽/Qia Chen', 40110, 44136, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 15750, 43405, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 15750, 43435, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 53550, 43466, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 28125, 43497, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 42075, 43525, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 33750, 43556, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 37350, 43586, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 38362.5, 43617, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 43998.75, 43647, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 9000, 43678, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 48375, 43709, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 40950, 43739, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 46186.125, 43770, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 47276.6, 43800, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 28325.7, 43831, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 7152.96, 43862, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 19800.29, 43891, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 39600.57, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 30599.02, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 30599.02, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 52068.75, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 47280, 44044, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 19140, 44075, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '韩松松/Songsong Han', 32624.2, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '韩松松/Songsong Han', 51749.43, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '韩松松/Songsong Han', 45000, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '韩松松/Songsong Han', 48000, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '韩松松/Songsong Han', 46316.25, 44044, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '韩松松/Songsong Han', 14936.25, 44075, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '韩译萱/Yixuan Han', 44549.53, 43891, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '韩译萱/Yixuan Han', 52312.73, 43922, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '韩译萱/Yixuan Han', 42075.05, 43952, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '韩译萱/Yixuan Han', 9000, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'HMI', '韩译萱/Yixuan Han', 25370.7, 43800, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'HMI', '韩译萱/Yixuan Han', 19800, 43831, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'HMI', '韩译萱/Yixuan Han', 28611.84, 43862, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '黄翔/Xiang Huang', 999.18, 43983, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '黄翔/Xiang Huang', 18000, 44013, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '黄翔/Xiang Huang', 12125, 44044, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Apartment for Dec2018 to Feb2019', 16875, 43435, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Apartment for Dec2018 to Feb2019', 16650, 43435, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'HMI', '孙胜龙/shenglong Sun', 21210, 44228, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'AE Testing', '陈洽/qia Chen', 27930, 44228, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '王玉龙/Yulong Wang', 36330, 44228, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'AE Testing', 'Chen qia Expense', 2103.5, 44228, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'GE13', 'Yulong Wang Expense', 670.5, 44228, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '易晨', 9348.75, 44228, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', 'Kern Wang/王科', 20137.5, 44228, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'DFM', 'Yinan Cai/蔡乙男', 29925, 44228, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE3AH', '李志鹏 Expense', 4548, 44228, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'V&V Testing', '文明鑫/ Mingxin Wen', 9400, 44136, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'V&V Testing', '王玉龙/Yulong Wang', 240, 44136, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/ Mingxin Wen', 14070, 44166, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '王玉龙/Yulong Wang', 35490, 44166, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '王玉龙/Yulong Wang', 36330, 44197, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'RBJAC', '华晨雷诺项目尾款/Last Payment of Huachen Renault Project', 330000, 44166, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'BJEV', '北汽新能源代收款/BeiQi Project Payment', 200000, 44166, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 2700, 44075, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 3600, 44044, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 14850, 44013, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 41861.25, 43983, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 44741.25, 43952, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 45607.5, 43922, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 52098.75, 43891, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 22702.5, 43862, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 28057.5, 43831, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 45348.75, 43800, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 43987.5, 43770, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 39093.75, 43739, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 37237.5, 43709, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 39600, 43678, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 43998.75, 43647, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 38362.5, 43617, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 37350, 43586, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 33750, 43556, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 42075, 43525, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'BYD', '报销费用/Expense - Taowenqiang', 5329.2, 44075, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'RBJAC', 'Kern Wang/王科', 2700, 44256, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'Digital', 'Expense - xugang', 7116, 44256, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '易晨', 29580.75, 44256, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'BYD', '陶文强', 5364.72, 44256, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'BYD', '陶文强', 2985.4, 44256, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'HMI', '孙胜龙/shenglong Sun', 40740, 44256, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'AE Testing', '陈洽/qia Chen', 27930, 44256, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'V&V Testing', '王玉龙/Yulong Wang', 36330, 44256, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '张高磊/gaoleo\xa0 zhang', 11655, 44256, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'AE Testing', '陈洽/qia Chen', 5530, 44256, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'V&V Testing', '王玉龙/Yulong Wang', 490, 44256, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'AE Testing', '陈洽/qia Chen', 10080, 44287, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '王玉龙/Yulong Wang', 3360, 44287, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'HMI', '孙胜龙/shenglong Sun', 16170, 44287, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '孙胜龙/shenglong Sun', 34335, 44317, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE-6-A3', 'Expense - Sunshenglong', 2350, 44317, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '卢涛', 19800, 44317, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE-6-A3', '王斌', 1200, 44317, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE-6-A3', '卢涛', 600, 44317, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE-6-A3', '租房-许进', 9000, 44317, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'BJEV', '北汽新能源BMS测试服务项目', 350000, 44317, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE3AH', '易晨', 22644, 44287, 'Jintech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '孙胜龙/shenglong Sun', 34335, 44348, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE-6-A3', 'Expense - Sunshenglong', 2350, 44348, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '卢涛', 38587.5, 44348, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '杨远久', 6750, 44348, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '王嘉伟/Jiawei Wang', 12937.5, 44348, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '徐耀威', 1912.5, 44348, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE-6-A3', 'Expense - 王嘉伟', 1200, 44348, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE-6-A3', 'Expense - 王斌', 13719.96, 44348, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '卢涛', 42525, 44378, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '杨远久', 13837, 44378, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '徐耀威', 14625, 44378, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'AUDI_PPE&CADA&CAPA', 'Expense - 王斌', 6974, 44378, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'RBJAC_commercial', 'waylancer', 395000, 44287, 'waylancer'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'RBJAC_commercial', 'waylancer', 395000, 44317, 'waylancer'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'RBJAC_commercial', 'waylancer', 395000, 44348, 'waylancer'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'RBJAC_commercial', 'waylancer', 395000, 44378, 'waylancer'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '孙胜龙/shenglong Sun', 42105, 44378, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE-6-A3', 'Expense - Sunshenglong', 4378, 44378, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '孙胜龙/shenglong Sun', 47565, 44409, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '孙胜龙/shenglong Sun', 39585, 44440, 'Cantech'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '李玉鹏', 11925, 44440, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '徐耀威', 7200, 44440, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE-6-A3', None, 86500, 44440, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE-6-A3', '许进', 265.1, 44440, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE-6-A3', '杭州湾租房', 160.85, 44440, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE-6-A3', '福利费', 1000, 44440, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '徐耀威', 9900, 44409, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['EngineerCost', 'FE-6-A3', '王科', 4612.5, 44409, 'Foryou'] has been dropped<br>
+<b>!!!Invalid Invoice Date</b><br>
+['Expense', 'FE-6-A3', '杭州湾租房', 1180, 44409, 'Foryou'] has been dropped<br>
+<h3>0 value read, sum of amount is 0</h3>
+<h1>Stage2: Export data to csv</h1>

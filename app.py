@@ -16,13 +16,19 @@ def index():
 
 @app.route('/run')
 def run():
-    # from myutils import stage1_data2db
+    from myutils import stage1_data2db, stage2_db2csv, read_config_json
     from io import StringIO
-    # stage1_data2db()
+    
+    original_stdout = sys.stdout
     tmp_out = StringIO()
     sys.stdout = tmp_out
-    print('ok')
-    sys.stdout.close()
+    stage1_data2db()
+    stage2_db2csv()
+    myconfig = read_config_json()
+    log_name = myconfig['path_to_logs'] + '/log_' + str(datetime.utcnow())[:19].replace(' ', '_').replace(':','-') + '.txt'
+    with open(log_name, 'w') as f:
+        f.write(tmp_out.getvalue())
+    sys.stdout = original_stdout
     return '<p>{}</p>'.format(tmp_out.getvalue())
 
 @app.route('/update_config', methods=['POST', 'GET'])
@@ -45,7 +51,17 @@ def showall():
     revenue = Revenue.query.order_by(Revenue.created_date)
     
     return render_template("showall.html", revenue=revenue, internal_expense=internal_expense, external_expense=external_expense)
-    # return expense_internal
+
+@app.route('/delete/<id>')
+def delete(id):
+    record_to_delete = ExpenseExternal.query.get_or_404(id)
+    try:
+        db.session.delete(record_to_delete)
+        db.session.commit()
+    except:
+        return '<h1>There is a problem when deleting, please try again..</h1>'
+    
+    return redirect(url_for('showall'))
 
 class ExpenseInternal(db.Model):
     id = db.Column(db.Integer, primary_key=True)

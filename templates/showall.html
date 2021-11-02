@@ -6,21 +6,43 @@
 
 {% block body %}
 <div class="content">
-    <h2>DB:Table:External_expense</h2>
-    <table>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+        <a class="navbar-brand" href="#">NavBar</a>
+        <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button> -->
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="#db-external-expense">External Expense</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#db-internal-expense">Internal Expense</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#db-revenue">Revenue</a>
+            </li>
+          </ul>
+        </div>
+        </div>
+      </nav>
+      <br>
+    <h2 id="db-external-expense">DB:Table:External_expense</h2>
+    <table class="table">
         <tr>
-            <td>id</td><td>project</td><td>item</td><td>invoice_date</td><td>created_date</td><td>amount</td><td>category</td><td>partner</td>
+            <th scope="col">id</th><th scope="col">project</th><th scope="col">item</th><th scope="col">invoice_date</th><th scope="col">created_date</th><th scope="col">amount</th><th scope="col">category</th><th scope="col">partner</th><th scope="col">DELETE</th>
         </tr>
         {% for item in external_expense %}
         <tr>
-            <td>{{ item.id }}</td><td>{{ item.project }}</td><td>{{ item.item }}</td><td>{{ item.invoice_date }}</td><td>{{ item.created_date }}</td><td>{{ item.amount }}</td><td>{{ item.category }}</td><td>{{ item.partner }}</td>
+            <td>{{ item.id }}</td><td>{{ item.project }}</td><td>{{ item.item }}</td><td>{{ item.invoice_date }}</td><td>{{ item.created_date }}</td><td>{{ item.amount }}</td><td>{{ item.category }}</td><td>{{ item.partner }}</td><td><a href="{{ url_for('delete', id=item.id)}}"">Delete!</a></td>
         </tr>
         {% endfor %} 
     </table> 
-    <h2>DB:Table:Internal_expense</h2>
-    <table>
+    <h2 id="db-internal-expense">DB:Table:Internal_expense</h2>
+    <table class="table">
         <tr>
-            <td>id</td><td>project</td><td>invoice_date</td><td>created_date</td><td>amount</td>
+            <th scope="col">id</th><th scope="col">project</th><th scope="col">invoice_date</th><th scope="col">created_date</th><th scope="col">amount</th>
         </tr>
         {% for item in internal_expense %}
         <tr>
@@ -28,10 +50,10 @@
         </tr>
         {% endfor %} 
     </table> 
-    <h2>DB:Table:Revenue</h2>
-    <table>
+    <h2 id="db-revenue">DB:Table:Revenue</h2>
+    <table class="table">
         <tr>
-            <td>id</td><td>project</td><td>invoice_date</td><td>created_date</td><td>amount</td>
+            <th scope="col">id</th><th scope="col">project</th><th scope="col">invoice_date</th><th scope="col">created_date</th><th scope="col">amount</th>
         </tr>
         {% for item in revenue %}
         <tr>

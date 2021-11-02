@@ -1,0 +1,151 @@
+<h1>Stage1: Read data into database</h1>
+<h2>Reading ecn_cost/internal_expense data...</h2>
+('BYD', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('GAC', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('RBJAC', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('BJEV', datetime.date(2021, 1, 1), 29012.423000000006) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 1, 1), 29012.423000000006) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('FE3AH', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('Overhead', datetime.date(2021, 1, 1), 145062.11500000002) add to database successfully<br>
+('BYD', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('GAC', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('RBJAC', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('BJEV', datetime.date(2021, 2, 1), 30451.089000000007) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 2, 1), 30451.089000000007) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('FE3AH', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('Overhead', datetime.date(2021, 2, 1), 152255.44500000004) add to database successfully<br>
+('BYD', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('GAC', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('RBJAC', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('BJEV', datetime.date(2021, 3, 1), 30189.037) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 3, 1), 30189.037) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('FE3AH', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('Overhead', datetime.date(2021, 3, 1), 150945.185) add to database successfully<br>
+('BYD', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('GAC', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('RBJAC', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('BJEV', datetime.date(2021, 4, 1), 25552.323999999997) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 4, 1), 25552.323999999997) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('Overhead', datetime.date(2021, 4, 1), 140537.78199999998) add to database successfully<br>
+('BYD', datetime.date(2021, 5, 1), 10997.956999999999) add to database successfully<br>
+('RBJAC', datetime.date(2021, 5, 1), 10997.956999999999) add to database successfully<br>
+('BJEV', datetime.date(2021, 5, 1), 21995.913999999997) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 5, 1), 21995.913999999997) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 5, 1), 10997.956999999999) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 5, 1), 10997.956999999999) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 5, 1), 21995.913999999997) add to database successfully<br>
+('Overhead', datetime.date(2021, 5, 1), 109979.56999999998) add to database successfully<br>
+('BYD', datetime.date(2021, 6, 1), 12488.367000000002) add to database successfully<br>
+('BJEV', datetime.date(2021, 6, 1), 12488.367000000002) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 6, 1), 37465.10100000001) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 6, 1), 12488.367000000002) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 6, 1), 12488.367000000002) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 6, 1), 37465.10100000001) add to database successfully<br>
+('Overhead', datetime.date(2021, 6, 1), 124883.67000000001) add to database successfully<br>
+('BYD', datetime.date(2021, 7, 1), 10209.5375) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 7, 1), 40838.15) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 7, 1), 20419.075) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 7, 1), 30628.612500000003) add to database successfully<br>
+('Overhead', datetime.date(2021, 7, 1), 102095.375) add to database successfully<br>
+('BYD', datetime.date(2021, 8, 1), 14994.108000000007) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 8, 1), 59976.43200000003) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 8, 1), 29988.216000000015) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 8, 1), 44982.32400000003) add to database successfully<br>
+('Overhead', datetime.date(2021, 8, 1), 149941.08000000007) add to database successfully<br>
+('BYD', datetime.date(2021, 9, 1), 12669.737500000003) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 9, 1), 50678.95000000001) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 9, 1), 25339.475000000006) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 9, 1), 38009.212500000016) add to database successfully<br>
+('Overhead', datetime.date(2021, 9, 1), 126697.37500000003) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 10, 1), 59920.793) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 10, 1), 14937.0915) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 10, 1), 74708.4575) add to database successfully<br>
+('Overhead', datetime.date(2021, 10, 1), 164363.0065) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 11, 1), 59920.793) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 11, 1), 14936.0915) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 11, 1), 74708.4575) add to database successfully<br>
+('Overhead', datetime.date(2021, 11, 1), 164363.0065) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 12, 1), 59920.793) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 12, 1), 14935.0915) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 12, 1), 74708.4575) add to database successfully<br>
+('Overhead', datetime.date(2021, 12, 1), 164363.0065) add to database successfully<br>
+<h3>77 value read, sum of amount is 3321027.915500002</h3>
+<h2>Reading billing_status/revenue data...</h2>
+('GE13', datetime.datetime(2019, 3, 30, 0, 0), 678867.9) add to database successfully<br>
+('GE13', datetime.datetime(2019, 8, 30, 0, 0), 678867.9) add to database successfully<br>
+('GE13', datetime.datetime(2019, 11, 30, 0, 0), 509150.9) add to database successfully<br>
+('GE13', datetime.datetime(2020, 2, 28, 0, 0), 509150.9) add to database successfully<br>
+('GE13', datetime.datetime(2020, 5, 31, 0, 0), 678867.9) add to database successfully<br>
+('GE13', datetime.datetime(2020, 11, 30, 0, 0), 339434) add to database successfully<br>
+('GE12B', datetime.datetime(2019, 7, 4, 0, 0), 358490.57) add to database successfully<br>
+('GE12B', datetime.datetime(2019, 8, 30, 0, 0), 448113.21) add to database successfully<br>
+('GE12B', datetime.datetime(2020, 2, 28, 0, 0), 89622.64) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 1, 30, 0, 0), 407337.358490566) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 3, 30, 0, 0), 407337.358490566) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 6, 30, 0, 0), 407337.358490566) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 10, 31, 0, 0), 611006.037735849) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 11, 4, 0, 0), 203668.679245283) add to database successfully<br>
+('FE5AB/6AB_Extension', datetime.datetime(2020, 8, 30, 0, 0), 122641.50943396226) add to database successfully<br>
+('FE5AB/6AB_3rd Party_1', datetime.datetime(2020, 8, 7, 0, 0), 75471.69811320755) add to database successfully<br>
+('FE5AB/6AB_3rd Party_2', datetime.datetime(2020, 9, 30, 0, 0), 80188.67924528301) add to database successfully<br>
+<b>!!!Invalid Invoice Date</b><br>
+UAES - 121500 has been dropped<br>
+('UAES', datetime.datetime(2019, 11, 30, 0, 0), 121500) add to database successfully<br>
+('BYD', datetime.datetime(2019, 10, 30, 0, 0), 438679.24528301886) add to database successfully<br>
+('BYD', datetime.datetime(2020, 11, 30, 0, 0), 438679.24528301886) add to database successfully<br>
+('BYD', datetime.datetime(2021, 11, 30, 0, 0), 438679.24528301886) add to database successfully<br>
+('BYD', datetime.datetime(2022, 4, 30, 0, 0), 146226.4150943396) add to database successfully<br>
+('GAC', datetime.datetime(2019, 11, 30, 0, 0), 633962.2641509434) add to database successfully<br>
+('GAC', datetime.datetime(2020, 11, 30, 0, 0), 316981.1320754717) add to database successfully<br>
+('GAC', datetime.datetime(2021, 3, 30, 0, 0), 475471.6981132075) add to database successfully<br>
+('GAC', datetime.datetime(2021, 9, 30, 0, 0), 158490.56603773584) add to database successfully<br>
+('DFM', datetime.datetime(2020, 8, 15, 0, 0), 339622.641509434) add to database successfully<br>
+('DFM', datetime.datetime(2020, 9, 30, 0, 0), 679245.283018868) add to database successfully<br>
+('DFM', datetime.datetime(2020, 12, 31, 0, 0), 113207.54716981133) add to database successfully<br>
+('FE3AH', datetime.datetime(2020, 7, 30, 0, 0), 377357.7358490566) add to database successfully<br>
+('FE3AH', datetime.datetime(2020, 9, 30, 0, 0), 471697.1698113207) add to database successfully<br>
+('FE3AH', datetime.datetime(2020, 11, 4, 0, 0), 94339.43396226416) add to database successfully<br>
+('RBJAC', datetime.datetime(2020, 9, 30, 0, 0), 579056.6037735848) add to database successfully<br>
+('RBJAC', datetime.datetime(2020, 11, 30, 0, 0), 965094.3396226414) add to database successfully<br>
+('RBJAC', datetime.datetime(2021, 4, 30, 0, 0), 386037.7358490566) add to database successfully<br>
+('BJEV', datetime.datetime(2020, 12, 15, 0, 0), 208806.2264150943) add to database successfully<br>
+('BJEV', datetime.datetime(2021, 5, 15, 0, 0), 1044031.1320754716) add to database successfully<br>
+('BJEV', datetime.datetime(2021, 9, 15, 0, 0), 139204.15094339623) add to database successfully<br>
+('GAC_Complex Driver', datetime.datetime(2021, 3, 1, 0, 0), 392452.8301886793) add to database successfully<br>
+('GAC_Complex Driver', datetime.datetime(2021, 11, 30, 0, 0), 1177358.4905660376) add to database successfully<br>
+('GAC_Complex Driver', datetime.datetime(2022, 5, 1, 0, 0), 392452.8301886793) add to database successfully<br>
+('RBJAC_commercial', datetime.datetime(2021, 4, 1, 0, 0), 320754.71698113205) add to database successfully<br>
+('RBJAC_commercial', datetime.datetime(2021, 6, 30, 0, 0), 801886.7924528301) add to database successfully<br>
+('RBJAC_commercial', datetime.datetime(2021, 6, 30, 0, 0), 481132.0754716981) add to database successfully<br>
+<b>!!!Invalid Invoice Date</b><br>
+FE-6-A3 12/12/2012 325471.69811320753 has been dropped<br>
+('FE-6-A3', datetime.datetime(2022, 4, 30, 0, 0), 433962.26415094343) add to database successfully<br>
+('FE-6-A3', datetime.datetime(2022, 10, 30, 0, 0), 216981.13207547172) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.datetime(2021, 11, 30, 0, 0), 3514150.943396226) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.datetime(2021, 12, 30, 0, 0), 3514150.943396226) add to database successfully<br>
+<b>!!!Invalid Project Name</b><br>
+Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+<b>!!!Invalid Project Name</b><br>
+Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+<b>!!!Invalid Project Name</b><br>
+Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+<b>!!!Invalid Project Name</b><br>
+Baoneng_GX16_EE / 367547.1698113207 has been dropped<br>
+('VF11-A2', datetime.datetime(2022, 3, 31, 0, 0), 305660.37735849054) add to database successfully<br>
+('VF11-A2', datetime.datetime(2022, 9, 30, 0, 0), 382075.4716981132) add to database successfully<br>
+('VF11-A2', datetime.datetime(2023, 3, 31, 0, 0), 76415.09433962264) add to database successfully<br>
+<h3>51 value read, sum of amount is 27181358.372830182</h3>
+<h2>Reading external_efoort...</h2>
+<b>!!!Invalid Project Name</b><br>
+['category', 'project', 'item', 'amount', 'invoice_date', 'partner'] has been dropped<br>
+['god', 'BJEV', 'ii', 12, datetime.datetime(2021, 12, 12, 0, 0), 'po'] add to database successfully<br>
+<h3>1 value read, sum of amount is 12</h3>
+<h1>Stage2: Export data to csv</h1>

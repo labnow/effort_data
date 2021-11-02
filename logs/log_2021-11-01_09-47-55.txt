@@ -1,0 +1,780 @@
+<h1>Stage1: Read data into database</h1>
+<h2>Reading ecn_cost/internal_expense data...</h2>
+('BYD', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('GAC', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('RBJAC', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('BJEV', datetime.date(2021, 1, 1), 29012.423000000006) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 1, 1), 29012.423000000006) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('FE3AH', datetime.date(2021, 1, 1), 14506.211500000003) add to database successfully<br>
+('Overhead', datetime.date(2021, 1, 1), 145062.11500000002) add to database successfully<br>
+('BYD', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('GAC', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('RBJAC', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('BJEV', datetime.date(2021, 2, 1), 30451.089000000007) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 2, 1), 30451.089000000007) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('FE3AH', datetime.date(2021, 2, 1), 15225.544500000004) add to database successfully<br>
+('Overhead', datetime.date(2021, 2, 1), 152255.44500000004) add to database successfully<br>
+('BYD', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('GAC', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('RBJAC', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('BJEV', datetime.date(2021, 3, 1), 30189.037) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 3, 1), 30189.037) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('FE3AH', datetime.date(2021, 3, 1), 15094.5185) add to database successfully<br>
+('Overhead', datetime.date(2021, 3, 1), 150945.185) add to database successfully<br>
+('BYD', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('GAC', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('RBJAC', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('BJEV', datetime.date(2021, 4, 1), 25552.323999999997) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 4, 1), 25552.323999999997) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 4, 1), 12776.161999999998) add to database successfully<br>
+('Overhead', datetime.date(2021, 4, 1), 140537.78199999998) add to database successfully<br>
+('BYD', datetime.date(2021, 5, 1), 10997.956999999999) add to database successfully<br>
+('RBJAC', datetime.date(2021, 5, 1), 10997.956999999999) add to database successfully<br>
+('BJEV', datetime.date(2021, 5, 1), 21995.913999999997) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 5, 1), 21995.913999999997) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 5, 1), 10997.956999999999) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 5, 1), 10997.956999999999) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 5, 1), 21995.913999999997) add to database successfully<br>
+('Overhead', datetime.date(2021, 5, 1), 109979.56999999998) add to database successfully<br>
+('BYD', datetime.date(2021, 6, 1), 12488.367000000002) add to database successfully<br>
+('BJEV', datetime.date(2021, 6, 1), 12488.367000000002) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 6, 1), 37465.10100000001) add to database successfully<br>
+('RBJAC_commercial', datetime.date(2021, 6, 1), 12488.367000000002) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 6, 1), 12488.367000000002) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 6, 1), 37465.10100000001) add to database successfully<br>
+('Overhead', datetime.date(2021, 6, 1), 124883.67000000001) add to database successfully<br>
+('BYD', datetime.date(2021, 7, 1), 10209.5375) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 7, 1), 40838.15) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 7, 1), 20419.075) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 7, 1), 30628.612500000003) add to database successfully<br>
+('Overhead', datetime.date(2021, 7, 1), 102095.375) add to database successfully<br>
+('BYD', datetime.date(2021, 8, 1), 14994.108000000007) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 8, 1), 59976.43200000003) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 8, 1), 29988.216000000015) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 8, 1), 44982.32400000003) add to database successfully<br>
+('Overhead', datetime.date(2021, 8, 1), 149941.08000000007) add to database successfully<br>
+('BYD', datetime.date(2021, 9, 1), 12669.737500000003) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 9, 1), 50678.95000000001) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 9, 1), 25339.475000000006) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 9, 1), 38009.212500000016) add to database successfully<br>
+('Overhead', datetime.date(2021, 9, 1), 126697.37500000003) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 10, 1), 59920.793) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 10, 1), 14937.0915) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 10, 1), 74708.4575) add to database successfully<br>
+('Overhead', datetime.date(2021, 10, 1), 164363.0065) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 11, 1), 59920.793) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 11, 1), 14936.0915) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 11, 1), 74708.4575) add to database successfully<br>
+('Overhead', datetime.date(2021, 11, 1), 164363.0065) add to database successfully<br>
+('GAC_Complex Driver', datetime.date(2021, 12, 1), 59920.793) add to database successfully<br>
+('FE-6-A3', datetime.date(2021, 12, 1), 14935.0915) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.date(2021, 12, 1), 74708.4575) add to database successfully<br>
+('Overhead', datetime.date(2021, 12, 1), 164363.0065) add to database successfully<br>
+<h3>77 value read, sum of amount is 3321027.915500002</h3>
+<h2>Reading billing_status/revenue data...</h2>
+('GE13', datetime.datetime(2019, 3, 30, 0, 0), 678867.9) add to database successfully<br>
+('GE13', datetime.datetime(2019, 8, 30, 0, 0), 678867.9) add to database successfully<br>
+('GE13', datetime.datetime(2019, 11, 30, 0, 0), 509150.9) add to database successfully<br>
+('GE13', datetime.datetime(2020, 2, 28, 0, 0), 509150.9) add to database successfully<br>
+('GE13', datetime.datetime(2020, 5, 31, 0, 0), 678867.9) add to database successfully<br>
+('GE13', datetime.datetime(2020, 11, 30, 0, 0), 339434) add to database successfully<br>
+('GE12B', datetime.datetime(2019, 7, 4, 0, 0), 358490.57) add to database successfully<br>
+('GE12B', datetime.datetime(2019, 8, 30, 0, 0), 448113.21) add to database successfully<br>
+('GE12B', datetime.datetime(2020, 2, 28, 0, 0), 89622.64) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 1, 30, 0, 0), 407337.358490566) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 3, 30, 0, 0), 407337.358490566) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 6, 30, 0, 0), 407337.358490566) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 10, 31, 0, 0), 611006.037735849) add to database successfully<br>
+('FE5AB/6AB', datetime.datetime(2020, 11, 4, 0, 0), 203668.679245283) add to database successfully<br>
+('FE5AB/6AB_Extension', datetime.datetime(2020, 8, 30, 0, 0), 122641.50943396226) add to database successfully<br>
+('FE5AB/6AB_3rd Party_1', datetime.datetime(2020, 8, 7, 0, 0), 75471.69811320755) add to database successfully<br>
+('FE5AB/6AB_3rd Party_2', datetime.datetime(2020, 9, 30, 0, 0), 80188.67924528301) add to database successfully<br>
+<b>!!!Invalid Invoice Date</b><br>
+UAES - 121500 has been dropped<br>
+('UAES', datetime.datetime(2019, 11, 30, 0, 0), 121500) add to database successfully<br>
+('BYD', datetime.datetime(2019, 10, 30, 0, 0), 438679.24528301886) add to database successfully<br>
+('BYD', datetime.datetime(2020, 11, 30, 0, 0), 438679.24528301886) add to database successfully<br>
+('BYD', datetime.datetime(2021, 11, 30, 0, 0), 438679.24528301886) add to database successfully<br>
+('BYD', datetime.datetime(2022, 4, 30, 0, 0), 146226.4150943396) add to database successfully<br>
+('GAC', datetime.datetime(2019, 11, 30, 0, 0), 633962.2641509434) add to database successfully<br>
+('GAC', datetime.datetime(2020, 11, 30, 0, 0), 316981.1320754717) add to database successfully<br>
+('GAC', datetime.datetime(2021, 3, 30, 0, 0), 475471.6981132075) add to database successfully<br>
+('GAC', datetime.datetime(2021, 9, 30, 0, 0), 158490.56603773584) add to database successfully<br>
+('DFM', datetime.datetime(2020, 8, 15, 0, 0), 339622.641509434) add to database successfully<br>
+('DFM', datetime.datetime(2020, 9, 30, 0, 0), 679245.283018868) add to database successfully<br>
+('DFM', datetime.datetime(2020, 12, 31, 0, 0), 113207.54716981133) add to database successfully<br>
+('FE3AH', datetime.datetime(2020, 7, 30, 0, 0), 377357.7358490566) add to database successfully<br>
+('FE3AH', datetime.datetime(2020, 9, 30, 0, 0), 471697.1698113207) add to database successfully<br>
+('FE3AH', datetime.datetime(2020, 11, 4, 0, 0), 94339.43396226416) add to database successfully<br>
+('RBJAC', datetime.datetime(2020, 9, 30, 0, 0), 579056.6037735848) add to database successfully<br>
+('RBJAC', datetime.datetime(2020, 11, 30, 0, 0), 965094.3396226414) add to database successfully<br>
+('RBJAC', datetime.datetime(2021, 4, 30, 0, 0), 386037.7358490566) add to database successfully<br>
+('BJEV', datetime.datetime(2020, 12, 15, 0, 0), 208806.2264150943) add to database successfully<br>
+('BJEV', datetime.datetime(2021, 5, 15, 0, 0), 1044031.1320754716) add to database successfully<br>
+('BJEV', datetime.datetime(2021, 9, 15, 0, 0), 139204.15094339623) add to database successfully<br>
+('GAC_Complex Driver', datetime.datetime(2021, 3, 1, 0, 0), 392452.8301886793) add to database successfully<br>
+('GAC_Complex Driver', datetime.datetime(2021, 11, 30, 0, 0), 1177358.4905660376) add to database successfully<br>
+('GAC_Complex Driver', datetime.datetime(2022, 5, 1, 0, 0), 392452.8301886793) add to database successfully<br>
+('RBJAC_commercial', datetime.datetime(2021, 4, 1, 0, 0), 320754.71698113205) add to database successfully<br>
+('RBJAC_commercial', datetime.datetime(2021, 6, 30, 0, 0), 801886.7924528301) add to database successfully<br>
+('RBJAC_commercial', datetime.datetime(2021, 6, 30, 0, 0), 481132.0754716981) add to database successfully<br>
+<b>!!!Invalid Invoice Date</b><br>
+FE-6-A3 12/12/2012 325471.69811320753 has been dropped<br>
+('FE-6-A3', datetime.datetime(2022, 4, 30, 0, 0), 433962.26415094343) add to database successfully<br>
+('FE-6-A3', datetime.datetime(2022, 10, 30, 0, 0), 216981.13207547172) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.datetime(2021, 11, 30, 0, 0), 3514150.943396226) add to database successfully<br>
+('AUDI_PPE&CADA&CAPA', datetime.datetime(2021, 12, 30, 0, 0), 3514150.943396226) add to database successfully<br>
+<b>!!!Invalid Project Name</b><br>
+Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+<b>!!!Invalid Project Name</b><br>
+Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+<b>!!!Invalid Project Name</b><br>
+Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+<b>!!!Invalid Project Name</b><br>
+Baoneng_GX16_EE / 367547.1698113207 has been dropped<br>
+('VF11-A2', datetime.datetime(2022, 3, 31, 0, 0), 305660.37735849054) add to database successfully<br>
+('VF11-A2', datetime.datetime(2022, 9, 30, 0, 0), 382075.4716981132) add to database successfully<br>
+('VF11-A2', datetime.datetime(2023, 3, 31, 0, 0), 76415.09433962264) add to database successfully<br>
+<h3>51 value read, sum of amount is 27181358.372830182</h3>
+<h2>Reading external_efoort...</h2>
+<b>!!!Invalid Project Name</b><br>
+['category', 'project', 'item', 'amount', 'invoice_date', 'partner'] has been dropped<br>
+['Expense', 'FE3AH', 'Expense', 62.7, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Expense', 3293.5, datetime.datetime(2019, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Expense', 18039.27, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Expense', 2300, datetime.datetime(2020, 2, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE12B', 'Expense', 3565, datetime.datetime(2019, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Expense', 8783, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Expense', 5702.29, datetime.datetime(2019, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Expense', 2560, datetime.datetime(2019, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Expense', 17729.5, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Expense', 6263.5, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Expense', 4000, datetime.datetime(2020, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'DFM', 'Expense - Caiyinan', 14100, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'DFM', 'Expense - Caiyinan', 8520.3, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'DFM', 'Expense - CaiYinan', 3775.75, datetime.datetime(2020, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'DFM', 'Expense - CaiYinan&WangKe', 23404.84, datetime.datetime(2020, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'DFM', 'Expense - CaiyinanWangke', 5838, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'DFM', 'Expense - CaiyinanWangke', 15300, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'DFM', 'Expense - DF', 3255, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - Fanguodong', 350, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Expense - Hanyixuan', 736, datetime.datetime(2020, 2, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Expense - Hanyixuan', 6100, datetime.datetime(2020, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Expense - Hanyixuan', 6000, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Expense - Hanyixuan', 6689, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Expense - Hanyixuan', 500, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Expense - Liyan', 235, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - Lizhipeng', 4800, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - Lizhipeng', 36494, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - Lizhipeng', 5100, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - LiZhipeng', 4430, datetime.datetime(2020, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - LiZhipeng', 10509, datetime.datetime(2020, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - LiZhipeng&XuGang&WuDan', 16117.5, datetime.datetime(2020, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - Other', 13013, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Expense - Other', 13013, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Expense - Other', 59200, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Expense - Other', 13013, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'BYD', 'Expense - Taowenqiang', 4816.96, datetime.datetime(2020, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'BYD', 'Expense - Taowenqiang', 6783.4, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'BYD', 'Expense - Taowenqiang', 6548.37, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'BYD', 'Expense - Taowenqiang', 6903.58, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'BYD', 'Expense - Taowenqiang', 6923, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'BYD', 'Expense - Taowenqiang', 5423, datetime.datetime(2020, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'DFM', 'Expense - Wangke', 1295, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'DFM', 'Expense - WangKe', 8100, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'DFM', 'Expense - WangKe', 16818.05, datetime.datetime(2020, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'DFM', 'Expense - WangKe', 10397.84, datetime.datetime(2020, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'DFM', 'Expense - WangKe', 5463.31, datetime.datetime(2021, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - Wangyulong', 1880, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - Wangyulong', 1100, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - WangYulong', 1610, datetime.datetime(2020, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - Wenmingxin', 4754.5, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - Wenmingxin', 80, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Expense - XuGang', 3064.28, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Expense - XuGang', 11250, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Expense of XuMengmeng', 3028.75, datetime.datetime(2019, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Expense of XuMengmeng', 17227.22, datetime.datetime(2019, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Resistance Box', 350, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Room Service', 450, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Room Service - Venu', 450, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', 'Shen Chunjian', 32175, datetime.datetime(2019, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', 'Shen Chunjian', 16200, datetime.datetime(2019, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'T-Box Testing', 18000, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Test Case Writing', 40500, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Test Case Writing', 102600, datetime.datetime(2019, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Test case-Feb', 111600, datetime.datetime(2019, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Test case-Jan', 84600, datetime.datetime(2019, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Utility&Room Service', 1015.87, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Utility&Room Service', 4496.2, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Utility&Room Service', 506.87, datetime.datetime(2020, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Utility&Room Service', 1476.49, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Utility&Room Service', 1105.59, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '于慧媛/Huiyuan Yu', 19950, datetime.datetime(2021, 1, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '代天文/Tianwen Dai', 7200, datetime.datetime(2019, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '代天文/Tianwen Dai', 43065, datetime.datetime(2019, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '代天文/Tianwen Dai', 46091.25, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '代天文/Tianwen Dai', 43425, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '代天文/Tianwen Dai', 45967.5, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'RBJAC', '1st Payment of Brilliance-Renault Project', 495000, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GAC', 'Apartment - Manoj', 9373.2, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GAC', 'Apartment - Manoj', 4686.6, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GAC', 'Apartment - Manoj', 5148.49, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GAC', 'Apartment - Manoj', 4944, datetime.datetime(2020, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GAC', 'Apartment - Manoj', 4901.88, datetime.datetime(2020, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GAC', 'Apartment - Manoj', 4847.8, datetime.datetime(2020, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GAC', 'Apartment - Manoj', 4874.84, datetime.datetime(2021, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Apartment - Manoj', 4433.37, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Apartment - Manoj', 666, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Apartment - Venu', 52.33, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Apartment - Venu', 78.55, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Apartment - Venu', 384.75, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Apartment for Mar-Jun2019', 10500, datetime.datetime(2019, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Apartment rental', 21000, datetime.datetime(2019, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Apartment Rental - Manoj', 21000, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Apartment Rental - Manoj', 14000, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Apartment Rental - Venu', 21000, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Apartment renteal&Utility', 25348.3, datetime.datetime(2019, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Apartment&Electricity - Venu', 7063.11, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'BCM Testing', 18000, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'BJ Biding', 3161, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Cables-Dec2018', 30150, datetime.datetime(2018, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'CANoe', 2666.67, datetime.datetime(2019, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE12B', 'CANoe', 4000, datetime.datetime(2019, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE12B', 'CANoe', 4000, datetime.datetime(2019, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE12B', 'CANoe', 2666.67, datetime.datetime(2019, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'CANoe', 4000, datetime.datetime(2019, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'CANoe', 4000, datetime.datetime(2019, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'CANoe', 2666.67, datetime.datetime(2019, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'CANoe+Canalyzer', 16297.85, datetime.datetime(2019, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'CANoe+Canalyzer', 16297.85, datetime.datetime(2019, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'DESAY MMI Testing Fee', 60000, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'DESAY MMI Testing Fee', 65000, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'DF NEV Project', 18000, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'DFM', 'DF New Energy Project', 45900, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Expense Purchase', 10125, datetime.datetime(2018, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Expense purchase', 17883, datetime.datetime(2019, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Expense purchase', 17883, datetime.datetime(2019, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Expense rent from ETAS', 11925, datetime.datetime(2018, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Expense rent from For you', 14400, datetime.datetime(2018, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Expense rental', 5419.35, datetime.datetime(2019, 10, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE12B', 'Expense rental', 5419.35, datetime.datetime(2019, 10, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Expense rental', 5419.35, datetime.datetime(2019, 10, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE12B', 'Expense Rental Feb', 33986.5, datetime.datetime(2019, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Expense Rental Jan', 23287.5, datetime.datetime(2019, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Euiqment rental', 1600, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'FE3AH', 'Euiqment rental', 5122.22, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', 'Euiqment rental', 1233.33, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 13233.33, datetime.datetime(2019, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 15900, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 27850, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 23850, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 7661.29, datetime.datetime(2019, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 19850, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 19850, datetime.datetime(2020, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 19850, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 2967.74, datetime.datetime(2020, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 21527.42, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 6133.33, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 23850, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 8000.1387, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 16850, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 1600, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 15350, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 5122.22, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 1233.33, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 300, datetime.datetime(2020, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Euiqment rental', 300, datetime.datetime(2020, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Euiqment rental', 21850, datetime.datetime(2019, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Euiqment rental', 20887.1, datetime.datetime(2019, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Euiqment rental', 21850, datetime.datetime(2019, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Euiqment rental', 18916.67, datetime.datetime(2019, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Euiqment rental', 19850, datetime.datetime(2019, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Euiqment rental', 19850, datetime.datetime(2019, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Euiqment rental', 13233.33, datetime.datetime(2019, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Euiqment rental', 15900, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 21850, datetime.datetime(2019, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 20887.1, datetime.datetime(2019, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 21850, datetime.datetime(2019, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 18916.67, datetime.datetime(2019, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 19850, datetime.datetime(2019, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 19850, datetime.datetime(2019, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 13233.33, datetime.datetime(2019, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 15900, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 27850, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 23850, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 7661.29, datetime.datetime(2019, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 19850, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 19850, datetime.datetime(2020, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 19850, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 2967.74, datetime.datetime(2020, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 21527.42, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 6133.33, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 23850, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 8000.14, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 16850, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 1600, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 15350, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 5122.22, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Euiqment rental', 1233.33, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Expense on Geely Project', 35317.74, datetime.datetime(2019, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Expense on Geely Projects', 31427.8, datetime.datetime(2019, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'FE3AH', 'FE-3AH Test Case', 46800.48, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'FE-6AB Test Case', 21599.7, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Function&Network testing', 100000, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE5AB/6AB', 'Infotainment Testing', 54000, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE12B', 'Intern Fee', 10784, datetime.datetime(2019, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Intern Fee', 6246.5, datetime.datetime(2019, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Intern Fee', 9196.5, datetime.datetime(2019, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Intern Fee-Feb', 4922, datetime.datetime(2019, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Intern Fee-Jan', 15637.5, datetime.datetime(2019, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Internet Fee', 3500, datetime.datetime(2019, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', 'Li Xinhui', 43680, datetime.datetime(2019, 9, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', 'Li Xinhui', 44100, datetime.datetime(2019, 10, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', 'Li Xinhui', 3780, datetime.datetime(2019, 9, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['Expense', 'RBJAC', 'Payment of Brilliance-Renault Project', 330000, datetime.datetime(2020, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'RBJAC', 'Payment of Brilliance-Renault Project', 495000, datetime.datetime(2020, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'BJEV', 'Payment of Tsinghua University Project', 250000, datetime.datetime(2020, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '代天文/Tianwen Dai', 29070, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE12B', '博阳/Yang Bo', 34537.5, datetime.datetime(2019, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE12B', '博阳/Yang Bo', 32400, datetime.datetime(2019, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '博阳/Yang Bo', 44550, datetime.datetime(2019, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '博阳/Yang Bo', 40950, datetime.datetime(2019, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '博阳/Yang Bo', 27562.5, datetime.datetime(2019, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '叶贤辉/Xianhui Ye', 47936.25, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '叶贤辉/Xianhui Ye', 64035, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '叶贤辉/Xianhui Ye', 51176.25, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '叶贤辉/Xianhui Ye', 41512, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', '吉利FE-6-A3项目耗材/Geely Project', 38882, datetime.datetime(2021, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '周梦雪/Mengxue Zhou', 19974.375, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '周梦雪/Mengxue Zhou', 25016.25, datetime.datetime(2020, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '周梦雪/Mengxue Zhou', 18988.13, datetime.datetime(2020, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '周梦雪/Mengxue Zhou', 14540.625, datetime.datetime(2020, 10, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '周梦雪/Mengxue Zhou', 2915.53, datetime.datetime(2020, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 14400, datetime.datetime(2019, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 38362.5, datetime.datetime(2019, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 37800, datetime.datetime(2019, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 38925, datetime.datetime(2019, 10, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 51070.175, datetime.datetime(2019, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 50539.3, datetime.datetime(2019, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 26775, datetime.datetime(2020, 1, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 29250, datetime.datetime(2020, 2, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 45899.45, datetime.datetime(2020, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 53550.42, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 47587.64, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 35662, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 19974.38, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 25016.25, datetime.datetime(2020, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 18988.125, datetime.datetime(2020, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 14540.63, datetime.datetime(2020, 10, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 18354.38, datetime.datetime(2020, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 18354.375, datetime.datetime(2020, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '周梦雪/Mengxue Zhou', 2915.53, datetime.datetime(2020, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'HMI', '孙胜龙/Shenglong Sun', 37800, datetime.datetime(2020, 8, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'HMI', '孙胜龙/Shenglong Sun', 39900, datetime.datetime(2020, 9, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'HMI', '孙胜龙/Shenglong Sun', 31395, datetime.datetime(2020, 10, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'HMI', '孙胜龙/Shenglong Sun', 35280, datetime.datetime(2020, 11, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'HMI', '孙胜龙/Shenglong Sun', 41370, datetime.datetime(2020, 12, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'HMI', '孙胜龙/Shenglong Sun', 36120, datetime.datetime(2021, 1, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 3600, datetime.datetime(2019, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 5175, datetime.datetime(2019, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 40500, datetime.datetime(2019, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 39375, datetime.datetime(2019, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 38025, datetime.datetime(2019, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 49938.75, datetime.datetime(2019, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 47767.5, datetime.datetime(2019, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 39060, datetime.datetime(2019, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 39903.75, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 45720, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 43987.5, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 30993.75, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 23625, datetime.datetime(2020, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 52593.75, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 49275, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 49680, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '崔丁太/Dingtai Cui', 39228.75, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '张海洋/Haiyang Zhang', 1999.85, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '张海洋/Haiyang Zhang', 3833.33, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '张海洋/Haiyang Zhang', 2750, datetime.datetime(2020, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '张海洋/Haiyang Zhang', 2187.5, datetime.datetime(2020, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张海洋/Haiyang Zhang', 1999.85, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张海洋/Haiyang Zhang', 3833.33, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张海洋/Haiyang Zhang', 2750, datetime.datetime(2020, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张海洋/Haiyang Zhang', 2187.5, datetime.datetime(2020, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '张海洋/Haiyang Zhang', 1999.8484, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '张海洋/Haiyang Zhang', 3833.33, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '张海洋/Haiyang Zhang', 2750, datetime.datetime(2020, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '张海洋/Haiyang Zhang', 2187.5, datetime.datetime(2020, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 22680, datetime.datetime(2019, 10, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 51240, datetime.datetime(2019, 11, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 47460, datetime.datetime(2019, 12, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 26250, datetime.datetime(2020, 1, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 28455, datetime.datetime(2020, 2, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 41895, datetime.datetime(2020, 3, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 60690, datetime.datetime(2020, 4, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 60480, datetime.datetime(2020, 5, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 43260, datetime.datetime(2020, 6, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 48825, datetime.datetime(2020, 7, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 52815, datetime.datetime(2020, 8, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 40425, datetime.datetime(2020, 9, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 38430, datetime.datetime(2020, 12, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '张高磊/Gaolei Zhang', 24150, datetime.datetime(2021, 1, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE12B', '徐萌萌/Mengmeng Xu', 28800, datetime.datetime(2019, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 32625, datetime.datetime(2018, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 32625, datetime.datetime(2018, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 51300, datetime.datetime(2019, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 54450, datetime.datetime(2019, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 37800, datetime.datetime(2019, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 48937.5, datetime.datetime(2019, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 39262.5, datetime.datetime(2019, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 50186.25, datetime.datetime(2019, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 48633.75, datetime.datetime(2019, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 42806.25, datetime.datetime(2019, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 48813.75, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 55125, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 47081.25, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 29295, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 15187.5, datetime.datetime(2020, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 50737.5, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 46698.75, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '徐萌萌/Mengmeng Xu', 18000, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 29193.75, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 56733.75, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 47823.75, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 33052.5, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 29925, datetime.datetime(2020, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 52965, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 62673.75, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 54810, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 51165, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 56362, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 47250, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 32962.5, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/Mingxin Wen', 22387.5, datetime.datetime(2020, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '易晨/Cheng Yi', 26105.63, datetime.datetime(2020, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '易晨/Cheng Yi', 2786.25, datetime.datetime(2021, 1, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 24300, datetime.datetime(2020, 2, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 6637.5, datetime.datetime(2020, 2, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 54000.61, datetime.datetime(2020, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 57374.85, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 51412.06, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 48938.18, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 46612.5, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 49717.5, datetime.datetime(2020, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 38088.75, datetime.datetime(2020, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 35212.5, datetime.datetime(2020, 10, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 38700, datetime.datetime(2020, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 26105.63, datetime.datetime(2020, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '易晨/Cheng Yi', 2786.25, datetime.datetime(2021, 1, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '易晨/Cheng Yi', 47700, datetime.datetime(2019, 10, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '易晨/Cheng Yi', 49159.025, datetime.datetime(2019, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '易晨/Cheng Yi', 49583.7, datetime.datetime(2019, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '易晨/Cheng Yi', 23626.1, datetime.datetime(2020, 1, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 30600, datetime.datetime(2019, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 42300, datetime.datetime(2019, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 47340, datetime.datetime(2019, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 46901.25, datetime.datetime(2019, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 42693.75, datetime.datetime(2019, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 49927.5, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 50670, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 44977.5, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 35055, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 25200, datetime.datetime(2020, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 51232.5, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 50051.25, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 50670, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 2700, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '李艳/Yan Li', 1800, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 11587.5, datetime.datetime(2019, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 44887.5, datetime.datetime(2019, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 48948.75, datetime.datetime(2019, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 44426.25, datetime.datetime(2019, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 13351.5, datetime.datetime(2019, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 44583.75, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 55248.75, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 53145, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '杨明星/Mingxing Yang', 7200, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 24300.27, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 24300.27, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 21768.75, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 25511.25, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 19635, datetime.datetime(2020, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 23229.38, datetime.datetime(2020, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 18279.375, datetime.datetime(2020, 10, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 14503.13, datetime.datetime(2020, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '杨波涛/Botao Yang', 4006.88, datetime.datetime(2020, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 42862.85, datetime.datetime(2020, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 24300.27, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 24300.2722, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 21768.75, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 25511.25, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 19635, datetime.datetime(2020, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 23229.375, datetime.datetime(2020, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 18279.38, datetime.datetime(2020, 10, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 14503.125, datetime.datetime(2020, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '杨波涛/Botao Yang', 4006.88, datetime.datetime(2020, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE12B', '杨波涛/Botao Yang', 48600, datetime.datetime(2019, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE12B', '杨波涛/Botao Yang', 64912.5, datetime.datetime(2019, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE12B', '杨波涛/Botao Yang', 31387.5, datetime.datetime(2019, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE12B', '杨波涛/Botao Yang', 41625, datetime.datetime(2019, 10, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE12B', '杨波涛/Botao Yang', 43637.925, datetime.datetime(2019, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE12B', '杨波涛/Botao Yang', 35993.3, datetime.datetime(2019, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '杨波涛/Botao Yang', 22949.9, datetime.datetime(2020, 1, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '杨波涛/Botao Yang', 13500, datetime.datetime(2020, 2, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE12B', '汤元/Yuan Tang', 21600, datetime.datetime(2019, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 34560, datetime.datetime(2019, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 31680, datetime.datetime(2019, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 37800, datetime.datetime(2019, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 31590, datetime.datetime(2019, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 29160, datetime.datetime(2019, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 33813, datetime.datetime(2019, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '汤元/Yuan Tang', 15840, datetime.datetime(2019, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王嘉伟/Jiawei Wang', 44842.5, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王嘉伟/Jiawei Wang', 50883.75, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王嘉伟/Jiawei Wang', 48127.5, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王嘉伟/Jiawei Wang', 53887.5, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王嘉伟/Jiawei Wang', 45450, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王嘉伟/Jiawei Wang', 28687.5, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 20160, datetime.datetime(2019, 11, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 46200, datetime.datetime(2019, 12, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 27930, datetime.datetime(2020, 1, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 17220, datetime.datetime(2020, 2, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 15172.5, datetime.datetime(2020, 3, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 25410, datetime.datetime(2020, 4, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王林辉/Linhui Wang', 2835, datetime.datetime(2020, 5, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '王林辉/Linhui Wang', 15172.5, datetime.datetime(2020, 3, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '王林辉/Linhui Wang', 25410, datetime.datetime(2020, 4, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '王林辉/Linhui Wang', 2835, datetime.datetime(2020, 5, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 34377.75, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 34411.5, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 37638, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 30692.25, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 35100, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 26550, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 18000, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 14737.5, datetime.datetime(2020, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '王玉龙/Yulong Wang', 8100, datetime.datetime(2020, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 38666.25, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 52526.25, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 47576.25, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 32703.75, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 29565, datetime.datetime(2020, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 22918.5, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 22941, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 25092, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 20461.5, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 23400, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 26550, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 18000, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 14737.5, datetime.datetime(2020, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '王玉龙/Yulong Wang', 8100, datetime.datetime(2020, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 40680, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 34200, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 35437.5, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 55800, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 44437.5, datetime.datetime(2020, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 61762.5, datetime.datetime(2020, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 59062, datetime.datetime(2020, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '王科/Kern Wang', 32625, datetime.datetime(2021, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 42502.5, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 55710, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 45596.25, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 34998.75, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 26775, datetime.datetime(2020, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 53460, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 52773.75, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 47328.75, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 48870, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 49275, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 42750, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 23850, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 32850, datetime.datetime(2020, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '范国栋/Guodong Fan', 30600, datetime.datetime(2020, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '范国栋/Guodong Fan', 14850, datetime.datetime(2019, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 43425, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 23400, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 15412.5, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 1687.5, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 0, datetime.datetime(2020, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 21487.5, datetime.datetime(2020, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 42525, datetime.datetime(2020, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', '蔡乙男/Yinan Cai', 11587.5, datetime.datetime(2021, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '谢厚德/Houde Xie', 18000, datetime.datetime(2019, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '谢厚德/Houde Xie', 23400, datetime.datetime(2019, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '赵洪飞/Hongfei Zhao', 36787.5, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '赵洪飞/Hongfei Zhao', 39600, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '赵洪飞/Hongfei Zhao', 33975, datetime.datetime(2020, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '赵洪飞/Hongfei Zhao', 37800, datetime.datetime(2020, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '赵洪飞/Hongfei Zhao', 7200, datetime.datetime(2020, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 37800, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 48937.5, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 45967.5, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 28800, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 21150, datetime.datetime(2020, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 51356.25, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 52402.5, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 43616.25, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 47823.75, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '赵洪飞/Hongfei Zhao', 44775, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 19125, datetime.datetime(2019, 10, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 46292.3, datetime.datetime(2019, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 47723.7, datetime.datetime(2019, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 23850, datetime.datetime(2020, 1, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 0, datetime.datetime(2020, 2, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 52650.26, datetime.datetime(2020, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 54112.14, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 49274.95, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 42862.5, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '陈乾/Qian Chen', 3789.54, datetime.datetime(2020, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '陈威迪/Weidi Chen', 41511.76, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '陈威迪/Weidi Chen', 52200.96, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '陈威迪/Weidi Chen', 41850, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '陈威迪/Weidi Chen', 40207.5, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE12B', '陈康康/Kangkang Chen', 23175, datetime.datetime(2019, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE12B', '陈康康/Kangkang Chen', 36000, datetime.datetime(2019, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE12B', '陈康康/Kangkang Chen', 29340, datetime.datetime(2019, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈康康/Kangkang Chen', 17500, datetime.datetime(2018, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈康康/Kangkang Chen', 17500, datetime.datetime(2018, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈康康/Kangkang Chen', 48375, datetime.datetime(2019, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈康康/Kangkang Chen', 43312.5, datetime.datetime(2019, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈康康/Kangkang Chen', 32850, datetime.datetime(2019, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'AE Testing', '陈洽/Qia Chen', 59535, datetime.datetime(2020, 10, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'AE Testing', '陈洽/Qia Chen', 36120, datetime.datetime(2020, 12, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'AE Testing', '陈洽/Qia Chen', 27930, datetime.datetime(2021, 1, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'DFM', '陈洽/Qia Chen', 40110, datetime.datetime(2020, 11, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 15750, datetime.datetime(2018, 11, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 15750, datetime.datetime(2018, 12, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 53550, datetime.datetime(2019, 1, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 28125, datetime.datetime(2019, 2, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 42075, datetime.datetime(2019, 3, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 33750, datetime.datetime(2019, 4, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 37350, datetime.datetime(2019, 5, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 38362.5, datetime.datetime(2019, 6, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 43998.75, datetime.datetime(2019, 7, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 9000, datetime.datetime(2019, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 48375, datetime.datetime(2019, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 40950, datetime.datetime(2019, 10, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 46186.125, datetime.datetime(2019, 11, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 47276.6, datetime.datetime(2019, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 28325.7, datetime.datetime(2020, 1, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 7152.96, datetime.datetime(2020, 2, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 19800.29, datetime.datetime(2020, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 39600.57, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 30599.02, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 30599.02, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 52068.75, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 47280, datetime.datetime(2020, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强/Wenqiang Tao', 19140, datetime.datetime(2020, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '韩松松/Songsong Han', 32624.2, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '韩松松/Songsong Han', 51749.43, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '韩松松/Songsong Han', 45000, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '韩松松/Songsong Han', 48000, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '韩松松/Songsong Han', 46316.25, datetime.datetime(2020, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '韩松松/Songsong Han', 14936.25, datetime.datetime(2020, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '韩译萱/Yixuan Han', 44549.53, datetime.datetime(2020, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '韩译萱/Yixuan Han', 52312.73, datetime.datetime(2020, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '韩译萱/Yixuan Han', 42075.05, datetime.datetime(2020, 5, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '韩译萱/Yixuan Han', 9000, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'HMI', '韩译萱/Yixuan Han', 25370.7, datetime.datetime(2019, 12, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'HMI', '韩译萱/Yixuan Han', 19800, datetime.datetime(2020, 1, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'HMI', '韩译萱/Yixuan Han', 28611.84, datetime.datetime(2020, 2, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '黄翔/Xiang Huang', 999.18, datetime.datetime(2020, 6, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '黄翔/Xiang Huang', 18000, datetime.datetime(2020, 7, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'GE13', '黄翔/Xiang Huang', 12125, datetime.datetime(2020, 8, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'GE13', 'Apartment for Dec2018 to Feb2019', 16875, datetime.datetime(2018, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'GE13', 'Apartment for Dec2018 to Feb2019', 16650, datetime.datetime(2018, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'HMI', '孙胜龙/shenglong Sun', 21210, datetime.datetime(2021, 2, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'AE Testing', '陈洽/qia Chen', 27930, datetime.datetime(2021, 2, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '王玉龙/Yulong Wang', 36330, datetime.datetime(2021, 2, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['Expense', 'AE Testing', 'Chen qia Expense', 2103.5, datetime.datetime(2021, 2, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['Expense', 'GE13', 'Yulong Wang Expense', 670.5, datetime.datetime(2021, 2, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '易晨', 9348.75, datetime.datetime(2021, 2, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'DFM', 'Kern Wang/王科', 20137.5, datetime.datetime(2021, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'DFM', 'Yinan Cai/蔡乙男', 29925, datetime.datetime(2021, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE3AH', '李志鹏 Expense', 4548, datetime.datetime(2021, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'V&V Testing', '文明鑫/ Mingxin Wen', 9400, datetime.datetime(2020, 11, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'V&V Testing', '王玉龙/Yulong Wang', 240, datetime.datetime(2020, 11, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE5AB/6AB', '文明鑫/ Mingxin Wen', 14070, datetime.datetime(2020, 12, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '王玉龙/Yulong Wang', 35490, datetime.datetime(2020, 12, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'GE13', '王玉龙/Yulong Wang', 36330, datetime.datetime(2021, 1, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['Expense', 'RBJAC', '华晨雷诺项目尾款/Last Payment of Huachen Renault Project', 330000, datetime.datetime(2020, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'BJEV', '北汽新能源代收款/BeiQi Project Payment', 200000, datetime.datetime(2020, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 2700, datetime.datetime(2020, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 3600, datetime.datetime(2020, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 14850, datetime.datetime(2020, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 41861.25, datetime.datetime(2020, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 44741.25, datetime.datetime(2020, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 45607.5, datetime.datetime(2020, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 52098.75, datetime.datetime(2020, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 22702.5, datetime.datetime(2020, 2, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 28057.5, datetime.datetime(2020, 1, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 45348.75, datetime.datetime(2019, 12, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 43987.5, datetime.datetime(2019, 11, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 39093.75, datetime.datetime(2019, 10, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 37237.5, datetime.datetime(2019, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 39600, datetime.datetime(2019, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 43998.75, datetime.datetime(2019, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 38362.5, datetime.datetime(2019, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 37350, datetime.datetime(2019, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 33750, datetime.datetime(2019, 4, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'GE13', '陈洽/Qia Chen', 42075, datetime.datetime(2019, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'BYD', '报销费用/Expense - Taowenqiang', 5329.2, datetime.datetime(2020, 9, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'RBJAC', 'Kern Wang/王科', 2700, datetime.datetime(2021, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'Digital', 'Expense - xugang', 7116, datetime.datetime(2021, 3, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '易晨', 29580.75, datetime.datetime(2021, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'BYD', '陶文强', 5364.72, datetime.datetime(2021, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['Expense', 'BYD', '陶文强', 2985.4, datetime.datetime(2021, 3, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'HMI', '孙胜龙/shenglong Sun', 40740, datetime.datetime(2021, 3, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'AE Testing', '陈洽/qia Chen', 27930, datetime.datetime(2021, 3, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'V&V Testing', '王玉龙/Yulong Wang', 36330, datetime.datetime(2021, 3, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '张高磊/gaoleo\xa0 zhang', 11655, datetime.datetime(2021, 3, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['Expense', 'AE Testing', '陈洽/qia Chen', 5530, datetime.datetime(2021, 3, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['Expense', 'V&V Testing', '王玉龙/Yulong Wang', 490, datetime.datetime(2021, 3, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'AE Testing', '陈洽/qia Chen', 10080, datetime.datetime(2021, 4, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '王玉龙/Yulong Wang', 3360, datetime.datetime(2021, 4, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'HMI', '孙胜龙/shenglong Sun', 16170, datetime.datetime(2021, 4, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '孙胜龙/shenglong Sun', 34335, datetime.datetime(2021, 5, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['Expense', 'FE-6-A3', 'Expense - Sunshenglong', 2350, datetime.datetime(2021, 5, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '卢涛', 19800, datetime.datetime(2021, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE-6-A3', '王斌', 1200, datetime.datetime(2021, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE-6-A3', '卢涛', 600, datetime.datetime(2021, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE-6-A3', '租房-许进', 9000, datetime.datetime(2021, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'BJEV', '北汽新能源BMS测试服务项目', 350000, datetime.datetime(2021, 5, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE3AH', '易晨', 22644, datetime.datetime(2021, 4, 1, 0, 0), 'Jintech'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '孙胜龙/shenglong Sun', 34335, datetime.datetime(2021, 6, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['Expense', 'FE-6-A3', 'Expense - Sunshenglong', 2350, datetime.datetime(2021, 6, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '卢涛', 38587.5, datetime.datetime(2021, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '杨远久', 6750, datetime.datetime(2021, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '王嘉伟/Jiawei Wang', 12937.5, datetime.datetime(2021, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '徐耀威', 1912.5, datetime.datetime(2021, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE-6-A3', 'Expense - 王嘉伟', 1200, datetime.datetime(2021, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE-6-A3', 'Expense - 王斌', 13719.96, datetime.datetime(2021, 6, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '卢涛', 42525, datetime.datetime(2021, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '杨远久', 13837, datetime.datetime(2021, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '徐耀威', 14625, datetime.datetime(2021, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'AUDI_PPE&CADA&CAPA', 'Expense - 王斌', 6974, datetime.datetime(2021, 7, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'RBJAC_commercial', 'waylancer', 395000, datetime.datetime(2021, 4, 1, 0, 0), 'waylancer'] add to database successfully<br>
+['Expense', 'RBJAC_commercial', 'waylancer', 395000, datetime.datetime(2021, 5, 1, 0, 0), 'waylancer'] add to database successfully<br>
+['Expense', 'RBJAC_commercial', 'waylancer', 395000, datetime.datetime(2021, 6, 1, 0, 0), 'waylancer'] add to database successfully<br>
+['Expense', 'RBJAC_commercial', 'waylancer', 395000, datetime.datetime(2021, 7, 1, 0, 0), 'waylancer'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '孙胜龙/shenglong Sun', 42105, datetime.datetime(2021, 7, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['Expense', 'FE-6-A3', 'Expense - Sunshenglong', 4378, datetime.datetime(2021, 7, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '孙胜龙/shenglong Sun', 47565, datetime.datetime(2021, 8, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '孙胜龙/shenglong Sun', 39585, datetime.datetime(2021, 9, 1, 0, 0), 'Cantech'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '李玉鹏', 11925, datetime.datetime(2021, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '徐耀威', 7200, datetime.datetime(2021, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE-6-A3', None, 86500, datetime.datetime(2021, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE-6-A3', '许进', 265.1, datetime.datetime(2021, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE-6-A3', '杭州湾租房', 160.85, datetime.datetime(2021, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE-6-A3', '福利费', 1000, datetime.datetime(2021, 9, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '徐耀威', 9900, datetime.datetime(2021, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['EngineerCost', 'FE-6-A3', '王科', 4612.5, datetime.datetime(2021, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+['Expense', 'FE-6-A3', '杭州湾租房', 1180, datetime.datetime(2021, 8, 1, 0, 0), 'Foryou'] add to database successfully<br>
+<h3>630 value read, sum of amount is 20116689.4043</h3>
+<h1>Stage2: Export data to csv</h1>
