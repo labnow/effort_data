@@ -2,9 +2,23 @@ from datetime import datetime, date
 import json
 from openpyxl import load_workbook
 import sys
-from app import db, ExpenseInternal, Revenue, ExpenseExternal
+# from app import db, ExpenseInternal, Revenue, ExpenseExternal
 import os
- 
+from log_handler import logger
+
+def process_reports_from_vendor(folder_to_vendor_reports):
+    t_config = read_config_json()
+    logger.info('Start reading all reports in this {}'.format(folder_to_vendor_reports))
+    reports_to_process = list()
+    for root, dirs, files in os.walk(folder_to_vendor_reports, topdown=True):
+        for name in files:
+            if name.split('_')[0] in t_config['vendor_whitelist'] and name.split('.')[-1] == 'xlsx' and name not in t_config['vendor_reports']['processed_reports']:
+                reports_to_process.append(name)
+                # logger.info(os.path.join(root, name))
+                logger.info('Processing {}'.format(name))
+        
+    return reports_to_process
+
 def db2xlsx():
     wb = load_workbook('data_from_vendor.xlsx')
     ws = wb['default']
@@ -83,7 +97,7 @@ def audi2python(r_in):
 # JSON file
 def read_config_json():
     with open('config/config.json', "r") as f:
-        myconfig = json.loads(f.read())
+        myconfig = json.load(f)
 
     if myconfig:
         # print('config load successfully.')
@@ -94,22 +108,57 @@ def read_config_json():
 def check_data(my_project, my_date, my_amount):
     myconfig = read_config_json()
     
-    if not my_project in myconfig['projects']:
-        print('<b>!!!Invalid Project Name</b><br>')
+    if not my_project in myconfig['project_whitelist']:
+        logger.error('<b>!!!Invalid Project Name</b><br>')
         return False
     if not isinstance(my_date, date):
-        print('<b>!!!Invalid Invoice Date</b><br>')
+        logger.error('<b>!!!Invalid Invoice Date</b><br>')
         return False
     if not isinstance(my_amount, (int, float, complex)):
-        print('<b>!!!Invalid Amount</b><br>')
+        logger.error('<b>!!!Invalid Amount</b><br>')
         return False
 
     return True
 
-def read_ecncost():
-    ExpenseInternal.query.delete()
-    # delete all records, then insert read records
-    print('<h2>Reading ecn_cost/internal_expense data...</h2>')
+def read_external():
+    t_meta = read_config_json()['external_report']
+
+    # metadata dict
+    t_wb = load_workbook(t_meta['filePath'], read_only=True, data_only=True)
+    t_ws = t_wb[t_meta['sheetName']]
+    
+    col_start = t_meta['dataStartFromColumn']
+    col_end = t_meta['dataEndAtColumn']
+    row_start = t_meta['dataStartFromRow']
+    row_end = t_meta['dataEndAtRow']
+    header_row = t_meta['headerRow']
+    current_row = 1
+    table_header = []
+    data_dict = {}
+    # get table header dict
+    for col in range(col_start, col_end + 1):
+        table_header.append(t_ws.cell(row=header_row, column=col).value)
+
+    index_of_date_col = table_header.index('date')
+    # get table header dict
+    for row in t_ws.iter_rows(min_row=row_start, max_row=row_end, min_col=col_start, max_col=col_end, values_only=True):
+        row = list(row)
+        row[index_of_date_col] = str(row[index_of_date_col].date()) # json encode str(datetime)
+        data_dict[current_row] = row
+        current_row += 1
+
+    all_dict = {'metadata':t_meta, 'header': table_header, 'data': data_dict}
+    with open(t_meta['jsonPath'], 'w') as json_file:
+        json.dump(all_dict, json_file, ensure_ascii=False, indent=4)
+        
+    return 'OK'
+
+# def read_external():
+#     myconfig = read_config_json()['external_effort']
+#     return excel_to_json(myconfig['filePath'], myconfig['sheetName'], myconfig['headerRow'], myconfig['dataStartFromRow'], myconfig['dataEndAtRow'], myconfig['dataStartFromColumn'], myconfig['dataEndAtColumn'], myconfig['jsonPath'])
+
+def process_ecncost():
+    logger.info('<h2>Reading ecn_cost/internal_expense data...</h2>')
     myconfig = read_config_json()
     wb = load_workbook(myconfig['ecnCost']['filePath'], data_only=True)
     ws = wb[myconfig['ecnCost']['sheetName']]
@@ -123,36 +172,37 @@ def read_ecncost():
     column_end = myconfig['ecnCost']['dataEndAtColumn'] # K
     table_header = myconfig['ecnCost']['tableHeaderRow']
     table_index = myconfig['ecnCost']['tableIndexColumn']
-    
+    t_header = ['project', 'month', 'amount']
+    t_metadata = myconfig['ecnCost']
+    data_dict = dict()
+    record_num = 1
+
     for row in range(row_start, row_end + 1):
         for col in range(column_start, column_end + 1):
             tmp_cell = ws.cell(row=row, column=col)
             if tmp_cell.value:
-                myProject = ws.cell(row=table_header, column=col).value
+                myProject = ws.cell(row=table_header, column=col).value             
                 myDate = date(2021,ws.cell(row=row, column=table_index).value,1)
                 myAmount = tmp_cell.value
                 if check_data(myProject, myDate, myAmount):
-                    try:
-                        expense_internal = ExpenseInternal(project=myProject, invoice_date=myDate, amount=myAmount)
-                        db.session.add(expense_internal)
-                        db.session.commit()
-                        myDataTotal += myAmount
-                        myTuple = (myProject, myDate, myAmount)
-                        myData.append(myTuple)
-                        print('{} add to database successfully<br>'.format(myTuple))
-                    except:
-                        print('{} can not be added to database<br>'.format(myTuple))
+                    myDataTotal += myAmount
+                    myTuple = (myProject, str(myDate), myAmount)
+                    data_dict[record_num] = myTuple
+                    record_num += 1
+                    myData.append(myTuple)
+                    logger.info('{} add to database successfully<br>'.format(myTuple))
                 else:
-                    print('{} {} {} has been dropped<br>'.format(myProject, myDate, myAmount))
+                    logger.error('{} {} {} has been dropped<br>'.format(myProject, str(myDate), myAmount))
 
-    # print(myData)
+    all_dict = {'metadata':t_metadata, 'header': t_header, 'data': data_dict}
+    json_file_name = myconfig['ecnCost']['jsonPath']
+    with open(json_file_name, 'w') as json_file:
+            json.dump(all_dict, json_file, ensure_ascii=False, indent=4)
     myDataLength = len(myData)
-    print('<h3>{} value read, sum of amount is {}</h3>'.format(str(myDataLength), str(myDataTotal)))
+    logger.info('<h3>{} value read, sum of amount is {}</h3>'.format(str(myDataLength), str(myDataTotal)))
 
-def read_billing_status():
-    Revenue.query.delete()
-    # delete all records, then insert read records
-    print('<h2>Reading billing_status/revenue data...</h2>')
+def process_billing_status():
+    logger.info('<h2>Reading billing_status/revenue data...</h2>')
     myconfig = read_config_json()
 
     wb = load_workbook(myconfig['billing_status']['filePath'], data_only=True)
@@ -163,9 +213,13 @@ def read_billing_status():
     column_project = myconfig['billing_status']['column_project']
     column_date = myconfig['billing_status']['column_date']
     column_amount = myconfig['billing_status']['column_amount']
+    t_header = ['project', 'invoice_date', 'amount']
+    t_metadata = myconfig['billing_status']
 
     myData = []
     myDataTotal = 0
+    data_dict = dict()
+    record_num = 1
 
     for row in range(row_start, row_end + 1):
         # read property:date
@@ -180,21 +234,22 @@ def read_billing_status():
         # read property:amount
         myAmount = ws.cell(row=row, column=column_amount).value
         if check_data(myProject, myDate, myAmount):
-            try:
-                revenue = Revenue(project=myProject, invoice_date=myDate, amount=myAmount)
-                db.session.add(revenue)
-                db.session.commit()
-                myDataTotal += myAmount
-                myTuple = (myProject, myDate, myAmount)
-                myData.append(myTuple)
-                print('{} add to database successfully<br>'.format(myTuple))
-            except:
-                print('{} can not be added to database<br>'.format(myTuple))
+            myDataTotal += myAmount
+            myTuple = (myProject, str(myDate.date()), myAmount)
+            data_dict[record_num] = myTuple
+            record_num += 1
+            myData.append(myTuple)
+            logger.info('{} add to database successfully<br>'.format(myTuple))
         else:
-            print('{} {} {} has been dropped<br>'.format(myProject, myDate, myAmount))
+            logger.error('{} {} {} has been dropped<br>'.format(myProject, str(myDate), myAmount))
+
+    all_dict = {'metadata':t_metadata, 'header': t_header, 'data': data_dict}
+    json_file_name = myconfig['billing_status']['jsonPath']
+    with open(json_file_name, 'w') as json_file:
+            json.dump(all_dict, json_file, ensure_ascii=False, indent=4)
 
     myDataLength = len(myData)
-    print('<h3>{} value read, sum of amount is {}</h3>'.format(str(myDataLength), str(myDataTotal)))
+    logger.info('<h3>{} value read, sum of amount is {}</h3>'.format(str(myDataLength), str(myDataTotal)))
 
 def read_external_effort():
     import shutil
@@ -233,14 +288,15 @@ def read_external_effort():
     myDataLength = len(myData)
     print('<h3>{} value read, sum of amount is {}</h3>'.format(str(myDataLength), str(myDataTotal)))
 
-def stage1_data2db():
-    print('<h1>Stage1: Read data into database</h1>')
+def stage1_data2json():
+    print('<h1>Stage1: Read data into JSON database</h1>')
+    # myconfig = read_config_json()
     read_ecncost()
-    read_billing_status()
+    process_billing_status()
     read_external_effort()
 
 def stage2_db2csv():
-    print('<h1>Stage2: Export data to csv</h1>')
+    logger.info('<h1>Stage2: Export data to csv</h1>')
     import pandas as pd
     import sqlite3
     myconfig = read_config_json()
@@ -278,6 +334,43 @@ def stage2_db2csv():
 
     conn.close()
 
+def data2csv():
+    import csv
+
+    logger.info('<h1>Stage2: Export data to csv</h1>')
+    columns_data_dumped= ['project','amount', 'invoiceDate', 'type']
+    columns_data_expense = ['project','billDate','expense','category', 'partner']
+    t_data_dumped = list()
+    t_data_expense = list()
+    with open('billing_status.json', 'r') as f:
+        revenue = json.load(f)['data']
+
+    with open('from_vendor.json', 'r') as f:
+        expense = json.load(f)['data']
+
+    with open('ecn_cost.json', 'r') as f:
+        rbei = json.load(f)['data']
+
+    for key, item in revenue.items():
+        t_data_dumped.append((item[0], item[2]*1.06, item[1], '03-Revenue'))
+
+    for key, item in expense.items():
+        t_data_dumped.append((item[0], item[3]*-1, item[2], '02-RBEI'))
+        t_data_expense.append((item[0], item[2], item[3], item[4], item[5]))
+
+    for key, item in rbei.items():
+        t_data_dumped.append((item[0], item[2]*-1, item[1], '01-Vendor'))
+    
+    with open('dataDumped.csv', 'w', encoding='UTF8', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(columns_data_dumped)
+        writer.writerows(t_data_dumped)
+
+    with open('dataExpensecsv', 'w', encoding='UTF8', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(columns_data_expense)
+        writer.writerows(t_data_expense)
+
 if __name__ == '__main__':
     print('OK')
     # db2xlsx()
@@ -285,4 +378,8 @@ if __name__ == '__main__':
     # t_all2 = t_all_dict + audi2python(4) + audi2python(10) + audi2python(16) + audi2python(22) + audi2python(28) + audi2python(34)
 
     # print(len(t_all2))
-    audi2excel()
+    # audi2excel()
+    # read_ecncost()
+    # process_billing_status()
+    # read_external()
+    # read_vendor_reports('reportFromVendor')

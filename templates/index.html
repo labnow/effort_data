@@ -6,13 +6,17 @@
 
 {% block body %}
 <div class="content">
-    <a href="/run"><h2>Start Processing...</h2></a>
-    <a href="/update_config"><h3>Update Config</h3></a>
-    <a href="/showall"><h3>Show all data</h3></a>
-    <!-- <a href="/delete/"><h3>Delete record of ?id</id></h3></a> -->
+    <h3>Stage 1: Prepare Data - Import data to database</h3>
+    <a href="/read_ecn_cost"><b>Data source 1: Load ecn_cost.xlsx into database</b></a><br>
+    <a href="/read_billing_status"><b>Data source 2: Load billing_status.xlsx into database</b></a><br>
+    <a href="/read_reports_from_vendor"><b>Data source 3: Load all reports from vendor into database</b></a>
+    <h3>Stage 2: Generate Pivot Report </h3>
+    <a href="/generate_pivot"><b>Prepare pivot</b></a>
     <br><br>
-    <h3>Current config:</h3>
-    <p>{{ myStr }}</p>
-    
+    <h3>Other:</h3>
+    {% for item in data_to_print %}
+        <a href="/print_data/{{item}}"><b>Print data of {{item}}</b></a><br>
+    {% endfor %}
+    <a href="/update_config"><b>Update Config</b></a>
 </div>
 {% endblock %}

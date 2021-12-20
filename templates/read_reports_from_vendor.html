@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>alpha</title>
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h2>Read report from vendor</h2>
+    <p><i>Report shall naming as Vendor_EffortHoursSummary_YearMonth.xlsx</i></p>
+    <p><b>These excels already in database, skipped...</b></p>
+    {% for item in processed_reports %}
+        - {{item}} 
+    {% endfor %}
+    <h2>Start Processing...</h2>
+    {% if reports %}
+        {% for item in reports %}
+            - {{item}}<br>
+        {% endfor %}
+        <p><b>Aborted!!! Please check excel table format</b></p>
+    {% else %}
+        <P>Nothing!!!</P>
+    {% endif %}
+</div>
+{% endblock %}

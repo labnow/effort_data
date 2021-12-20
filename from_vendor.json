@@ -1,0 +1,5063 @@
+{
+    "metadata": {
+        "_description": "this is the old database",
+        "filePath": "data_from_vendor.xlsx",
+        "jsonPath": "from_vendor.json",
+        "sheetName": "default",
+        "headerRow": 3,
+        "dataStartFromRow": 4,
+        "dataEndAtRow": 633,
+        "dataStartFromColumn": 3,
+        "dataEndAtColumn": 8
+    },
+    "header": [
+        "project",
+        "item",
+        "date",
+        "amount",
+        "category",
+        "partner"
+    ],
+    "data": {
+        "1": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2018-11-01",
+            32625,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "2": [
+            "GE13",
+            "陈康康/Kangkang Chen",
+            "2018-11-01",
+            17500,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "3": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2018-11-01",
+            15750,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "4": [
+            "GE12B",
+            "Cables-Dec2018",
+            "2018-12-01",
+            30150,
+            "Expense",
+            "Foryou"
+        ],
+        "5": [
+            "GE12B",
+            "Expense Purchase",
+            "2018-12-01",
+            10125,
+            "Expense",
+            "Foryou"
+        ],
+        "6": [
+            "GE13",
+            "Expense rent from ETAS",
+            "2018-12-01",
+            11925,
+            "Expense",
+            "Foryou"
+        ],
+        "7": [
+            "GE12B",
+            "Expense rent from For you",
+            "2018-12-01",
+            14400,
+            "Expense",
+            "Foryou"
+        ],
+        "8": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2018-12-01",
+            32625,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "9": [
+            "GE13",
+            "陈康康/Kangkang Chen",
+            "2018-12-01",
+            17500,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "10": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2018-12-01",
+            15750,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "11": [
+            "GE13",
+            "Apartment for Dec2018 to Feb2019",
+            "2018-12-01",
+            16875,
+            "Expense",
+            "Foryou"
+        ],
+        "12": [
+            "GE13",
+            "Apartment for Dec2018 to Feb2019",
+            "2018-12-01",
+            16650,
+            "Expense",
+            "Foryou"
+        ],
+        "13": [
+            "GE12B",
+            "Test case-Jan",
+            "2019-01-01",
+            84600,
+            "Expense",
+            "Foryou"
+        ],
+        "14": [
+            "GE13",
+            "Expense Rental Jan",
+            "2019-01-01",
+            23287.5,
+            "Expense",
+            "Foryou"
+        ],
+        "15": [
+            "GE13",
+            "Intern Fee-Jan",
+            "2019-01-01",
+            15637.5,
+            "Expense",
+            "Foryou"
+        ],
+        "16": [
+            "GE12B",
+            "博阳/Yang Bo",
+            "2019-01-01",
+            34537.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "17": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2019-01-01",
+            51300,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "18": [
+            "GE13",
+            "汤元/Yuan Tang",
+            "2019-01-01",
+            34560,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "19": [
+            "GE13",
+            "陈康康/Kangkang Chen",
+            "2019-01-01",
+            48375,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "20": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-01-01",
+            53550,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "21": [
+            "GE12B",
+            "Test case-Feb",
+            "2019-02-01",
+            111600,
+            "Expense",
+            "Foryou"
+        ],
+        "22": [
+            "GE13",
+            "Apartment for Mar-Jun2019",
+            "2019-02-01",
+            10500,
+            "Expense",
+            "Foryou"
+        ],
+        "23": [
+            "GE12B",
+            "Expense Rental Feb",
+            "2019-02-01",
+            33986.5,
+            "Expense",
+            "Foryou"
+        ],
+        "24": [
+            "GE13",
+            "Intern Fee-Feb",
+            "2019-02-01",
+            4922,
+            "Expense",
+            "Foryou"
+        ],
+        "25": [
+            "GE12B",
+            "博阳/Yang Bo",
+            "2019-02-01",
+            32400,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "26": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2019-02-01",
+            3600,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "27": [
+            "GE12B",
+            "徐萌萌/Mengmeng Xu",
+            "2019-02-01",
+            28800,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "28": [
+            "GE12B",
+            "汤元/Yuan Tang",
+            "2019-02-01",
+            21600,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "29": [
+            "GE12B",
+            "陈康康/Kangkang Chen",
+            "2019-02-01",
+            23175,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "30": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-02-01",
+            28125,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "31": [
+            "GE13",
+            "Expense of XuMengmeng",
+            "2019-03-01",
+            17227.22,
+            "Expense",
+            "Foryou"
+        ],
+        "32": [
+            "GE12B",
+            "Expense purchase",
+            "2019-03-01",
+            17883,
+            "Expense",
+            "Foryou"
+        ],
+        "33": [
+            "GE13",
+            "Expense purchase",
+            "2019-03-01",
+            17883,
+            "Expense",
+            "Foryou"
+        ],
+        "34": [
+            "GE12B",
+            "Euiqment rental",
+            "2019-03-01",
+            21850,
+            "Expense",
+            "Foryou"
+        ],
+        "35": [
+            "GE13",
+            "Euiqment rental",
+            "2019-03-01",
+            21850,
+            "Expense",
+            "Foryou"
+        ],
+        "36": [
+            "GE12B",
+            "Intern Fee",
+            "2019-03-01",
+            10784,
+            "Expense",
+            "Foryou"
+        ],
+        "37": [
+            "GE13",
+            "博阳/Yang Bo",
+            "2019-03-01",
+            44550,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "38": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2019-03-01",
+            5175,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "39": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2019-03-01",
+            54450,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "40": [
+            "GE13",
+            "汤元/Yuan Tang",
+            "2019-03-01",
+            31680,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "41": [
+            "GE12B",
+            "陈康康/Kangkang Chen",
+            "2019-03-01",
+            36000,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "42": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-03-01",
+            42075,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "43": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-03-01",
+            42075,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "44": [
+            "GE12B",
+            "Euiqment rental",
+            "2019-04-01",
+            20887.1,
+            "Expense",
+            "Foryou"
+        ],
+        "45": [
+            "GE13",
+            "Euiqment rental",
+            "2019-04-01",
+            20887.1,
+            "Expense",
+            "Foryou"
+        ],
+        "46": [
+            "GE13",
+            "Intern Fee",
+            "2019-04-01",
+            6246.5,
+            "Expense",
+            "Foryou"
+        ],
+        "47": [
+            "GE13",
+            "博阳/Yang Bo",
+            "2019-04-01",
+            40950,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "48": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2019-04-01",
+            40500,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "49": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2019-04-01",
+            37800,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "50": [
+            "GE13",
+            "汤元/Yuan Tang",
+            "2019-04-01",
+            37800,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "51": [
+            "GE12B",
+            "陈康康/Kangkang Chen",
+            "2019-04-01",
+            29340,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "52": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-04-01",
+            33750,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "53": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-04-01",
+            33750,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "54": [
+            "GE12B",
+            "Expense of XuMengmeng",
+            "2019-05-01",
+            3028.75,
+            "Expense",
+            "Foryou"
+        ],
+        "55": [
+            "GE12B",
+            "Euiqment rental",
+            "2019-05-01",
+            21850,
+            "Expense",
+            "Foryou"
+        ],
+        "56": [
+            "GE13",
+            "Euiqment rental",
+            "2019-05-01",
+            21850,
+            "Expense",
+            "Foryou"
+        ],
+        "57": [
+            "GE13",
+            "Intern Fee",
+            "2019-05-01",
+            9196.5,
+            "Expense",
+            "Foryou"
+        ],
+        "58": [
+            "GE13",
+            "博阳/Yang Bo",
+            "2019-05-01",
+            27562.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "59": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2019-05-01",
+            39375,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "60": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2019-05-01",
+            48937.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "61": [
+            "GE13",
+            "李艳/Yan Li",
+            "2019-05-01",
+            30600,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "62": [
+            "GE13",
+            "杨明星/Mingxing Yang",
+            "2019-05-01",
+            11587.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "63": [
+            "GE13",
+            "汤元/Yuan Tang",
+            "2019-05-01",
+            31590,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "64": [
+            "GE13",
+            "谢厚德/Houde Xie",
+            "2019-05-01",
+            18000,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "65": [
+            "GE13",
+            "陈康康/Kangkang Chen",
+            "2019-05-01",
+            43312.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "66": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-05-01",
+            37350,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "67": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-05-01",
+            37350,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "68": [
+            "GE13",
+            "Expense",
+            "2019-06-01",
+            5702.29,
+            "Expense",
+            "Foryou"
+        ],
+        "69": [
+            "GE13",
+            "Test Case Writing",
+            "2019-06-01",
+            102600,
+            "Expense",
+            "Foryou"
+        ],
+        "70": [
+            "GE13",
+            "Apartment rental",
+            "2019-06-01",
+            21000,
+            "Expense",
+            "Foryou"
+        ],
+        "71": [
+            "GE12B",
+            "Euiqment rental",
+            "2019-06-01",
+            18916.67,
+            "Expense",
+            "Foryou"
+        ],
+        "72": [
+            "GE13",
+            "Euiqment rental",
+            "2019-06-01",
+            18916.67,
+            "Expense",
+            "Foryou"
+        ],
+        "73": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2019-06-01",
+            38025,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "74": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2019-06-01",
+            39262.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "75": [
+            "GE13",
+            "李艳/Yan Li",
+            "2019-06-01",
+            42300,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "76": [
+            "GE13",
+            "杨明星/Mingxing Yang",
+            "2019-06-01",
+            44887.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "77": [
+            "GE13",
+            "汤元/Yuan Tang",
+            "2019-06-01",
+            29160,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "78": [
+            "GE13",
+            "谢厚德/Houde Xie",
+            "2019-06-01",
+            23400,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "79": [
+            "GE13",
+            "陈康康/Kangkang Chen",
+            "2019-06-01",
+            32850,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "80": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-06-01",
+            38362.5,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "81": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-06-01",
+            38362.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "82": [
+            "GE12B",
+            "Expense",
+            "2019-07-01",
+            3565,
+            "Expense",
+            "Foryou"
+        ],
+        "83": [
+            "GE12B",
+            "CANoe",
+            "2019-07-01",
+            4000,
+            "Expense",
+            "Jintech"
+        ],
+        "84": [
+            "GE13",
+            "CANoe",
+            "2019-07-01",
+            4000,
+            "Expense",
+            "Jintech"
+        ],
+        "85": [
+            "GE12B",
+            "Euiqment rental",
+            "2019-07-01",
+            19850,
+            "Expense",
+            "Foryou"
+        ],
+        "86": [
+            "GE13",
+            "Euiqment rental",
+            "2019-07-01",
+            19850,
+            "Expense",
+            "Foryou"
+        ],
+        "87": [
+            "GE13",
+            "Internet Fee",
+            "2019-07-01",
+            3500,
+            "Expense",
+            "Foryou"
+        ],
+        "88": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2019-07-01",
+            14400,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "89": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2019-07-01",
+            49938.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "90": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2019-07-01",
+            50186.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "91": [
+            "GE13",
+            "李艳/Yan Li",
+            "2019-07-01",
+            47340,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "92": [
+            "GE13",
+            "杨明星/Mingxing Yang",
+            "2019-07-01",
+            48948.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "93": [
+            "GE12B",
+            "杨波涛/Botao Yang",
+            "2019-07-01",
+            48600,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "94": [
+            "GE13",
+            "汤元/Yuan Tang",
+            "2019-07-01",
+            33813,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "95": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-07-01",
+            43998.75,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "96": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-07-01",
+            43998.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "97": [
+            "GE13",
+            "Expense",
+            "2019-08-01",
+            2560,
+            "Expense",
+            "Foryou"
+        ],
+        "98": [
+            "GE13",
+            "Shen Chunjian",
+            "2019-08-01",
+            32175,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "99": [
+            "GE13",
+            "代天文/Tianwen Dai",
+            "2019-08-01",
+            7200,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "100": [
+            "GE12B",
+            "CANoe",
+            "2019-08-01",
+            4000,
+            "Expense",
+            "Jintech"
+        ],
+        "101": [
+            "GE13",
+            "CANoe",
+            "2019-08-01",
+            4000,
+            "Expense",
+            "Jintech"
+        ],
+        "102": [
+            "GE12B",
+            "Euiqment rental",
+            "2019-08-01",
+            19850,
+            "Expense",
+            "Foryou"
+        ],
+        "103": [
+            "GE13",
+            "Euiqment rental",
+            "2019-08-01",
+            19850,
+            "Expense",
+            "Foryou"
+        ],
+        "104": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2019-08-01",
+            38362.5,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "105": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2019-08-01",
+            47767.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "106": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2019-08-01",
+            48633.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "107": [
+            "GE13",
+            "李艳/Yan Li",
+            "2019-08-01",
+            46901.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "108": [
+            "GE13",
+            "杨明星/Mingxing Yang",
+            "2019-08-01",
+            44426.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "109": [
+            "GE12B",
+            "杨波涛/Botao Yang",
+            "2019-08-01",
+            64912.5,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "110": [
+            "GE13",
+            "汤元/Yuan Tang",
+            "2019-08-01",
+            15840,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "111": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2019-08-01",
+            9000,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "112": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-08-01",
+            39600,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "113": [
+            "FE5AB/6AB",
+            "Expense",
+            "2019-09-01",
+            3293.5,
+            "Expense",
+            "Foryou"
+        ],
+        "114": [
+            "GE13",
+            "Shen Chunjian",
+            "2019-09-01",
+            16200,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "115": [
+            "GE13",
+            "代天文/Tianwen Dai",
+            "2019-09-01",
+            43065,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "116": [
+            "GE13",
+            "Apartment renteal&Utility",
+            "2019-09-01",
+            25348.3,
+            "Expense",
+            "Foryou"
+        ],
+        "117": [
+            "FE5AB/6AB",
+            "CANoe",
+            "2019-09-01",
+            2666.67,
+            "Expense",
+            "Jintech"
+        ],
+        "118": [
+            "GE12B",
+            "CANoe",
+            "2019-09-01",
+            2666.67,
+            "Expense",
+            "Jintech"
+        ],
+        "119": [
+            "GE13",
+            "CANoe",
+            "2019-09-01",
+            2666.67,
+            "Expense",
+            "Jintech"
+        ],
+        "120": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2019-09-01",
+            13233.33,
+            "Expense",
+            "Foryou"
+        ],
+        "121": [
+            "GE12B",
+            "Euiqment rental",
+            "2019-09-01",
+            13233.33,
+            "Expense",
+            "Foryou"
+        ],
+        "122": [
+            "GE13",
+            "Euiqment rental",
+            "2019-09-01",
+            13233.33,
+            "Expense",
+            "Foryou"
+        ],
+        "123": [
+            "FE5AB/6AB",
+            "Li Xinhui",
+            "2019-09-01",
+            43680,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "124": [
+            "GE13",
+            "Li Xinhui",
+            "2019-09-01",
+            3780,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "125": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2019-09-01",
+            37800,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "126": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2019-09-01",
+            39060,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "127": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2019-09-01",
+            42806.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "128": [
+            "GE13",
+            "李艳/Yan Li",
+            "2019-09-01",
+            42693.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "129": [
+            "GE13",
+            "杨明星/Mingxing Yang",
+            "2019-09-01",
+            13351.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "130": [
+            "GE12B",
+            "杨波涛/Botao Yang",
+            "2019-09-01",
+            31387.5,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "131": [
+            "GE13",
+            "范国栋/Guodong Fan",
+            "2019-09-01",
+            14850,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "132": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2019-09-01",
+            48375,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "133": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-09-01",
+            37237.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "134": [
+            "GE12B",
+            "Expense",
+            "2019-10-01",
+            8783,
+            "Expense",
+            "Foryou"
+        ],
+        "135": [
+            "FE5AB/6AB",
+            "Utility&Room Service",
+            "2019-10-01",
+            1015.87,
+            "Expense",
+            "Foryou"
+        ],
+        "136": [
+            "GE13",
+            "代天文/Tianwen Dai",
+            "2019-10-01",
+            46091.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "137": [
+            "FE5AB/6AB",
+            "Expense rental",
+            "2019-10-01",
+            5419.35,
+            "Expense",
+            "Jintech"
+        ],
+        "138": [
+            "GE12B",
+            "Expense rental",
+            "2019-10-01",
+            5419.35,
+            "Expense",
+            "Jintech"
+        ],
+        "139": [
+            "GE13",
+            "Expense rental",
+            "2019-10-01",
+            5419.35,
+            "Expense",
+            "Jintech"
+        ],
+        "140": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2019-10-01",
+            15900,
+            "Expense",
+            "Foryou"
+        ],
+        "141": [
+            "GE12B",
+            "Euiqment rental",
+            "2019-10-01",
+            15900,
+            "Expense",
+            "Foryou"
+        ],
+        "142": [
+            "GE13",
+            "Euiqment rental",
+            "2019-10-01",
+            15900,
+            "Expense",
+            "Foryou"
+        ],
+        "143": [
+            "FE5AB/6AB",
+            "Li Xinhui",
+            "2019-10-01",
+            44100,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "144": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2019-10-01",
+            38925,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "145": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2019-10-01",
+            39903.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "146": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2019-10-01",
+            22680,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "147": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2019-10-01",
+            48813.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "148": [
+            "FE5AB/6AB",
+            "文明鑫/Mingxin Wen",
+            "2019-10-01",
+            29193.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "149": [
+            "GE13",
+            "易晨/Cheng Yi",
+            "2019-10-01",
+            47700,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "150": [
+            "GE13",
+            "李艳/Yan Li",
+            "2019-10-01",
+            49927.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "151": [
+            "GE12B",
+            "杨波涛/Botao Yang",
+            "2019-10-01",
+            41625,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "152": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2019-10-01",
+            38666.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "153": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2019-10-01",
+            42502.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "154": [
+            "GE13",
+            "赵洪飞/Hongfei Zhao",
+            "2019-10-01",
+            37800,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "155": [
+            "FE5AB/6AB",
+            "陈乾/Qian Chen",
+            "2019-10-01",
+            19125,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "156": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2019-10-01",
+            40950,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "157": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-10-01",
+            39093.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "158": [
+            "GE13",
+            "Expense",
+            "2019-11-01",
+            17729.5,
+            "Expense",
+            "Foryou"
+        ],
+        "159": [
+            "GE13",
+            "Utility&Room Service",
+            "2019-11-01",
+            1476.49,
+            "Expense",
+            "Foryou"
+        ],
+        "160": [
+            "GE13",
+            "代天文/Tianwen Dai",
+            "2019-11-01",
+            43425,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "161": [
+            "GE13",
+            "Apartment Rental - Manoj",
+            "2019-11-01",
+            21000,
+            "Expense",
+            "Foryou"
+        ],
+        "162": [
+            "FE5AB/6AB",
+            "CANoe+Canalyzer",
+            "2019-11-01",
+            16297.85,
+            "Expense",
+            "Jintech"
+        ],
+        "163": [
+            "GE13",
+            "CANoe+Canalyzer",
+            "2019-11-01",
+            16297.85,
+            "Expense",
+            "Jintech"
+        ],
+        "164": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2019-11-01",
+            27850,
+            "Expense",
+            "Foryou"
+        ],
+        "165": [
+            "GE13",
+            "Euiqment rental",
+            "2019-11-01",
+            27850,
+            "Expense",
+            "Foryou"
+        ],
+        "166": [
+            "GE13",
+            "Expense on Geely Projects",
+            "2019-11-01",
+            31427.8,
+            "Expense",
+            "Jintech"
+        ],
+        "167": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2019-11-01",
+            51070.175,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "168": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2019-11-01",
+            45720,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "169": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2019-11-01",
+            51240,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "170": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2019-11-01",
+            55125,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "171": [
+            "FE5AB/6AB",
+            "文明鑫/Mingxin Wen",
+            "2019-11-01",
+            56733.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "172": [
+            "GE13",
+            "易晨/Cheng Yi",
+            "2019-11-01",
+            49159.025,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "173": [
+            "GE13",
+            "李艳/Yan Li",
+            "2019-11-01",
+            50670,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "174": [
+            "GE12B",
+            "杨波涛/Botao Yang",
+            "2019-11-01",
+            43637.925,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "175": [
+            "FE5AB/6AB",
+            "王林辉/Linhui Wang",
+            "2019-11-01",
+            20160,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "176": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2019-11-01",
+            52526.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "177": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2019-11-01",
+            55710,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "178": [
+            "GE13",
+            "赵洪飞/Hongfei Zhao",
+            "2019-11-01",
+            48937.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "179": [
+            "FE5AB/6AB",
+            "陈乾/Qian Chen",
+            "2019-11-01",
+            46292.3,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "180": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2019-11-01",
+            46186.125,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "181": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-11-01",
+            43987.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "182": [
+            "FE5AB/6AB",
+            "Expense",
+            "2019-12-01",
+            18039.27,
+            "Expense",
+            "Foryou"
+        ],
+        "183": [
+            "FE5AB/6AB",
+            "Utility&Room Service",
+            "2019-12-01",
+            4496.2,
+            "Expense",
+            "Foryou"
+        ],
+        "184": [
+            "GE13",
+            "代天文/Tianwen Dai",
+            "2019-12-01",
+            45967.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "185": [
+            "FE5AB/6AB",
+            "Apartment Rental - Venu",
+            "2019-12-01",
+            21000,
+            "Expense",
+            "Foryou"
+        ],
+        "186": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2019-12-01",
+            23850,
+            "Expense",
+            "Foryou"
+        ],
+        "187": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2019-12-01",
+            7661.29,
+            "Expense",
+            "Jintech"
+        ],
+        "188": [
+            "GE13",
+            "Euiqment rental",
+            "2019-12-01",
+            23850,
+            "Expense",
+            "Foryou"
+        ],
+        "189": [
+            "GE13",
+            "Euiqment rental",
+            "2019-12-01",
+            7661.29,
+            "Expense",
+            "Jintech"
+        ],
+        "190": [
+            "FE5AB/6AB",
+            "Expense on Geely Project",
+            "2019-12-01",
+            35317.74,
+            "Expense",
+            "Jintech"
+        ],
+        "191": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2019-12-01",
+            50539.3,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "192": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2019-12-01",
+            43987.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "193": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2019-12-01",
+            47460,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "194": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2019-12-01",
+            47081.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "195": [
+            "FE5AB/6AB",
+            "文明鑫/Mingxin Wen",
+            "2019-12-01",
+            47823.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "196": [
+            "GE13",
+            "易晨/Cheng Yi",
+            "2019-12-01",
+            49583.7,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "197": [
+            "GE13",
+            "李艳/Yan Li",
+            "2019-12-01",
+            44977.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "198": [
+            "GE12B",
+            "杨波涛/Botao Yang",
+            "2019-12-01",
+            35993.3,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "199": [
+            "FE5AB/6AB",
+            "王林辉/Linhui Wang",
+            "2019-12-01",
+            46200,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "200": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2019-12-01",
+            47576.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "201": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2019-12-01",
+            45596.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "202": [
+            "GE13",
+            "赵洪飞/Hongfei Zhao",
+            "2019-12-01",
+            45967.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "203": [
+            "FE5AB/6AB",
+            "陈乾/Qian Chen",
+            "2019-12-01",
+            47723.7,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "204": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2019-12-01",
+            47276.6,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "205": [
+            "HMI",
+            "韩译萱/Yixuan Han",
+            "2019-12-01",
+            25370.7,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "206": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2019-12-01",
+            45348.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "207": [
+            "GE13",
+            "Expense",
+            "2020-01-01",
+            6263.5,
+            "Expense",
+            "Foryou"
+        ],
+        "208": [
+            "GE13",
+            "Utility&Room Service",
+            "2020-01-01",
+            1105.59,
+            "Expense",
+            "Foryou"
+        ],
+        "209": [
+            "GE13",
+            "Apartment Rental - Manoj",
+            "2020-01-01",
+            14000,
+            "Expense",
+            "Foryou"
+        ],
+        "210": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-01-01",
+            19850,
+            "Expense",
+            "Foryou"
+        ],
+        "211": [
+            "GE13",
+            "Euiqment rental",
+            "2020-01-01",
+            19850,
+            "Expense",
+            "Foryou"
+        ],
+        "212": [
+            "GE13",
+            "代天文/Tianwen Dai",
+            "2020-01-01",
+            29070,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "213": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2020-01-01",
+            26775,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "214": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2020-01-01",
+            30993.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "215": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2020-01-01",
+            26250,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "216": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2020-01-01",
+            29295,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "217": [
+            "FE5AB/6AB",
+            "文明鑫/Mingxin Wen",
+            "2020-01-01",
+            33052.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "218": [
+            "GE13",
+            "易晨/Cheng Yi",
+            "2020-01-01",
+            23626.1,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "219": [
+            "GE13",
+            "李艳/Yan Li",
+            "2020-01-01",
+            35055,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "220": [
+            "GE13",
+            "杨波涛/Botao Yang",
+            "2020-01-01",
+            22949.9,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "221": [
+            "FE5AB/6AB",
+            "王林辉/Linhui Wang",
+            "2020-01-01",
+            27930,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "222": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2020-01-01",
+            32703.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "223": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2020-01-01",
+            34998.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "224": [
+            "GE13",
+            "赵洪飞/Hongfei Zhao",
+            "2020-01-01",
+            28800,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "225": [
+            "FE5AB/6AB",
+            "陈乾/Qian Chen",
+            "2020-01-01",
+            23850,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "226": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2020-01-01",
+            28325.7,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "227": [
+            "HMI",
+            "韩译萱/Yixuan Han",
+            "2020-01-01",
+            19800,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "228": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2020-01-01",
+            28057.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "229": [
+            "FE5AB/6AB",
+            "Expense",
+            "2020-02-01",
+            2300,
+            "Expense",
+            "Jintech"
+        ],
+        "230": [
+            "GE13",
+            "Expense - Hanyixuan",
+            "2020-02-01",
+            736,
+            "Expense",
+            "Jintech"
+        ],
+        "231": [
+            "FE5AB/6AB",
+            "Utility&Room Service",
+            "2020-02-01",
+            506.87,
+            "Expense",
+            "Foryou"
+        ],
+        "232": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-02-01",
+            19850,
+            "Expense",
+            "Foryou"
+        ],
+        "233": [
+            "GE13",
+            "Euiqment rental",
+            "2020-02-01",
+            19850,
+            "Expense",
+            "Foryou"
+        ],
+        "234": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2020-02-01",
+            29250,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "235": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2020-02-01",
+            23625,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "236": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2020-02-01",
+            28455,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "237": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2020-02-01",
+            15187.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "238": [
+            "FE5AB/6AB",
+            "文明鑫/Mingxin Wen",
+            "2020-02-01",
+            29925,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "239": [
+            "FE5AB/6AB",
+            "易晨/Cheng Yi",
+            "2020-02-01",
+            24300,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "240": [
+            "FE5AB/6AB",
+            "易晨/Cheng Yi",
+            "2020-02-01",
+            6637.5,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "241": [
+            "GE13",
+            "李艳/Yan Li",
+            "2020-02-01",
+            25200,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "242": [
+            "GE13",
+            "杨波涛/Botao Yang",
+            "2020-02-01",
+            13500,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "243": [
+            "FE5AB/6AB",
+            "王林辉/Linhui Wang",
+            "2020-02-01",
+            17220,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "244": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2020-02-01",
+            29565,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "245": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2020-02-01",
+            26775,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "246": [
+            "GE13",
+            "赵洪飞/Hongfei Zhao",
+            "2020-02-01",
+            21150,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "247": [
+            "FE5AB/6AB",
+            "陈乾/Qian Chen",
+            "2020-02-01",
+            0,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "248": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2020-02-01",
+            7152.96,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "249": [
+            "HMI",
+            "韩译萱/Yixuan Han",
+            "2020-02-01",
+            28611.84,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "250": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2020-02-01",
+            22702.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "251": [
+            "FE3AH",
+            "Expense",
+            "2020-03-01",
+            62.7,
+            "Expense",
+            "Foryou"
+        ],
+        "252": [
+            "GE13",
+            "Expense",
+            "2020-03-01",
+            4000,
+            "Expense",
+            "Jintech"
+        ],
+        "253": [
+            "GE13",
+            "Expense - Hanyixuan",
+            "2020-03-01",
+            6100,
+            "Expense",
+            "Jintech"
+        ],
+        "254": [
+            "BYD",
+            "Expense - Taowenqiang",
+            "2020-03-01",
+            4816.96,
+            "Expense",
+            "Jintech"
+        ],
+        "255": [
+            "FE5AB/6AB",
+            "Room Service",
+            "2020-03-01",
+            450,
+            "Expense",
+            "Foryou"
+        ],
+        "256": [
+            "FE3AH",
+            "Test Case Writing",
+            "2020-03-01",
+            40500,
+            "Expense",
+            "Foryou"
+        ],
+        "257": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-03-01",
+            19850,
+            "Expense",
+            "Foryou"
+        ],
+        "258": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-03-01",
+            2967.74,
+            "Expense",
+            "Jintech"
+        ],
+        "259": [
+            "GE13",
+            "Euiqment rental",
+            "2020-03-01",
+            19850,
+            "Expense",
+            "Foryou"
+        ],
+        "260": [
+            "GE13",
+            "Euiqment rental",
+            "2020-03-01",
+            2967.74,
+            "Expense",
+            "Jintech"
+        ],
+        "261": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2020-03-01",
+            45899.45,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "262": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2020-03-01",
+            52593.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "263": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2020-03-01",
+            41895,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "264": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2020-03-01",
+            50737.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "265": [
+            "FE5AB/6AB",
+            "文明鑫/Mingxin Wen",
+            "2020-03-01",
+            52965,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "266": [
+            "FE5AB/6AB",
+            "易晨/Cheng Yi",
+            "2020-03-01",
+            54000.61,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "267": [
+            "GE13",
+            "李艳/Yan Li",
+            "2020-03-01",
+            51232.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "268": [
+            "GE13",
+            "杨明星/Mingxing Yang",
+            "2020-03-01",
+            44583.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "269": [
+            "FE5AB/6AB",
+            "杨波涛/Botao Yang",
+            "2020-03-01",
+            42862.85,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "270": [
+            "FE5AB/6AB",
+            "王林辉/Linhui Wang",
+            "2020-03-01",
+            15172.5,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "271": [
+            "GE13",
+            "王林辉/Linhui Wang",
+            "2020-03-01",
+            15172.5,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "272": [
+            "FE3AH",
+            "王玉龙/Yulong Wang",
+            "2020-03-01",
+            34377.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "273": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2020-03-01",
+            22918.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "274": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2020-03-01",
+            53460,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "275": [
+            "GE13",
+            "赵洪飞/Hongfei Zhao",
+            "2020-03-01",
+            51356.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "276": [
+            "FE5AB/6AB",
+            "陈乾/Qian Chen",
+            "2020-03-01",
+            52650.26,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "277": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2020-03-01",
+            19800.29,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "278": [
+            "GE13",
+            "韩译萱/Yixuan Han",
+            "2020-03-01",
+            44549.53,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "279": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2020-03-01",
+            52098.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "280": [
+            "GE13",
+            "Expense - Hanyixuan",
+            "2020-04-01",
+            6000,
+            "Expense",
+            "Jintech"
+        ],
+        "281": [
+            "GE13",
+            "Expense - Liyan",
+            "2020-04-01",
+            235,
+            "Expense",
+            "Foryou"
+        ],
+        "282": [
+            "FE3AH",
+            "Expense - Lizhipeng",
+            "2020-04-01",
+            4800,
+            "Expense",
+            "Foryou"
+        ],
+        "283": [
+            "BYD",
+            "Expense - Taowenqiang",
+            "2020-04-01",
+            6783.4,
+            "Expense",
+            "Jintech"
+        ],
+        "284": [
+            "FE3AH",
+            "Expense - Wangyulong",
+            "2020-04-01",
+            1880,
+            "Expense",
+            "Foryou"
+        ],
+        "285": [
+            "FE3AH",
+            "Expense - Wenmingxin",
+            "2020-04-01",
+            4754.5,
+            "Expense",
+            "Foryou"
+        ],
+        "286": [
+            "GE13",
+            "Room Service - Venu",
+            "2020-04-01",
+            450,
+            "Expense",
+            "Foryou"
+        ],
+        "287": [
+            "FE5AB/6AB",
+            "T-Box Testing",
+            "2020-04-01",
+            18000,
+            "Expense",
+            "Foryou"
+        ],
+        "288": [
+            "GE13",
+            "DF NEV Project",
+            "2020-04-01",
+            18000,
+            "Expense",
+            "Foryou"
+        ],
+        "289": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-04-01",
+            21527.42,
+            "Expense",
+            "Foryou"
+        ],
+        "290": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-04-01",
+            6133.33,
+            "Expense",
+            "Jintech"
+        ],
+        "291": [
+            "GE13",
+            "Euiqment rental",
+            "2020-04-01",
+            21527.42,
+            "Expense",
+            "Foryou"
+        ],
+        "292": [
+            "GE13",
+            "Euiqment rental",
+            "2020-04-01",
+            6133.33,
+            "Expense",
+            "Jintech"
+        ],
+        "293": [
+            "FE3AH",
+            "FE-3AH Test Case",
+            "2020-04-01",
+            46800.48,
+            "Expense",
+            "Jintech"
+        ],
+        "294": [
+            "FE5AB/6AB",
+            "FE-6AB Test Case",
+            "2020-04-01",
+            21599.7,
+            "Expense",
+            "Jintech"
+        ],
+        "295": [
+            "FE3AH",
+            "叶贤辉/Xianhui Ye",
+            "2020-04-01",
+            47936.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "296": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2020-04-01",
+            53550.42,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "297": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2020-04-01",
+            49275,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "298": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2020-04-01",
+            60690,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "299": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2020-04-01",
+            46698.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "300": [
+            "FE5AB/6AB",
+            "文明鑫/Mingxin Wen",
+            "2020-04-01",
+            62673.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "301": [
+            "FE5AB/6AB",
+            "易晨/Cheng Yi",
+            "2020-04-01",
+            57374.85,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "302": [
+            "GE13",
+            "李艳/Yan Li",
+            "2020-04-01",
+            50051.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "303": [
+            "GE13",
+            "杨明星/Mingxing Yang",
+            "2020-04-01",
+            55248.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "304": [
+            "FE3AH",
+            "杨波涛/Botao Yang",
+            "2020-04-01",
+            24300.27,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "305": [
+            "FE5AB/6AB",
+            "杨波涛/Botao Yang",
+            "2020-04-01",
+            24300.27,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "306": [
+            "FE3AH",
+            "王嘉伟/Jiawei Wang",
+            "2020-04-01",
+            44842.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "307": [
+            "FE5AB/6AB",
+            "王林辉/Linhui Wang",
+            "2020-04-01",
+            25410,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "308": [
+            "GE13",
+            "王林辉/Linhui Wang",
+            "2020-04-01",
+            25410,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "309": [
+            "FE3AH",
+            "王玉龙/Yulong Wang",
+            "2020-04-01",
+            34411.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "310": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2020-04-01",
+            22941,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "311": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2020-04-01",
+            52773.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "312": [
+            "GE13",
+            "赵洪飞/Hongfei Zhao",
+            "2020-04-01",
+            52402.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "313": [
+            "FE5AB/6AB",
+            "陈乾/Qian Chen",
+            "2020-04-01",
+            54112.14,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "314": [
+            "FE3AH",
+            "陈威迪/Weidi Chen",
+            "2020-04-01",
+            41511.76,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "315": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2020-04-01",
+            39600.57,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "316": [
+            "FE3AH",
+            "韩松松/Songsong Han",
+            "2020-04-01",
+            32624.2,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "317": [
+            "GE13",
+            "韩译萱/Yixuan Han",
+            "2020-04-01",
+            52312.73,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "318": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2020-04-01",
+            45607.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "319": [
+            "DFM",
+            "Expense - DF",
+            "2020-05-01",
+            3255,
+            "Expense",
+            "Foryou"
+        ],
+        "320": [
+            "GE13",
+            "Expense - Hanyixuan",
+            "2020-05-01",
+            6689,
+            "Expense",
+            "Jintech"
+        ],
+        "321": [
+            "GE13",
+            "Expense - Other",
+            "2020-05-01",
+            59200,
+            "Expense",
+            "Jintech"
+        ],
+        "322": [
+            "BYD",
+            "Expense - Taowenqiang",
+            "2020-05-01",
+            6548.37,
+            "Expense",
+            "Jintech"
+        ],
+        "323": [
+            "FE3AH",
+            "Expense - Wangyulong",
+            "2020-05-01",
+            1100,
+            "Expense",
+            "Foryou"
+        ],
+        "324": [
+            "FE3AH",
+            "Expense - Wenmingxin",
+            "2020-05-01",
+            80,
+            "Expense",
+            "Foryou"
+        ],
+        "325": [
+            "GE13",
+            "Apartment - Manoj",
+            "2020-05-01",
+            4433.37,
+            "Expense",
+            "Foryou"
+        ],
+        "326": [
+            "GE13",
+            "Apartment - Venu",
+            "2020-05-01",
+            52.33,
+            "Expense",
+            "Foryou"
+        ],
+        "327": [
+            "FE5AB/6AB",
+            "BCM Testing",
+            "2020-05-01",
+            18000,
+            "Expense",
+            "Foryou"
+        ],
+        "328": [
+            "GE13",
+            "BJ Biding",
+            "2020-05-01",
+            3161,
+            "Expense",
+            "Foryou"
+        ],
+        "329": [
+            "DFM",
+            "DF New Energy Project",
+            "2020-05-01",
+            45900,
+            "Expense",
+            "Foryou"
+        ],
+        "330": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-05-01",
+            23850,
+            "Expense",
+            "Foryou"
+        ],
+        "331": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-05-01",
+            8000.1387,
+            "Expense",
+            "Jintech"
+        ],
+        "332": [
+            "GE13",
+            "Euiqment rental",
+            "2020-05-01",
+            23850,
+            "Expense",
+            "Foryou"
+        ],
+        "333": [
+            "GE13",
+            "Euiqment rental",
+            "2020-05-01",
+            8000.14,
+            "Expense",
+            "Jintech"
+        ],
+        "334": [
+            "FE5AB/6AB",
+            "Infotainment Testing",
+            "2020-05-01",
+            54000,
+            "Expense",
+            "Foryou"
+        ],
+        "335": [
+            "FE3AH",
+            "叶贤辉/Xianhui Ye",
+            "2020-05-01",
+            64035,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "336": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2020-05-01",
+            47587.64,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "337": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2020-05-01",
+            49680,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "338": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2020-05-01",
+            60480,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "339": [
+            "GE13",
+            "徐萌萌/Mengmeng Xu",
+            "2020-05-01",
+            18000,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "340": [
+            "FE5AB/6AB",
+            "文明鑫/Mingxin Wen",
+            "2020-05-01",
+            54810,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "341": [
+            "FE5AB/6AB",
+            "易晨/Cheng Yi",
+            "2020-05-01",
+            51412.06,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "342": [
+            "GE13",
+            "李艳/Yan Li",
+            "2020-05-01",
+            50670,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "343": [
+            "GE13",
+            "杨明星/Mingxing Yang",
+            "2020-05-01",
+            53145,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "344": [
+            "FE3AH",
+            "杨波涛/Botao Yang",
+            "2020-05-01",
+            24300.27,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "345": [
+            "FE5AB/6AB",
+            "杨波涛/Botao Yang",
+            "2020-05-01",
+            24300.2722,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "346": [
+            "FE3AH",
+            "王嘉伟/Jiawei Wang",
+            "2020-05-01",
+            50883.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "347": [
+            "FE5AB/6AB",
+            "王林辉/Linhui Wang",
+            "2020-05-01",
+            2835,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "348": [
+            "GE13",
+            "王林辉/Linhui Wang",
+            "2020-05-01",
+            2835,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "349": [
+            "FE3AH",
+            "王玉龙/Yulong Wang",
+            "2020-05-01",
+            37638,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "350": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2020-05-01",
+            25092,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "351": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2020-05-01",
+            47328.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "352": [
+            "GE13",
+            "赵洪飞/Hongfei Zhao",
+            "2020-05-01",
+            43616.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "353": [
+            "FE5AB/6AB",
+            "陈乾/Qian Chen",
+            "2020-05-01",
+            49274.95,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "354": [
+            "FE3AH",
+            "陈威迪/Weidi Chen",
+            "2020-05-01",
+            52200.96,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "355": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2020-05-01",
+            30599.02,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "356": [
+            "FE3AH",
+            "韩松松/Songsong Han",
+            "2020-05-01",
+            51749.43,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "357": [
+            "GE13",
+            "韩译萱/Yixuan Han",
+            "2020-05-01",
+            42075.05,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "358": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2020-05-01",
+            44741.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "359": [
+            "DFM",
+            "Expense - CaiyinanWangke",
+            "2020-06-01",
+            5838,
+            "Expense",
+            "Foryou"
+        ],
+        "360": [
+            "GE13",
+            "Expense - Hanyixuan",
+            "2020-06-01",
+            500,
+            "Expense",
+            "Jintech"
+        ],
+        "361": [
+            "BYD",
+            "Expense - Taowenqiang",
+            "2020-06-01",
+            6903.58,
+            "Expense",
+            "Jintech"
+        ],
+        "362": [
+            "GE13",
+            "Apartment&Electricity - Venu",
+            "2020-06-01",
+            7063.11,
+            "Expense",
+            "Foryou"
+        ],
+        "363": [
+            "FE3AH",
+            "Euiqment rental",
+            "2020-06-01",
+            1600,
+            "Expense",
+            "Jintech"
+        ],
+        "364": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-06-01",
+            16850,
+            "Expense",
+            "Foryou"
+        ],
+        "365": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-06-01",
+            1600,
+            "Expense",
+            "Jintech"
+        ],
+        "366": [
+            "GE13",
+            "Euiqment rental",
+            "2020-06-01",
+            16850,
+            "Expense",
+            "Foryou"
+        ],
+        "367": [
+            "GE13",
+            "Euiqment rental",
+            "2020-06-01",
+            1600,
+            "Expense",
+            "Jintech"
+        ],
+        "368": [
+            "FE5AB/6AB",
+            "Function&Network testing",
+            "2020-06-01",
+            100000,
+            "Expense",
+            "Foryou"
+        ],
+        "369": [
+            "FE3AH",
+            "叶贤辉/Xianhui Ye",
+            "2020-06-01",
+            51176.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "370": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2020-06-01",
+            35662,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "371": [
+            "GE13",
+            "崔丁太/Dingtai Cui",
+            "2020-06-01",
+            39228.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "372": [
+            "FE3AH",
+            "张海洋/Haiyang Zhang",
+            "2020-06-01",
+            1999.85,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "373": [
+            "FE5AB/6AB",
+            "张海洋/Haiyang Zhang",
+            "2020-06-01",
+            1999.85,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "374": [
+            "GE13",
+            "张海洋/Haiyang Zhang",
+            "2020-06-01",
+            1999.8484,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "375": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2020-06-01",
+            43260,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "376": [
+            "FE5AB/6AB",
+            "文明鑫/Mingxin Wen",
+            "2020-06-01",
+            51165,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "377": [
+            "FE5AB/6AB",
+            "易晨/Cheng Yi",
+            "2020-06-01",
+            48938.18,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "378": [
+            "GE13",
+            "李艳/Yan Li",
+            "2020-06-01",
+            2700,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "379": [
+            "GE13",
+            "杨明星/Mingxing Yang",
+            "2020-06-01",
+            7200,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "380": [
+            "FE3AH",
+            "杨波涛/Botao Yang",
+            "2020-06-01",
+            21768.75,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "381": [
+            "FE5AB/6AB",
+            "杨波涛/Botao Yang",
+            "2020-06-01",
+            21768.75,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "382": [
+            "FE3AH",
+            "王嘉伟/Jiawei Wang",
+            "2020-06-01",
+            48127.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "383": [
+            "FE3AH",
+            "王玉龙/Yulong Wang",
+            "2020-06-01",
+            30692.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "384": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2020-06-01",
+            20461.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "385": [
+            "DFM",
+            "王科/Kern Wang",
+            "2020-06-01",
+            40680,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "386": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2020-06-01",
+            48870,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "387": [
+            "DFM",
+            "蔡乙男/Yinan Cai",
+            "2020-06-01",
+            43425,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "388": [
+            "GE13",
+            "赵洪飞/Hongfei Zhao",
+            "2020-06-01",
+            47823.75,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "389": [
+            "FE5AB/6AB",
+            "陈乾/Qian Chen",
+            "2020-06-01",
+            42862.5,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "390": [
+            "FE3AH",
+            "陈威迪/Weidi Chen",
+            "2020-06-01",
+            41850,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "391": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2020-06-01",
+            30599.02,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "392": [
+            "FE3AH",
+            "韩松松/Songsong Han",
+            "2020-06-01",
+            45000,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "393": [
+            "GE13",
+            "韩译萱/Yixuan Han",
+            "2020-06-01",
+            9000,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "394": [
+            "GE13",
+            "黄翔/Xiang Huang",
+            "2020-06-01",
+            999.18,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "395": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2020-06-01",
+            41861.25,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "396": [
+            "DFM",
+            "Expense - CaiyinanWangke",
+            "2020-07-01",
+            15300,
+            "Expense",
+            "Foryou"
+        ],
+        "397": [
+            "FE3AH",
+            "Expense - Lizhipeng",
+            "2020-07-01",
+            36494,
+            "Expense",
+            "Foryou"
+        ],
+        "398": [
+            "FE3AH",
+            "Expense - Other",
+            "2020-07-01",
+            13013,
+            "Expense",
+            "Jintech"
+        ],
+        "399": [
+            "FE5AB/6AB",
+            "Expense - Other",
+            "2020-07-01",
+            13013,
+            "Expense",
+            "Jintech"
+        ],
+        "400": [
+            "GE13",
+            "Expense - Other",
+            "2020-07-01",
+            13013,
+            "Expense",
+            "Jintech"
+        ],
+        "401": [
+            "BYD",
+            "Expense - Taowenqiang",
+            "2020-07-01",
+            6923,
+            "Expense",
+            "Jintech"
+        ],
+        "402": [
+            "DFM",
+            "Expense - Wangke",
+            "2020-07-01",
+            1295,
+            "Expense",
+            "Foryou"
+        ],
+        "403": [
+            "GE13",
+            "Expense - XuGang",
+            "2020-07-01",
+            11250,
+            "Expense",
+            "Foryou"
+        ],
+        "404": [
+            "FE3AH",
+            "Resistance Box",
+            "2020-07-01",
+            350,
+            "Expense",
+            "Foryou"
+        ],
+        "405": [
+            "GAC",
+            "Apartment - Manoj",
+            "2020-07-01",
+            9373.2,
+            "Expense",
+            "Foryou"
+        ],
+        "406": [
+            "GE13",
+            "Apartment - Venu",
+            "2020-07-01",
+            78.55,
+            "Expense",
+            "Foryou"
+        ],
+        "407": [
+            "FE5AB/6AB",
+            "DESAY MMI Testing Fee",
+            "2020-07-01",
+            60000,
+            "Expense",
+            "Foryou"
+        ],
+        "408": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-07-01",
+            15350,
+            "Expense",
+            "Foryou"
+        ],
+        "409": [
+            "GE13",
+            "Euiqment rental",
+            "2020-07-01",
+            15350,
+            "Expense",
+            "Foryou"
+        ],
+        "410": [
+            "FE3AH",
+            "叶贤辉/Xianhui Ye",
+            "2020-07-01",
+            41512,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "411": [
+            "FE3AH",
+            "周梦雪/Mengxue Zhou",
+            "2020-07-01",
+            19974.375,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "412": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2020-07-01",
+            19974.38,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "413": [
+            "FE3AH",
+            "张海洋/Haiyang Zhang",
+            "2020-07-01",
+            3833.33,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "414": [
+            "FE5AB/6AB",
+            "张海洋/Haiyang Zhang",
+            "2020-07-01",
+            3833.33,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "415": [
+            "GE13",
+            "张海洋/Haiyang Zhang",
+            "2020-07-01",
+            3833.33,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "416": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2020-07-01",
+            48825,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "417": [
+            "FE5AB/6AB",
+            "文明鑫/Mingxin Wen",
+            "2020-07-01",
+            56362,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "418": [
+            "FE5AB/6AB",
+            "易晨/Cheng Yi",
+            "2020-07-01",
+            46612.5,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "419": [
+            "FE3AH",
+            "杨波涛/Botao Yang",
+            "2020-07-01",
+            25511.25,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "420": [
+            "FE5AB/6AB",
+            "杨波涛/Botao Yang",
+            "2020-07-01",
+            25511.25,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "421": [
+            "FE3AH",
+            "王嘉伟/Jiawei Wang",
+            "2020-07-01",
+            53887.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "422": [
+            "FE3AH",
+            "王玉龙/Yulong Wang",
+            "2020-07-01",
+            35100,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "423": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2020-07-01",
+            23400,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "424": [
+            "DFM",
+            "王科/Kern Wang",
+            "2020-07-01",
+            34200,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "425": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2020-07-01",
+            49275,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "426": [
+            "DFM",
+            "蔡乙男/Yinan Cai",
+            "2020-07-01",
+            23400,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "427": [
+            "GE13",
+            "赵洪飞/Hongfei Zhao",
+            "2020-07-01",
+            44775,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "428": [
+            "FE3AH",
+            "陈威迪/Weidi Chen",
+            "2020-07-01",
+            40207.5,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "429": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2020-07-01",
+            52068.75,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "430": [
+            "FE3AH",
+            "韩松松/Songsong Han",
+            "2020-07-01",
+            48000,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "431": [
+            "GE13",
+            "黄翔/Xiang Huang",
+            "2020-07-01",
+            18000,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "432": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2020-07-01",
+            14850,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "433": [
+            "DFM",
+            "Expense - Caiyinan",
+            "2020-08-01",
+            14100,
+            "Expense",
+            "Foryou"
+        ],
+        "434": [
+            "DFM",
+            "Expense - Caiyinan",
+            "2020-08-01",
+            8520.3,
+            "Expense",
+            "Foryou"
+        ],
+        "435": [
+            "FE3AH",
+            "Expense - Fanguodong",
+            "2020-08-01",
+            350,
+            "Expense",
+            "Foryou"
+        ],
+        "436": [
+            "FE3AH",
+            "Expense - Lizhipeng",
+            "2020-08-01",
+            5100,
+            "Expense",
+            "Foryou"
+        ],
+        "437": [
+            "BYD",
+            "Expense - Taowenqiang",
+            "2020-08-01",
+            5423,
+            "Expense",
+            "Jintech"
+        ],
+        "438": [
+            "GAC",
+            "Apartment - Manoj",
+            "2020-08-01",
+            4686.6,
+            "Expense",
+            "Foryou"
+        ],
+        "439": [
+            "GE13",
+            "Apartment - Manoj",
+            "2020-08-01",
+            666,
+            "Expense",
+            "Foryou"
+        ],
+        "440": [
+            "GE13",
+            "Apartment - Venu",
+            "2020-08-01",
+            384.75,
+            "Expense",
+            "Foryou"
+        ],
+        "441": [
+            "FE5AB/6AB",
+            "DESAY MMI Testing Fee",
+            "2020-08-01",
+            65000,
+            "Expense",
+            "Foryou"
+        ],
+        "442": [
+            "FE3AH",
+            "Euiqment rental",
+            "2020-08-01",
+            5122.22,
+            "Expense",
+            "Foryou"
+        ],
+        "443": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-08-01",
+            5122.22,
+            "Expense",
+            "Foryou"
+        ],
+        "444": [
+            "GE13",
+            "Euiqment rental",
+            "2020-08-01",
+            5122.22,
+            "Expense",
+            "Foryou"
+        ],
+        "445": [
+            "FE3AH",
+            "周梦雪/Mengxue Zhou",
+            "2020-08-01",
+            25016.25,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "446": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2020-08-01",
+            25016.25,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "447": [
+            "HMI",
+            "孙胜龙/Shenglong Sun",
+            "2020-08-01",
+            37800,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "448": [
+            "FE3AH",
+            "张海洋/Haiyang Zhang",
+            "2020-08-01",
+            2750,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "449": [
+            "FE5AB/6AB",
+            "张海洋/Haiyang Zhang",
+            "2020-08-01",
+            2750,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "450": [
+            "GE13",
+            "张海洋/Haiyang Zhang",
+            "2020-08-01",
+            2750,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "451": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2020-08-01",
+            52815,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "452": [
+            "FE5AB/6AB",
+            "文明鑫/Mingxin Wen",
+            "2020-08-01",
+            47250,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "453": [
+            "FE5AB/6AB",
+            "易晨/Cheng Yi",
+            "2020-08-01",
+            49717.5,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "454": [
+            "GE13",
+            "李艳/Yan Li",
+            "2020-08-01",
+            1800,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "455": [
+            "FE3AH",
+            "杨波涛/Botao Yang",
+            "2020-08-01",
+            19635,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "456": [
+            "FE5AB/6AB",
+            "杨波涛/Botao Yang",
+            "2020-08-01",
+            19635,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "457": [
+            "FE3AH",
+            "王嘉伟/Jiawei Wang",
+            "2020-08-01",
+            45450,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "458": [
+            "FE3AH",
+            "王玉龙/Yulong Wang",
+            "2020-08-01",
+            26550,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "459": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2020-08-01",
+            26550,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "460": [
+            "DFM",
+            "王科/Kern Wang",
+            "2020-08-01",
+            35437.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "461": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2020-08-01",
+            42750,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "462": [
+            "DFM",
+            "蔡乙男/Yinan Cai",
+            "2020-08-01",
+            15412.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "463": [
+            "FE3AH",
+            "赵洪飞/Hongfei Zhao",
+            "2020-08-01",
+            36787.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "464": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2020-08-01",
+            47280,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "465": [
+            "FE3AH",
+            "韩松松/Songsong Han",
+            "2020-08-01",
+            46316.25,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "466": [
+            "GE13",
+            "黄翔/Xiang Huang",
+            "2020-08-01",
+            12125,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "467": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2020-08-01",
+            3600,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "468": [
+            "DFM",
+            "Expense - WangKe",
+            "2020-09-01",
+            8100,
+            "Expense",
+            "Foryou"
+        ],
+        "469": [
+            "FE3AH",
+            "Expense - XuGang",
+            "2020-09-01",
+            3064.28,
+            "Expense",
+            "Foryou"
+        ],
+        "470": [
+            "RBJAC",
+            "1st Payment of Brilliance-Renault Project",
+            "2020-09-01",
+            495000,
+            "Expense",
+            "Foryou"
+        ],
+        "471": [
+            "GAC",
+            "Apartment - Manoj",
+            "2020-09-01",
+            5148.49,
+            "Expense",
+            "Foryou"
+        ],
+        "472": [
+            "FE3AH",
+            "Euiqment rental",
+            "2020-09-01",
+            1233.33,
+            "Expense",
+            "Foryou"
+        ],
+        "473": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-09-01",
+            1233.33,
+            "Expense",
+            "Foryou"
+        ],
+        "474": [
+            "GE13",
+            "Euiqment rental",
+            "2020-09-01",
+            1233.33,
+            "Expense",
+            "Foryou"
+        ],
+        "475": [
+            "FE3AH",
+            "周梦雪/Mengxue Zhou",
+            "2020-09-01",
+            18988.13,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "476": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2020-09-01",
+            18988.125,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "477": [
+            "HMI",
+            "孙胜龙/Shenglong Sun",
+            "2020-09-01",
+            39900,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "478": [
+            "FE3AH",
+            "张海洋/Haiyang Zhang",
+            "2020-09-01",
+            2187.5,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "479": [
+            "FE5AB/6AB",
+            "张海洋/Haiyang Zhang",
+            "2020-09-01",
+            2187.5,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "480": [
+            "GE13",
+            "张海洋/Haiyang Zhang",
+            "2020-09-01",
+            2187.5,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "481": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2020-09-01",
+            40425,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "482": [
+            "FE5AB/6AB",
+            "文明鑫/Mingxin Wen",
+            "2020-09-01",
+            32962.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "483": [
+            "FE5AB/6AB",
+            "易晨/Cheng Yi",
+            "2020-09-01",
+            38088.75,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "484": [
+            "FE3AH",
+            "杨波涛/Botao Yang",
+            "2020-09-01",
+            23229.38,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "485": [
+            "FE5AB/6AB",
+            "杨波涛/Botao Yang",
+            "2020-09-01",
+            23229.375,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "486": [
+            "FE3AH",
+            "王嘉伟/Jiawei Wang",
+            "2020-09-01",
+            28687.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "487": [
+            "FE3AH",
+            "王玉龙/Yulong Wang",
+            "2020-09-01",
+            18000,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "488": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2020-09-01",
+            18000,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "489": [
+            "DFM",
+            "王科/Kern Wang",
+            "2020-09-01",
+            55800,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "490": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2020-09-01",
+            23850,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "491": [
+            "DFM",
+            "蔡乙男/Yinan Cai",
+            "2020-09-01",
+            1687.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "492": [
+            "FE3AH",
+            "赵洪飞/Hongfei Zhao",
+            "2020-09-01",
+            39600,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "493": [
+            "BYD",
+            "陶文强/Wenqiang Tao",
+            "2020-09-01",
+            19140,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "494": [
+            "FE3AH",
+            "韩松松/Songsong Han",
+            "2020-09-01",
+            14936.25,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "495": [
+            "GE13",
+            "陈洽/Qia Chen",
+            "2020-09-01",
+            2700,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "496": [
+            "BYD",
+            "报销费用/Expense - Taowenqiang",
+            "2020-09-01",
+            5329.2,
+            "Expense",
+            "Jintech"
+        ],
+        "497": [
+            "FE3AH",
+            "Expense - LiZhipeng",
+            "2020-10-01",
+            4430,
+            "Expense",
+            "Foryou"
+        ],
+        "498": [
+            "DFM",
+            "Expense - WangKe",
+            "2020-10-01",
+            16818.05,
+            "Expense",
+            "Foryou"
+        ],
+        "499": [
+            "GAC",
+            "Apartment - Manoj",
+            "2020-10-01",
+            4944,
+            "Expense",
+            "Foryou"
+        ],
+        "500": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-10-01",
+            300,
+            "Expense",
+            "Foryou"
+        ],
+        "501": [
+            "RBJAC",
+            "Payment of Brilliance-Renault Project",
+            "2020-10-01",
+            330000,
+            "Expense",
+            "Foryou"
+        ],
+        "502": [
+            "BJEV",
+            "Payment of Tsinghua University Project",
+            "2020-10-01",
+            250000,
+            "Expense",
+            "Foryou"
+        ],
+        "503": [
+            "FE3AH",
+            "周梦雪/Mengxue Zhou",
+            "2020-10-01",
+            14540.625,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "504": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2020-10-01",
+            14540.63,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "505": [
+            "HMI",
+            "孙胜龙/Shenglong Sun",
+            "2020-10-01",
+            31395,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "506": [
+            "FE5AB/6AB",
+            "文明鑫/Mingxin Wen",
+            "2020-10-01",
+            22387.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "507": [
+            "FE5AB/6AB",
+            "易晨/Cheng Yi",
+            "2020-10-01",
+            35212.5,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "508": [
+            "FE3AH",
+            "杨波涛/Botao Yang",
+            "2020-10-01",
+            18279.375,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "509": [
+            "FE5AB/6AB",
+            "杨波涛/Botao Yang",
+            "2020-10-01",
+            18279.38,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "510": [
+            "FE3AH",
+            "王玉龙/Yulong Wang",
+            "2020-10-01",
+            14737.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "511": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2020-10-01",
+            14737.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "512": [
+            "DFM",
+            "王科/Kern Wang",
+            "2020-10-01",
+            44437.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "513": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2020-10-01",
+            32850,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "514": [
+            "DFM",
+            "蔡乙男/Yinan Cai",
+            "2020-10-01",
+            0,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "515": [
+            "FE3AH",
+            "赵洪飞/Hongfei Zhao",
+            "2020-10-01",
+            33975,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "516": [
+            "AE Testing",
+            "陈洽/Qia Chen",
+            "2020-10-01",
+            59535,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "517": [
+            "DFM",
+            "Expense - CaiYinan",
+            "2020-11-01",
+            3775.75,
+            "Expense",
+            "Foryou"
+        ],
+        "518": [
+            "FE3AH",
+            "Expense - LiZhipeng",
+            "2020-11-01",
+            10509,
+            "Expense",
+            "Foryou"
+        ],
+        "519": [
+            "DFM",
+            "Expense - WangKe",
+            "2020-11-01",
+            10397.84,
+            "Expense",
+            "Foryou"
+        ],
+        "520": [
+            "FE3AH",
+            "Expense - WangYulong",
+            "2020-11-01",
+            1610,
+            "Expense",
+            "Foryou"
+        ],
+        "521": [
+            "GAC",
+            "Apartment - Manoj",
+            "2020-11-01",
+            4901.88,
+            "Expense",
+            "Foryou"
+        ],
+        "522": [
+            "FE5AB/6AB",
+            "Euiqment rental",
+            "2020-11-01",
+            300,
+            "Expense",
+            "Foryou"
+        ],
+        "523": [
+            "RBJAC",
+            "Payment of Brilliance-Renault Project",
+            "2020-11-01",
+            495000,
+            "Expense",
+            "Foryou"
+        ],
+        "524": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2020-11-01",
+            18354.38,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "525": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2020-11-01",
+            18354.375,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "526": [
+            "HMI",
+            "孙胜龙/Shenglong Sun",
+            "2020-11-01",
+            35280,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "527": [
+            "FE5AB/6AB",
+            "易晨/Cheng Yi",
+            "2020-11-01",
+            38700,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "528": [
+            "FE3AH",
+            "杨波涛/Botao Yang",
+            "2020-11-01",
+            14503.13,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "529": [
+            "FE5AB/6AB",
+            "杨波涛/Botao Yang",
+            "2020-11-01",
+            14503.125,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "530": [
+            "FE3AH",
+            "王玉龙/Yulong Wang",
+            "2020-11-01",
+            8100,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "531": [
+            "FE5AB/6AB",
+            "王玉龙/Yulong Wang",
+            "2020-11-01",
+            8100,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "532": [
+            "DFM",
+            "王科/Kern Wang",
+            "2020-11-01",
+            61762.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "533": [
+            "FE5AB/6AB",
+            "范国栋/Guodong Fan",
+            "2020-11-01",
+            30600,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "534": [
+            "DFM",
+            "蔡乙男/Yinan Cai",
+            "2020-11-01",
+            21487.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "535": [
+            "FE3AH",
+            "赵洪飞/Hongfei Zhao",
+            "2020-11-01",
+            37800,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "536": [
+            "FE5AB/6AB",
+            "陈乾/Qian Chen",
+            "2020-11-01",
+            3789.54,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "537": [
+            "DFM",
+            "陈洽/Qia Chen",
+            "2020-11-01",
+            40110,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "538": [
+            "V&V Testing",
+            "文明鑫/ Mingxin Wen",
+            "2020-11-01",
+            9400,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "539": [
+            "V&V Testing",
+            "王玉龙/Yulong Wang",
+            "2020-11-01",
+            240,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "540": [
+            "DFM",
+            "Expense - CaiYinan&WangKe",
+            "2020-12-01",
+            23404.84,
+            "Expense",
+            "Foryou"
+        ],
+        "541": [
+            "FE3AH",
+            "Expense - LiZhipeng&XuGang&WuDan",
+            "2020-12-01",
+            16117.5,
+            "Expense",
+            "Foryou"
+        ],
+        "542": [
+            "GAC",
+            "Apartment - Manoj",
+            "2020-12-01",
+            4847.8,
+            "Expense",
+            "Foryou"
+        ],
+        "543": [
+            "FE3AH",
+            "周梦雪/Mengxue Zhou",
+            "2020-12-01",
+            2915.53,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "544": [
+            "GE13",
+            "周梦雪/Mengxue Zhou",
+            "2020-12-01",
+            2915.53,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "545": [
+            "HMI",
+            "孙胜龙/Shenglong Sun",
+            "2020-12-01",
+            41370,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "546": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2020-12-01",
+            38430,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "547": [
+            "FE3AH",
+            "易晨/Cheng Yi",
+            "2020-12-01",
+            26105.63,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "548": [
+            "FE5AB/6AB",
+            "易晨/Cheng Yi",
+            "2020-12-01",
+            26105.63,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "549": [
+            "FE3AH",
+            "杨波涛/Botao Yang",
+            "2020-12-01",
+            4006.88,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "550": [
+            "FE5AB/6AB",
+            "杨波涛/Botao Yang",
+            "2020-12-01",
+            4006.88,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "551": [
+            "DFM",
+            "王科/Kern Wang",
+            "2020-12-01",
+            59062,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "552": [
+            "DFM",
+            "蔡乙男/Yinan Cai",
+            "2020-12-01",
+            42525,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "553": [
+            "FE3AH",
+            "赵洪飞/Hongfei Zhao",
+            "2020-12-01",
+            7200,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "554": [
+            "AE Testing",
+            "陈洽/Qia Chen",
+            "2020-12-01",
+            36120,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "555": [
+            "FE5AB/6AB",
+            "文明鑫/ Mingxin Wen",
+            "2020-12-01",
+            14070,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "556": [
+            "GE13",
+            "王玉龙/Yulong Wang",
+            "2020-12-01",
+            35490,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "557": [
+            "RBJAC",
+            "华晨雷诺项目尾款/Last Payment of Huachen Renault Project",
+            "2020-12-01",
+            330000,
+            "Expense",
+            "Foryou"
+        ],
+        "558": [
+            "BJEV",
+            "北汽新能源代收款/BeiQi Project Payment",
+            "2020-12-01",
+            200000,
+            "Expense",
+            "Foryou"
+        ],
+        "559": [
+            "DFM",
+            "Expense - WangKe",
+            "2021-01-01",
+            5463.31,
+            "Expense",
+            "Foryou"
+        ],
+        "560": [
+            "GE13",
+            "于慧媛/Huiyuan Yu",
+            "2021-01-01",
+            19950,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "561": [
+            "GAC",
+            "Apartment - Manoj",
+            "2021-01-01",
+            4874.84,
+            "Expense",
+            "Foryou"
+        ],
+        "562": [
+            "FE3AH",
+            "吉利FE-6-A3项目耗材/Geely Project",
+            "2021-01-01",
+            38882,
+            "Expense",
+            "Foryou"
+        ],
+        "563": [
+            "HMI",
+            "孙胜龙/Shenglong Sun",
+            "2021-01-01",
+            36120,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "564": [
+            "FE5AB/6AB",
+            "张高磊/Gaolei Zhang",
+            "2021-01-01",
+            24150,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "565": [
+            "FE3AH",
+            "易晨/Cheng Yi",
+            "2021-01-01",
+            2786.25,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "566": [
+            "FE5AB/6AB",
+            "易晨/Cheng Yi",
+            "2021-01-01",
+            2786.25,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "567": [
+            "DFM",
+            "王科/Kern Wang",
+            "2021-01-01",
+            32625,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "568": [
+            "DFM",
+            "蔡乙男/Yinan Cai",
+            "2021-01-01",
+            11587.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "569": [
+            "AE Testing",
+            "陈洽/Qia Chen",
+            "2021-01-01",
+            27930,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "570": [
+            "GE13",
+            "王玉龙/Yulong Wang",
+            "2021-01-01",
+            36330,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "571": [
+            "HMI",
+            "孙胜龙/shenglong Sun",
+            "2021-02-01",
+            21210,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "572": [
+            "AE Testing",
+            "陈洽/qia Chen",
+            "2021-02-01",
+            27930,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "573": [
+            "GE13",
+            "王玉龙/Yulong Wang",
+            "2021-02-01",
+            36330,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "574": [
+            "AE Testing",
+            "Chen qia Expense",
+            "2021-02-01",
+            2103.5,
+            "Expense",
+            "Cantech"
+        ],
+        "575": [
+            "GE13",
+            "Yulong Wang Expense",
+            "2021-02-01",
+            670.5,
+            "Expense",
+            "Cantech"
+        ],
+        "576": [
+            "FE3AH",
+            "易晨",
+            "2021-02-01",
+            9348.75,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "577": [
+            "DFM",
+            "Kern Wang/王科",
+            "2021-02-01",
+            20137.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "578": [
+            "DFM",
+            "Yinan Cai/蔡乙男",
+            "2021-02-01",
+            29925,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "579": [
+            "FE3AH",
+            "李志鹏 Expense",
+            "2021-02-01",
+            4548,
+            "Expense",
+            "Foryou"
+        ],
+        "580": [
+            "RBJAC",
+            "Kern Wang/王科",
+            "2021-03-01",
+            2700,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "581": [
+            "Digital",
+            "Expense - xugang",
+            "2021-03-01",
+            7116,
+            "Expense",
+            "Foryou"
+        ],
+        "582": [
+            "FE3AH",
+            "易晨",
+            "2021-03-01",
+            29580.75,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "583": [
+            "BYD",
+            "陶文强",
+            "2021-03-01",
+            5364.72,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "584": [
+            "BYD",
+            "陶文强",
+            "2021-03-01",
+            2985.4,
+            "Expense",
+            "Jintech"
+        ],
+        "585": [
+            "HMI",
+            "孙胜龙/shenglong Sun",
+            "2021-03-01",
+            40740,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "586": [
+            "AE Testing",
+            "陈洽/qia Chen",
+            "2021-03-01",
+            27930,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "587": [
+            "V&V Testing",
+            "王玉龙/Yulong Wang",
+            "2021-03-01",
+            36330,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "588": [
+            "FE3AH",
+            "张高磊/gaoleo  zhang",
+            "2021-03-01",
+            11655,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "589": [
+            "AE Testing",
+            "陈洽/qia Chen",
+            "2021-03-01",
+            5530,
+            "Expense",
+            "Cantech"
+        ],
+        "590": [
+            "V&V Testing",
+            "王玉龙/Yulong Wang",
+            "2021-03-01",
+            490,
+            "Expense",
+            "Cantech"
+        ],
+        "591": [
+            "AE Testing",
+            "陈洽/qia Chen",
+            "2021-04-01",
+            10080,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "592": [
+            "FE-6-A3",
+            "王玉龙/Yulong Wang",
+            "2021-04-01",
+            3360,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "593": [
+            "HMI",
+            "孙胜龙/shenglong Sun",
+            "2021-04-01",
+            16170,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "594": [
+            "FE3AH",
+            "易晨",
+            "2021-04-01",
+            22644,
+            "OutsourcingFee",
+            "Jintech"
+        ],
+        "595": [
+            "RBJAC_commercial",
+            "waylancer",
+            "2021-04-01",
+            395000,
+            "Expense",
+            "waylancer"
+        ],
+        "596": [
+            "FE-6-A3",
+            "孙胜龙/shenglong Sun",
+            "2021-05-01",
+            34335,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "597": [
+            "FE-6-A3",
+            "Expense - Sunshenglong",
+            "2021-05-01",
+            2350,
+            "Expense",
+            "Cantech"
+        ],
+        "598": [
+            "FE-6-A3",
+            "卢涛",
+            "2021-05-01",
+            19800,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "599": [
+            "FE-6-A3",
+            "王斌",
+            "2021-05-01",
+            1200,
+            "Expense",
+            "Foryou"
+        ],
+        "600": [
+            "FE-6-A3",
+            "卢涛",
+            "2021-05-01",
+            600,
+            "Expense",
+            "Foryou"
+        ],
+        "601": [
+            "FE-6-A3",
+            "租房-许进",
+            "2021-05-01",
+            9000,
+            "Expense",
+            "Foryou"
+        ],
+        "602": [
+            "BJEV",
+            "北汽新能源BMS测试服务项目",
+            "2021-05-01",
+            350000,
+            "Expense",
+            "Foryou"
+        ],
+        "603": [
+            "RBJAC_commercial",
+            "waylancer",
+            "2021-05-01",
+            395000,
+            "Expense",
+            "waylancer"
+        ],
+        "604": [
+            "FE-6-A3",
+            "孙胜龙/shenglong Sun",
+            "2021-06-01",
+            34335,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "605": [
+            "FE-6-A3",
+            "Expense - Sunshenglong",
+            "2021-06-01",
+            2350,
+            "Expense",
+            "Cantech"
+        ],
+        "606": [
+            "FE-6-A3",
+            "卢涛",
+            "2021-06-01",
+            38587.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "607": [
+            "FE-6-A3",
+            "杨远久",
+            "2021-06-01",
+            6750,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "608": [
+            "FE-6-A3",
+            "王嘉伟/Jiawei Wang",
+            "2021-06-01",
+            12937.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "609": [
+            "FE-6-A3",
+            "徐耀威",
+            "2021-06-01",
+            1912.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "610": [
+            "FE-6-A3",
+            "Expense - 王嘉伟",
+            "2021-06-01",
+            1200,
+            "Expense",
+            "Foryou"
+        ],
+        "611": [
+            "FE-6-A3",
+            "Expense - 王斌",
+            "2021-06-01",
+            13719.96,
+            "Expense",
+            "Foryou"
+        ],
+        "612": [
+            "RBJAC_commercial",
+            "waylancer",
+            "2021-06-01",
+            395000,
+            "Expense",
+            "waylancer"
+        ],
+        "613": [
+            "FE-6-A3",
+            "卢涛",
+            "2021-07-01",
+            42525,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "614": [
+            "FE-6-A3",
+            "杨远久",
+            "2021-07-01",
+            13837,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "615": [
+            "FE-6-A3",
+            "徐耀威",
+            "2021-07-01",
+            14625,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "616": [
+            "AUDI_PPE&CADA&CAPA",
+            "Expense - 王斌",
+            "2021-07-01",
+            6974,
+            "Expense",
+            "Foryou"
+        ],
+        "617": [
+            "RBJAC_commercial",
+            "waylancer",
+            "2021-07-01",
+            395000,
+            "Expense",
+            "waylancer"
+        ],
+        "618": [
+            "FE-6-A3",
+            "孙胜龙/shenglong Sun",
+            "2021-07-01",
+            42105,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "619": [
+            "FE-6-A3",
+            "Expense - Sunshenglong",
+            "2021-07-01",
+            4378,
+            "Expense",
+            "Cantech"
+        ],
+        "620": [
+            "FE-6-A3",
+            "孙胜龙/shenglong Sun",
+            "2021-08-01",
+            47565,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "621": [
+            "FE-6-A3",
+            "徐耀威",
+            "2021-08-01",
+            9900,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "622": [
+            "FE-6-A3",
+            "王科",
+            "2021-08-01",
+            4612.5,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "623": [
+            "FE-6-A3",
+            "杭州湾租房",
+            "2021-08-01",
+            1180,
+            "Expense",
+            "Foryou"
+        ],
+        "624": [
+            "FE-6-A3",
+            "孙胜龙/shenglong Sun",
+            "2021-09-01",
+            39585,
+            "OutsourcingFee",
+            "Cantech"
+        ],
+        "625": [
+            "FE-6-A3",
+            "李玉鹏",
+            "2021-09-01",
+            11925,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "626": [
+            "FE-6-A3",
+            "徐耀威",
+            "2021-09-01",
+            7200,
+            "OutsourcingFee",
+            "Foryou"
+        ],
+        "627": [
+            "FE-6-A3",
+            null,
+            "2021-09-01",
+            86500,
+            "Expense",
+            "Foryou"
+        ],
+        "628": [
+            "FE-6-A3",
+            "许进",
+            "2021-09-01",
+            265.1,
+            "Expense",
+            "Foryou"
+        ],
+        "629": [
+            "FE-6-A3",
+            "杭州湾租房",
+            "2021-09-01",
+            160.85,
+            "Expense",
+            "Foryou"
+        ],
+        "630": [
+            "FE-6-A3",
+            "福利费",
+            "2021-09-01",
+            1000,
+            "Expense",
+            "Foryou"
+        ]
+    }
+}

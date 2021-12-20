@@ -1,0 +1,293 @@
+2021-12-20 20:07:15,585 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 20:08:18,498 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 20:08:31,077 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 20:10:11,775 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 20:35:07,348 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 20:35:22,294 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 20:35:33,553 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 20:36:01,166 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 20:37:36,284 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 20:38:06,986 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 20:38:06,986 - log_handler - INFO - Processing Foryou_EffortHoursSummary_202201.xlsx
+2021-12-20 20:38:18,001 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 20:38:18,002 - log_handler - INFO - Processing Foryou_EffortHoursSummary_202201.xlsx
+2021-12-20 20:38:57,754 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 20:38:57,755 - log_handler - INFO - Processing Foryou_EffortHoursSummary_202201.xlsx
+2021-12-20 20:39:39,005 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 20:39:39,006 - log_handler - INFO - Processing Foryou_EffortHoursSummary_202201.xlsx
+2021-12-20 20:40:01,340 - log_handler - INFO - Start reading all reports in this reportFromVendor
+2021-12-20 22:20:27,534 - log_handler - INFO - <h2>Reading billing_status/revenue data...</h2>
+2021-12-20 22:20:27,805 - log_handler - INFO - ('GE13', '2019-03-30', 678867.9) add to database successfully<br>
+2021-12-20 22:20:27,805 - log_handler - INFO - ('GE13', '2019-08-30', 678867.9) add to database successfully<br>
+2021-12-20 22:20:27,805 - log_handler - INFO - ('GE13', '2019-11-30', 509150.9) add to database successfully<br>
+2021-12-20 22:20:27,806 - log_handler - INFO - ('GE13', '2020-02-28', 509150.9) add to database successfully<br>
+2021-12-20 22:20:27,806 - log_handler - INFO - ('GE13', '2020-05-31', 678867.9) add to database successfully<br>
+2021-12-20 22:20:27,806 - log_handler - INFO - ('GE13', '2020-11-30', 339434) add to database successfully<br>
+2021-12-20 22:20:27,807 - log_handler - INFO - ('GE12B', '2019-07-04', 358490.57) add to database successfully<br>
+2021-12-20 22:20:27,807 - log_handler - INFO - ('GE12B', '2019-08-30', 448113.21) add to database successfully<br>
+2021-12-20 22:20:27,807 - log_handler - INFO - ('GE12B', '2020-02-28', 89622.64) add to database successfully<br>
+2021-12-20 22:20:27,807 - log_handler - INFO - ('FE5AB/6AB', '2020-01-30', 407337.358490566) add to database successfully<br>
+2021-12-20 22:20:27,808 - log_handler - INFO - ('FE5AB/6AB', '2020-03-30', 407337.358490566) add to database successfully<br>
+2021-12-20 22:20:27,808 - log_handler - INFO - ('FE5AB/6AB', '2020-06-30', 407337.358490566) add to database successfully<br>
+2021-12-20 22:20:27,808 - log_handler - INFO - ('FE5AB/6AB', '2020-10-31', 611006.037735849) add to database successfully<br>
+2021-12-20 22:20:27,808 - log_handler - INFO - ('FE5AB/6AB', '2020-11-04', 203668.679245283) add to database successfully<br>
+2021-12-20 22:20:27,809 - log_handler - INFO - ('FE5AB/6AB_Extension', '2020-08-30', 122641.50943396226) add to database successfully<br>
+2021-12-20 22:20:27,809 - log_handler - INFO - ('FE5AB/6AB_3rd Party_1', '2020-08-07', 75471.69811320755) add to database successfully<br>
+2021-12-20 22:20:27,810 - log_handler - INFO - ('FE5AB/6AB_3rd Party_2', '2020-09-30', 80188.67924528301) add to database successfully<br>
+2021-12-20 22:20:27,810 - log_handler - ERROR - <b>!!!Invalid Invoice Date</b><br>
+2021-12-20 22:20:27,810 - log_handler - ERROR - UAES - 121500 has been dropped<br>
+2021-12-20 22:20:27,811 - log_handler - INFO - ('UAES', '2019-11-30', 121500) add to database successfully<br>
+2021-12-20 22:20:27,811 - log_handler - INFO - ('BYD', '2019-10-30', 438679.24528301886) add to database successfully<br>
+2021-12-20 22:20:27,812 - log_handler - INFO - ('BYD', '2020-11-30', 438679.24528301886) add to database successfully<br>
+2021-12-20 22:20:27,812 - log_handler - INFO - ('BYD', '2021-11-30', 438679.24528301886) add to database successfully<br>
+2021-12-20 22:20:27,813 - log_handler - INFO - ('BYD', '2022-04-30', 146226.4150943396) add to database successfully<br>
+2021-12-20 22:20:27,813 - log_handler - INFO - ('GAC', '2019-11-30', 633962.2641509434) add to database successfully<br>
+2021-12-20 22:20:27,814 - log_handler - INFO - ('GAC', '2020-11-30', 316981.1320754717) add to database successfully<br>
+2021-12-20 22:20:27,814 - log_handler - INFO - ('GAC', '2021-03-30', 475471.6981132075) add to database successfully<br>
+2021-12-20 22:20:27,815 - log_handler - INFO - ('GAC', '2021-09-30', 158490.56603773584) add to database successfully<br>
+2021-12-20 22:20:27,815 - log_handler - INFO - ('DFM', '2020-08-15', 339622.641509434) add to database successfully<br>
+2021-12-20 22:20:27,816 - log_handler - INFO - ('DFM', '2020-09-30', 679245.283018868) add to database successfully<br>
+2021-12-20 22:20:27,816 - log_handler - INFO - ('DFM', '2020-12-31', 113207.54716981133) add to database successfully<br>
+2021-12-20 22:20:27,816 - log_handler - INFO - ('FE3AH', '2020-07-30', 377357.7358490566) add to database successfully<br>
+2021-12-20 22:20:27,817 - log_handler - INFO - ('FE3AH', '2020-09-30', 471697.1698113207) add to database successfully<br>
+2021-12-20 22:20:27,817 - log_handler - INFO - ('FE3AH', '2020-11-04', 94339.43396226416) add to database successfully<br>
+2021-12-20 22:20:27,818 - log_handler - INFO - ('RBJAC', '2020-09-30', 579056.6037735848) add to database successfully<br>
+2021-12-20 22:20:27,818 - log_handler - INFO - ('RBJAC', '2020-11-30', 965094.3396226414) add to database successfully<br>
+2021-12-20 22:20:27,818 - log_handler - INFO - ('RBJAC', '2021-04-30', 386037.7358490566) add to database successfully<br>
+2021-12-20 22:20:27,819 - log_handler - INFO - ('BJEV', '2020-12-15', 208806.2264150943) add to database successfully<br>
+2021-12-20 22:20:27,819 - log_handler - INFO - ('BJEV', '2021-05-15', 1044031.1320754716) add to database successfully<br>
+2021-12-20 22:20:27,819 - log_handler - INFO - ('BJEV', '2021-09-15', 139204.15094339623) add to database successfully<br>
+2021-12-20 22:20:27,820 - log_handler - INFO - ('GAC_Complex Driver', '2021-03-01', 392452.8301886793) add to database successfully<br>
+2021-12-20 22:20:27,820 - log_handler - INFO - ('GAC_Complex Driver', '2021-11-30', 1177358.4905660376) add to database successfully<br>
+2021-12-20 22:20:27,821 - log_handler - INFO - ('GAC_Complex Driver', '2022-05-01', 392452.8301886793) add to database successfully<br>
+2021-12-20 22:20:27,821 - log_handler - INFO - ('RBJAC_commercial', '2021-04-01', 320754.71698113205) add to database successfully<br>
+2021-12-20 22:20:27,821 - log_handler - INFO - ('RBJAC_commercial', '2021-06-30', 801886.7924528301) add to database successfully<br>
+2021-12-20 22:20:27,822 - log_handler - INFO - ('RBJAC_commercial', '2021-06-30', 481132.0754716981) add to database successfully<br>
+2021-12-20 22:20:27,823 - log_handler - ERROR - <b>!!!Invalid Invoice Date</b><br>
+2021-12-20 22:20:27,823 - log_handler - ERROR - FE-6-A3 12/12/2012 325471.69811320753 has been dropped<br>
+2021-12-20 22:20:27,823 - log_handler - INFO - ('FE-6-A3', '2022-04-30', 433962.26415094343) add to database successfully<br>
+2021-12-20 22:20:27,824 - log_handler - INFO - ('FE-6-A3', '2022-10-30', 216981.13207547172) add to database successfully<br>
+2021-12-20 22:20:27,824 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-11-30', 3514150.943396226) add to database successfully<br>
+2021-12-20 22:20:27,825 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-12-30', 3514150.943396226) add to database successfully<br>
+2021-12-20 22:20:27,825 - log_handler - ERROR - <b>!!!Invalid Project Name</b><br>
+2021-12-20 22:20:27,826 - log_handler - ERROR - Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+2021-12-20 22:20:27,826 - log_handler - ERROR - <b>!!!Invalid Project Name</b><br>
+2021-12-20 22:20:27,827 - log_handler - ERROR - Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+2021-12-20 22:20:27,827 - log_handler - ERROR - <b>!!!Invalid Project Name</b><br>
+2021-12-20 22:20:27,828 - log_handler - ERROR - Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+2021-12-20 22:20:27,828 - log_handler - ERROR - <b>!!!Invalid Project Name</b><br>
+2021-12-20 22:20:27,828 - log_handler - ERROR - Baoneng_GX16_EE / 367547.1698113207 has been dropped<br>
+2021-12-20 22:20:27,829 - log_handler - INFO - ('VF11-A2', '2022-03-31', 305660.37735849054) add to database successfully<br>
+2021-12-20 22:20:27,829 - log_handler - INFO - ('VF11-A2', '2022-09-30', 382075.4716981132) add to database successfully<br>
+2021-12-20 22:20:27,830 - log_handler - INFO - ('VF11-A2', '2023-03-31', 76415.09433962264) add to database successfully<br>
+2021-12-20 22:20:27,831 - log_handler - INFO - <h3>51 value read, sum of amount is 27181358.372830182</h3>
+2021-12-20 22:21:33,493 - log_handler - INFO - <h2>Reading billing_status/revenue data...</h2>
+2021-12-20 22:21:33,741 - log_handler - INFO - ('GE13', '2019-03-30', 678867.9) add to database successfully<br>
+2021-12-20 22:21:33,741 - log_handler - INFO - ('GE13', '2019-08-30', 678867.9) add to database successfully<br>
+2021-12-20 22:21:33,741 - log_handler - INFO - ('GE13', '2019-11-30', 509150.9) add to database successfully<br>
+2021-12-20 22:21:33,741 - log_handler - INFO - ('GE13', '2020-02-28', 509150.9) add to database successfully<br>
+2021-12-20 22:21:33,741 - log_handler - INFO - ('GE13', '2020-05-31', 678867.9) add to database successfully<br>
+2021-12-20 22:21:33,741 - log_handler - INFO - ('GE13', '2020-11-30', 339434) add to database successfully<br>
+2021-12-20 22:21:33,742 - log_handler - INFO - ('GE12B', '2019-07-04', 358490.57) add to database successfully<br>
+2021-12-20 22:21:33,742 - log_handler - INFO - ('GE12B', '2019-08-30', 448113.21) add to database successfully<br>
+2021-12-20 22:21:33,742 - log_handler - INFO - ('GE12B', '2020-02-28', 89622.64) add to database successfully<br>
+2021-12-20 22:21:33,742 - log_handler - INFO - ('FE5AB/6AB', '2020-01-30', 407337.358490566) add to database successfully<br>
+2021-12-20 22:21:33,742 - log_handler - INFO - ('FE5AB/6AB', '2020-03-30', 407337.358490566) add to database successfully<br>
+2021-12-20 22:21:33,743 - log_handler - INFO - ('FE5AB/6AB', '2020-06-30', 407337.358490566) add to database successfully<br>
+2021-12-20 22:21:33,743 - log_handler - INFO - ('FE5AB/6AB', '2020-10-31', 611006.037735849) add to database successfully<br>
+2021-12-20 22:21:33,743 - log_handler - INFO - ('FE5AB/6AB', '2020-11-04', 203668.679245283) add to database successfully<br>
+2021-12-20 22:21:33,743 - log_handler - INFO - ('FE5AB/6AB_Extension', '2020-08-30', 122641.50943396226) add to database successfully<br>
+2021-12-20 22:21:33,743 - log_handler - INFO - ('FE5AB/6AB_3rd Party_1', '2020-08-07', 75471.69811320755) add to database successfully<br>
+2021-12-20 22:21:33,743 - log_handler - INFO - ('FE5AB/6AB_3rd Party_2', '2020-09-30', 80188.67924528301) add to database successfully<br>
+2021-12-20 22:21:33,743 - log_handler - ERROR - <b>!!!Invalid Invoice Date</b><br>
+2021-12-20 22:21:33,743 - log_handler - ERROR - UAES - 121500 has been dropped<br>
+2021-12-20 22:21:33,744 - log_handler - INFO - ('UAES', '2019-11-30', 121500) add to database successfully<br>
+2021-12-20 22:21:33,744 - log_handler - INFO - ('BYD', '2019-10-30', 438679.24528301886) add to database successfully<br>
+2021-12-20 22:21:33,744 - log_handler - INFO - ('BYD', '2020-11-30', 438679.24528301886) add to database successfully<br>
+2021-12-20 22:21:33,744 - log_handler - INFO - ('BYD', '2021-11-30', 438679.24528301886) add to database successfully<br>
+2021-12-20 22:21:33,744 - log_handler - INFO - ('BYD', '2022-04-30', 146226.4150943396) add to database successfully<br>
+2021-12-20 22:21:33,744 - log_handler - INFO - ('GAC', '2019-11-30', 633962.2641509434) add to database successfully<br>
+2021-12-20 22:21:33,744 - log_handler - INFO - ('GAC', '2020-11-30', 316981.1320754717) add to database successfully<br>
+2021-12-20 22:21:33,744 - log_handler - INFO - ('GAC', '2021-03-30', 475471.6981132075) add to database successfully<br>
+2021-12-20 22:21:33,744 - log_handler - INFO - ('GAC', '2021-09-30', 158490.56603773584) add to database successfully<br>
+2021-12-20 22:21:33,745 - log_handler - INFO - ('DFM', '2020-08-15', 339622.641509434) add to database successfully<br>
+2021-12-20 22:21:33,745 - log_handler - INFO - ('DFM', '2020-09-30', 679245.283018868) add to database successfully<br>
+2021-12-20 22:21:33,745 - log_handler - INFO - ('DFM', '2020-12-31', 113207.54716981133) add to database successfully<br>
+2021-12-20 22:21:33,745 - log_handler - INFO - ('FE3AH', '2020-07-30', 377357.7358490566) add to database successfully<br>
+2021-12-20 22:21:33,745 - log_handler - INFO - ('FE3AH', '2020-09-30', 471697.1698113207) add to database successfully<br>
+2021-12-20 22:21:33,745 - log_handler - INFO - ('FE3AH', '2020-11-04', 94339.43396226416) add to database successfully<br>
+2021-12-20 22:21:33,745 - log_handler - INFO - ('RBJAC', '2020-09-30', 579056.6037735848) add to database successfully<br>
+2021-12-20 22:21:33,745 - log_handler - INFO - ('RBJAC', '2020-11-30', 965094.3396226414) add to database successfully<br>
+2021-12-20 22:21:33,745 - log_handler - INFO - ('RBJAC', '2021-04-30', 386037.7358490566) add to database successfully<br>
+2021-12-20 22:21:33,746 - log_handler - INFO - ('BJEV', '2020-12-15', 208806.2264150943) add to database successfully<br>
+2021-12-20 22:21:33,746 - log_handler - INFO - ('BJEV', '2021-05-15', 1044031.1320754716) add to database successfully<br>
+2021-12-20 22:21:33,746 - log_handler - INFO - ('BJEV', '2021-09-15', 139204.15094339623) add to database successfully<br>
+2021-12-20 22:21:33,746 - log_handler - INFO - ('GAC_Complex Driver', '2021-03-01', 392452.8301886793) add to database successfully<br>
+2021-12-20 22:21:33,746 - log_handler - INFO - ('GAC_Complex Driver', '2021-11-30', 1177358.4905660376) add to database successfully<br>
+2021-12-20 22:21:33,746 - log_handler - INFO - ('GAC_Complex Driver', '2022-05-01', 392452.8301886793) add to database successfully<br>
+2021-12-20 22:21:33,746 - log_handler - INFO - ('RBJAC_commercial', '2021-04-01', 320754.71698113205) add to database successfully<br>
+2021-12-20 22:21:33,746 - log_handler - INFO - ('RBJAC_commercial', '2021-06-30', 801886.7924528301) add to database successfully<br>
+2021-12-20 22:21:33,747 - log_handler - INFO - ('RBJAC_commercial', '2021-06-30', 481132.0754716981) add to database successfully<br>
+2021-12-20 22:21:33,747 - log_handler - ERROR - <b>!!!Invalid Invoice Date</b><br>
+2021-12-20 22:21:33,747 - log_handler - ERROR - FE-6-A3 12/12/2012 325471.69811320753 has been dropped<br>
+2021-12-20 22:21:33,747 - log_handler - INFO - ('FE-6-A3', '2022-04-30', 433962.26415094343) add to database successfully<br>
+2021-12-20 22:21:33,747 - log_handler - INFO - ('FE-6-A3', '2022-10-30', 216981.13207547172) add to database successfully<br>
+2021-12-20 22:21:33,747 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-11-30', 3514150.943396226) add to database successfully<br>
+2021-12-20 22:21:33,747 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-12-30', 3514150.943396226) add to database successfully<br>
+2021-12-20 22:21:33,747 - log_handler - ERROR - <b>!!!Invalid Project Name</b><br>
+2021-12-20 22:21:33,747 - log_handler - ERROR - Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+2021-12-20 22:21:33,747 - log_handler - ERROR - <b>!!!Invalid Project Name</b><br>
+2021-12-20 22:21:33,747 - log_handler - ERROR - Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+2021-12-20 22:21:33,747 - log_handler - ERROR - <b>!!!Invalid Project Name</b><br>
+2021-12-20 22:21:33,747 - log_handler - ERROR - Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+2021-12-20 22:21:33,748 - log_handler - ERROR - <b>!!!Invalid Project Name</b><br>
+2021-12-20 22:21:33,748 - log_handler - ERROR - Baoneng_GX16_EE / 367547.1698113207 has been dropped<br>
+2021-12-20 22:21:33,748 - log_handler - INFO - ('VF11-A2', '2022-03-31', 305660.37735849054) add to database successfully<br>
+2021-12-20 22:21:33,748 - log_handler - INFO - ('VF11-A2', '2022-09-30', 382075.4716981132) add to database successfully<br>
+2021-12-20 22:21:33,748 - log_handler - INFO - ('VF11-A2', '2023-03-31', 76415.09433962264) add to database successfully<br>
+2021-12-20 22:21:33,748 - log_handler - INFO - <h3>51 value read, sum of amount is 27181358.372830182</h3>
+2021-12-20 22:21:35,952 - log_handler - INFO - <h2>Reading billing_status/revenue data...</h2>
+2021-12-20 22:21:36,219 - log_handler - INFO - ('GE13', '2019-03-30', 678867.9) add to database successfully<br>
+2021-12-20 22:21:36,219 - log_handler - INFO - ('GE13', '2019-08-30', 678867.9) add to database successfully<br>
+2021-12-20 22:21:36,219 - log_handler - INFO - ('GE13', '2019-11-30', 509150.9) add to database successfully<br>
+2021-12-20 22:21:36,219 - log_handler - INFO - ('GE13', '2020-02-28', 509150.9) add to database successfully<br>
+2021-12-20 22:21:36,219 - log_handler - INFO - ('GE13', '2020-05-31', 678867.9) add to database successfully<br>
+2021-12-20 22:21:36,219 - log_handler - INFO - ('GE13', '2020-11-30', 339434) add to database successfully<br>
+2021-12-20 22:21:36,219 - log_handler - INFO - ('GE12B', '2019-07-04', 358490.57) add to database successfully<br>
+2021-12-20 22:21:36,219 - log_handler - INFO - ('GE12B', '2019-08-30', 448113.21) add to database successfully<br>
+2021-12-20 22:21:36,220 - log_handler - INFO - ('GE12B', '2020-02-28', 89622.64) add to database successfully<br>
+2021-12-20 22:21:36,220 - log_handler - INFO - ('FE5AB/6AB', '2020-01-30', 407337.358490566) add to database successfully<br>
+2021-12-20 22:21:36,220 - log_handler - INFO - ('FE5AB/6AB', '2020-03-30', 407337.358490566) add to database successfully<br>
+2021-12-20 22:21:36,220 - log_handler - INFO - ('FE5AB/6AB', '2020-06-30', 407337.358490566) add to database successfully<br>
+2021-12-20 22:21:36,220 - log_handler - INFO - ('FE5AB/6AB', '2020-10-31', 611006.037735849) add to database successfully<br>
+2021-12-20 22:21:36,220 - log_handler - INFO - ('FE5AB/6AB', '2020-11-04', 203668.679245283) add to database successfully<br>
+2021-12-20 22:21:36,221 - log_handler - INFO - ('FE5AB/6AB_Extension', '2020-08-30', 122641.50943396226) add to database successfully<br>
+2021-12-20 22:21:36,221 - log_handler - INFO - ('FE5AB/6AB_3rd Party_1', '2020-08-07', 75471.69811320755) add to database successfully<br>
+2021-12-20 22:21:36,221 - log_handler - INFO - ('FE5AB/6AB_3rd Party_2', '2020-09-30', 80188.67924528301) add to database successfully<br>
+2021-12-20 22:21:36,221 - log_handler - ERROR - <b>!!!Invalid Invoice Date</b><br>
+2021-12-20 22:21:36,221 - log_handler - ERROR - UAES - 121500 has been dropped<br>
+2021-12-20 22:21:36,221 - log_handler - INFO - ('UAES', '2019-11-30', 121500) add to database successfully<br>
+2021-12-20 22:21:36,221 - log_handler - INFO - ('BYD', '2019-10-30', 438679.24528301886) add to database successfully<br>
+2021-12-20 22:21:36,221 - log_handler - INFO - ('BYD', '2020-11-30', 438679.24528301886) add to database successfully<br>
+2021-12-20 22:21:36,221 - log_handler - INFO - ('BYD', '2021-11-30', 438679.24528301886) add to database successfully<br>
+2021-12-20 22:21:36,221 - log_handler - INFO - ('BYD', '2022-04-30', 146226.4150943396) add to database successfully<br>
+2021-12-20 22:21:36,221 - log_handler - INFO - ('GAC', '2019-11-30', 633962.2641509434) add to database successfully<br>
+2021-12-20 22:21:36,222 - log_handler - INFO - ('GAC', '2020-11-30', 316981.1320754717) add to database successfully<br>
+2021-12-20 22:21:36,222 - log_handler - INFO - ('GAC', '2021-03-30', 475471.6981132075) add to database successfully<br>
+2021-12-20 22:21:36,222 - log_handler - INFO - ('GAC', '2021-09-30', 158490.56603773584) add to database successfully<br>
+2021-12-20 22:21:36,222 - log_handler - INFO - ('DFM', '2020-08-15', 339622.641509434) add to database successfully<br>
+2021-12-20 22:21:36,222 - log_handler - INFO - ('DFM', '2020-09-30', 679245.283018868) add to database successfully<br>
+2021-12-20 22:21:36,222 - log_handler - INFO - ('DFM', '2020-12-31', 113207.54716981133) add to database successfully<br>
+2021-12-20 22:21:36,222 - log_handler - INFO - ('FE3AH', '2020-07-30', 377357.7358490566) add to database successfully<br>
+2021-12-20 22:21:36,222 - log_handler - INFO - ('FE3AH', '2020-09-30', 471697.1698113207) add to database successfully<br>
+2021-12-20 22:21:36,222 - log_handler - INFO - ('FE3AH', '2020-11-04', 94339.43396226416) add to database successfully<br>
+2021-12-20 22:21:36,223 - log_handler - INFO - ('RBJAC', '2020-09-30', 579056.6037735848) add to database successfully<br>
+2021-12-20 22:21:36,223 - log_handler - INFO - ('RBJAC', '2020-11-30', 965094.3396226414) add to database successfully<br>
+2021-12-20 22:21:36,223 - log_handler - INFO - ('RBJAC', '2021-04-30', 386037.7358490566) add to database successfully<br>
+2021-12-20 22:21:36,223 - log_handler - INFO - ('BJEV', '2020-12-15', 208806.2264150943) add to database successfully<br>
+2021-12-20 22:21:36,223 - log_handler - INFO - ('BJEV', '2021-05-15', 1044031.1320754716) add to database successfully<br>
+2021-12-20 22:21:36,223 - log_handler - INFO - ('BJEV', '2021-09-15', 139204.15094339623) add to database successfully<br>
+2021-12-20 22:21:36,223 - log_handler - INFO - ('GAC_Complex Driver', '2021-03-01', 392452.8301886793) add to database successfully<br>
+2021-12-20 22:21:36,223 - log_handler - INFO - ('GAC_Complex Driver', '2021-11-30', 1177358.4905660376) add to database successfully<br>
+2021-12-20 22:21:36,223 - log_handler - INFO - ('GAC_Complex Driver', '2022-05-01', 392452.8301886793) add to database successfully<br>
+2021-12-20 22:21:36,223 - log_handler - INFO - ('RBJAC_commercial', '2021-04-01', 320754.71698113205) add to database successfully<br>
+2021-12-20 22:21:36,223 - log_handler - INFO - ('RBJAC_commercial', '2021-06-30', 801886.7924528301) add to database successfully<br>
+2021-12-20 22:21:36,224 - log_handler - INFO - ('RBJAC_commercial', '2021-06-30', 481132.0754716981) add to database successfully<br>
+2021-12-20 22:21:36,224 - log_handler - ERROR - <b>!!!Invalid Invoice Date</b><br>
+2021-12-20 22:21:36,224 - log_handler - ERROR - FE-6-A3 12/12/2012 325471.69811320753 has been dropped<br>
+2021-12-20 22:21:36,224 - log_handler - INFO - ('FE-6-A3', '2022-04-30', 433962.26415094343) add to database successfully<br>
+2021-12-20 22:21:36,224 - log_handler - INFO - ('FE-6-A3', '2022-10-30', 216981.13207547172) add to database successfully<br>
+2021-12-20 22:21:36,224 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-11-30', 3514150.943396226) add to database successfully<br>
+2021-12-20 22:21:36,224 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-12-30', 3514150.943396226) add to database successfully<br>
+2021-12-20 22:21:36,224 - log_handler - ERROR - <b>!!!Invalid Project Name</b><br>
+2021-12-20 22:21:36,224 - log_handler - ERROR - Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+2021-12-20 22:21:36,225 - log_handler - ERROR - <b>!!!Invalid Project Name</b><br>
+2021-12-20 22:21:36,225 - log_handler - ERROR - Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+2021-12-20 22:21:36,225 - log_handler - ERROR - <b>!!!Invalid Project Name</b><br>
+2021-12-20 22:21:36,225 - log_handler - ERROR - Baoneng_GX16_EE / 1102641.5094339622 has been dropped<br>
+2021-12-20 22:21:36,225 - log_handler - ERROR - <b>!!!Invalid Project Name</b><br>
+2021-12-20 22:21:36,225 - log_handler - ERROR - Baoneng_GX16_EE / 367547.1698113207 has been dropped<br>
+2021-12-20 22:21:36,225 - log_handler - INFO - ('VF11-A2', '2022-03-31', 305660.37735849054) add to database successfully<br>
+2021-12-20 22:21:36,225 - log_handler - INFO - ('VF11-A2', '2022-09-30', 382075.4716981132) add to database successfully<br>
+2021-12-20 22:21:36,225 - log_handler - INFO - ('VF11-A2', '2023-03-31', 76415.09433962264) add to database successfully<br>
+2021-12-20 22:21:36,226 - log_handler - INFO - <h3>51 value read, sum of amount is 27181358.372830182</h3>
+2021-12-20 22:28:10,382 - log_handler - INFO - <h2>Reading ecn_cost/internal_expense data...</h2>
+2021-12-20 22:28:10,396 - log_handler - INFO - ('BYD', '2021-01-01', 14506.211500000003) add to database successfully<br>
+2021-12-20 22:28:10,397 - log_handler - INFO - ('GAC', '2021-01-01', 14506.211500000003) add to database successfully<br>
+2021-12-20 22:28:10,397 - log_handler - INFO - ('RBJAC', '2021-01-01', 14506.211500000003) add to database successfully<br>
+2021-12-20 22:28:10,397 - log_handler - INFO - ('BJEV', '2021-01-01', 29012.423000000006) add to database successfully<br>
+2021-12-20 22:28:10,397 - log_handler - INFO - ('GAC_Complex Driver', '2021-01-01', 29012.423000000006) add to database successfully<br>
+2021-12-20 22:28:10,397 - log_handler - INFO - ('RBJAC_commercial', '2021-01-01', 14506.211500000003) add to database successfully<br>
+2021-12-20 22:28:10,397 - log_handler - INFO - ('FE-6-A3', '2021-01-01', 14506.211500000003) add to database successfully<br>
+2021-12-20 22:28:10,397 - log_handler - INFO - ('FE3AH', '2021-01-01', 14506.211500000003) add to database successfully<br>
+2021-12-20 22:28:10,397 - log_handler - INFO - ('Overhead', '2021-01-01', 145062.11500000002) add to database successfully<br>
+2021-12-20 22:28:10,398 - log_handler - INFO - ('BYD', '2021-02-01', 15225.544500000004) add to database successfully<br>
+2021-12-20 22:28:10,398 - log_handler - INFO - ('GAC', '2021-02-01', 15225.544500000004) add to database successfully<br>
+2021-12-20 22:28:10,398 - log_handler - INFO - ('RBJAC', '2021-02-01', 15225.544500000004) add to database successfully<br>
+2021-12-20 22:28:10,398 - log_handler - INFO - ('BJEV', '2021-02-01', 30451.089000000007) add to database successfully<br>
+2021-12-20 22:28:10,398 - log_handler - INFO - ('GAC_Complex Driver', '2021-02-01', 30451.089000000007) add to database successfully<br>
+2021-12-20 22:28:10,398 - log_handler - INFO - ('RBJAC_commercial', '2021-02-01', 15225.544500000004) add to database successfully<br>
+2021-12-20 22:28:10,398 - log_handler - INFO - ('FE-6-A3', '2021-02-01', 15225.544500000004) add to database successfully<br>
+2021-12-20 22:28:10,398 - log_handler - INFO - ('FE3AH', '2021-02-01', 15225.544500000004) add to database successfully<br>
+2021-12-20 22:28:10,398 - log_handler - INFO - ('Overhead', '2021-02-01', 152255.44500000004) add to database successfully<br>
+2021-12-20 22:28:10,399 - log_handler - INFO - ('BYD', '2021-03-01', 15094.5185) add to database successfully<br>
+2021-12-20 22:28:10,399 - log_handler - INFO - ('GAC', '2021-03-01', 15094.5185) add to database successfully<br>
+2021-12-20 22:28:10,399 - log_handler - INFO - ('RBJAC', '2021-03-01', 15094.5185) add to database successfully<br>
+2021-12-20 22:28:10,399 - log_handler - INFO - ('BJEV', '2021-03-01', 30189.037) add to database successfully<br>
+2021-12-20 22:28:10,399 - log_handler - INFO - ('GAC_Complex Driver', '2021-03-01', 30189.037) add to database successfully<br>
+2021-12-20 22:28:10,399 - log_handler - INFO - ('RBJAC_commercial', '2021-03-01', 15094.5185) add to database successfully<br>
+2021-12-20 22:28:10,399 - log_handler - INFO - ('FE-6-A3', '2021-03-01', 15094.5185) add to database successfully<br>
+2021-12-20 22:28:10,399 - log_handler - INFO - ('FE3AH', '2021-03-01', 15094.5185) add to database successfully<br>
+2021-12-20 22:28:10,399 - log_handler - INFO - ('Overhead', '2021-03-01', 150945.185) add to database successfully<br>
+2021-12-20 22:28:10,399 - log_handler - INFO - ('BYD', '2021-04-01', 12776.161999999998) add to database successfully<br>
+2021-12-20 22:28:10,399 - log_handler - INFO - ('GAC', '2021-04-01', 12776.161999999998) add to database successfully<br>
+2021-12-20 22:28:10,399 - log_handler - INFO - ('RBJAC', '2021-04-01', 12776.161999999998) add to database successfully<br>
+2021-12-20 22:28:10,400 - log_handler - INFO - ('BJEV', '2021-04-01', 25552.323999999997) add to database successfully<br>
+2021-12-20 22:28:10,400 - log_handler - INFO - ('GAC_Complex Driver', '2021-04-01', 25552.323999999997) add to database successfully<br>
+2021-12-20 22:28:10,400 - log_handler - INFO - ('RBJAC_commercial', '2021-04-01', 12776.161999999998) add to database successfully<br>
+2021-12-20 22:28:10,400 - log_handler - INFO - ('FE-6-A3', '2021-04-01', 12776.161999999998) add to database successfully<br>
+2021-12-20 22:28:10,400 - log_handler - INFO - ('Overhead', '2021-04-01', 140537.78199999998) add to database successfully<br>
+2021-12-20 22:28:10,400 - log_handler - INFO - ('BYD', '2021-05-01', 10997.956999999999) add to database successfully<br>
+2021-12-20 22:28:10,400 - log_handler - INFO - ('RBJAC', '2021-05-01', 10997.956999999999) add to database successfully<br>
+2021-12-20 22:28:10,400 - log_handler - INFO - ('BJEV', '2021-05-01', 21995.913999999997) add to database successfully<br>
+2021-12-20 22:28:10,400 - log_handler - INFO - ('GAC_Complex Driver', '2021-05-01', 21995.913999999997) add to database successfully<br>
+2021-12-20 22:28:10,400 - log_handler - INFO - ('RBJAC_commercial', '2021-05-01', 10997.956999999999) add to database successfully<br>
+2021-12-20 22:28:10,400 - log_handler - INFO - ('FE-6-A3', '2021-05-01', 10997.956999999999) add to database successfully<br>
+2021-12-20 22:28:10,400 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-05-01', 21995.913999999997) add to database successfully<br>
+2021-12-20 22:28:10,401 - log_handler - INFO - ('Overhead', '2021-05-01', 109979.56999999998) add to database successfully<br>
+2021-12-20 22:28:10,401 - log_handler - INFO - ('BYD', '2021-06-01', 12488.367000000002) add to database successfully<br>
+2021-12-20 22:28:10,401 - log_handler - INFO - ('BJEV', '2021-06-01', 12488.367000000002) add to database successfully<br>
+2021-12-20 22:28:10,401 - log_handler - INFO - ('GAC_Complex Driver', '2021-06-01', 37465.10100000001) add to database successfully<br>
+2021-12-20 22:28:10,401 - log_handler - INFO - ('RBJAC_commercial', '2021-06-01', 12488.367000000002) add to database successfully<br>
+2021-12-20 22:28:10,401 - log_handler - INFO - ('FE-6-A3', '2021-06-01', 12488.367000000002) add to database successfully<br>
+2021-12-20 22:28:10,401 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-06-01', 37465.10100000001) add to database successfully<br>
+2021-12-20 22:28:10,401 - log_handler - INFO - ('Overhead', '2021-06-01', 124883.67000000001) add to database successfully<br>
+2021-12-20 22:28:10,401 - log_handler - INFO - ('BYD', '2021-07-01', 10209.5375) add to database successfully<br>
+2021-12-20 22:28:10,401 - log_handler - INFO - ('GAC_Complex Driver', '2021-07-01', 40838.15) add to database successfully<br>
+2021-12-20 22:28:10,401 - log_handler - INFO - ('FE-6-A3', '2021-07-01', 20419.075) add to database successfully<br>
+2021-12-20 22:28:10,401 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-07-01', 30628.612500000003) add to database successfully<br>
+2021-12-20 22:28:10,401 - log_handler - INFO - ('Overhead', '2021-07-01', 102095.375) add to database successfully<br>
+2021-12-20 22:28:10,402 - log_handler - INFO - ('BYD', '2021-08-01', 14994.108000000007) add to database successfully<br>
+2021-12-20 22:28:10,402 - log_handler - INFO - ('GAC_Complex Driver', '2021-08-01', 59976.43200000003) add to database successfully<br>
+2021-12-20 22:28:10,402 - log_handler - INFO - ('FE-6-A3', '2021-08-01', 29988.216000000015) add to database successfully<br>
+2021-12-20 22:28:10,402 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-08-01', 44982.32400000003) add to database successfully<br>
+2021-12-20 22:28:10,402 - log_handler - INFO - ('Overhead', '2021-08-01', 149941.08000000007) add to database successfully<br>
+2021-12-20 22:28:10,402 - log_handler - INFO - ('BYD', '2021-09-01', 12669.737500000003) add to database successfully<br>
+2021-12-20 22:28:10,402 - log_handler - INFO - ('GAC_Complex Driver', '2021-09-01', 50678.95000000001) add to database successfully<br>
+2021-12-20 22:28:10,402 - log_handler - INFO - ('FE-6-A3', '2021-09-01', 25339.475000000006) add to database successfully<br>
+2021-12-20 22:28:10,402 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-09-01', 38009.212500000016) add to database successfully<br>
+2021-12-20 22:28:10,402 - log_handler - INFO - ('Overhead', '2021-09-01', 126697.37500000003) add to database successfully<br>
+2021-12-20 22:28:10,402 - log_handler - INFO - ('GAC_Complex Driver', '2021-10-01', 59920.793) add to database successfully<br>
+2021-12-20 22:28:10,411 - log_handler - INFO - ('FE-6-A3', '2021-10-01', 14937.0915) add to database successfully<br>
+2021-12-20 22:28:10,411 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-10-01', 74708.4575) add to database successfully<br>
+2021-12-20 22:28:10,411 - log_handler - INFO - ('Overhead', '2021-10-01', 164363.0065) add to database successfully<br>
+2021-12-20 22:28:10,411 - log_handler - INFO - ('GAC_Complex Driver', '2021-11-01', 59920.793) add to database successfully<br>
+2021-12-20 22:28:10,411 - log_handler - INFO - ('FE-6-A3', '2021-11-01', 14936.0915) add to database successfully<br>
+2021-12-20 22:28:10,411 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-11-01', 74708.4575) add to database successfully<br>
+2021-12-20 22:28:10,412 - log_handler - INFO - ('Overhead', '2021-11-01', 164363.0065) add to database successfully<br>
+2021-12-20 22:28:10,412 - log_handler - INFO - ('GAC_Complex Driver', '2021-12-01', 59920.793) add to database successfully<br>
+2021-12-20 22:28:10,412 - log_handler - INFO - ('FE-6-A3', '2021-12-01', 14935.0915) add to database successfully<br>
+2021-12-20 22:28:10,412 - log_handler - INFO - ('AUDI_PPE&CADA&CAPA', '2021-12-01', 74708.4575) add to database successfully<br>
+2021-12-20 22:28:10,412 - log_handler - INFO - ('Overhead', '2021-12-01', 164363.0065) add to database successfully<br>
+2021-12-20 22:28:10,412 - log_handler - INFO - <h3>77 value read, sum of amount is 3321027.915500002</h3>
+2021-12-20 23:47:15,327 - log_handler - INFO - <h1>Stage2: Export data to csv</h1>

@@ -3,16 +3,44 @@ import os
 import sys
 from datetime import datetime
 from flask_sqlalchemy import SQLAlchemy
+import json
+from log_handler import logger
+from myutils import process_reports_from_vendor, read_config_json, process_billing_status, process_ecncost, data2csv
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///effort_data.db'
 db = SQLAlchemy(app)
+@app.route('/read_reports_from_vendor')
+def read_reports_from_vendor():
+    t_config = read_config_json()
+    processed_reports = t_config['vendor_reports']['processed_reports']
+    reports = process_reports_from_vendor(t_config['vendor_reports']['report_folder'])
+    return render_template('read_reports_from_vendor.html', processed_reports=processed_reports, reports=reports)
+
+@app.route('/read_ecn_cost')
+def read_ecn_cost():
+    process_ecncost()
+    return send_file('default.log', mimetype = 'log', download_name= 'default.log', as_attachment = False)
+
+@app.route('/read_billing_status')
+def read_billing_status():
+    process_billing_status()
+    return send_file('default.log', mimetype = 'log', download_name= 'default.log', as_attachment = False)
+
+@app.route('/print_data/<file_to_print>')
+def print_file(file_to_print):
+    data_to_print = {'billing_status':'billing_status.json', 'ecn_cost':'ecn_cost.json', 'vendor_report':'from_vendor.json', 'current_config':'config/config.json', 'logs':'default.log'}
+    return send_file(data_to_print[file_to_print], mimetype = 'json', download_name= 'tmp.json', as_attachment = False)
+
+@app.route('/generate_pivot')
+def generate_pivot():
+    data2csv()
+    return '<a href="ms-excel:ofe|u|//bosch.com/dfsrb/DfsCN/loc/Sgh/RBCN/RBEI_ECN/RBEI_ECN/01-Projects/@Partner_Cost/@ExpenseReport.xlsx">Open in Excel</a>'
 
 @app.route('/')
 def index():
-    with open('config/config.json', 'r') as f:
-        myStr = f.read()
-    return render_template('index.html', myStr=myStr)
+    data_to_print = ('billing_status', 'ecn_cost', 'vendor_report', 'current_config', 'logs')
+    return render_template('index.html', data_to_print=data_to_print)
 
 @app.route('/run')
 def run():
