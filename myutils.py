@@ -5,6 +5,81 @@ import sys
 from app import db, ExpenseInternal, Revenue, ExpenseExternal
 import os
  
+def db2xlsx():
+    wb = load_workbook('data_from_vendor.xlsx')
+    ws = wb['default']
+
+    external_expense = ExpenseExternal.query.order_by(ExpenseExternal.invoice_date)
+    row_num = 4
+    for item in external_expense:
+        ws.cell(row=row_num, column=3, value=item.project)
+        ws.cell(row=row_num, column=4, value=item.item)
+        ws.cell(row=row_num, column=5, value=item.invoice_date)
+        ws.cell(row=row_num, column=6, value=item.amount)
+        ws.cell(row=row_num, column=7, value=item.category)
+        ws.cell(row=row_num, column=8, value=item.partner)
+        row_num += 1
+
+    wb.save('data_from_vendor.xlsx')
+
+def audi2excel():
+    t_dict = []
+    # t_dict = t_dict + audi2python(4) + audi2python(10) + audi2python(16) + audi2python(22) + audi2python(28) + audi2python(34)
+    t_dict = t_dict + audi2python(16)
+    wb = load_workbook('data_from_vendor_audi.xlsx')
+    ws = wb['default']
+
+    row_num = 490
+    for item in t_dict:
+        # t_dict = {'week':week, 'who':who, 'date':date, 'starttime':starttime, 'endtime':endtime, 'workinghours':workinghours, 'overtime':overtime, 'location':location, 'worklog':worklog}
+        ws.cell(row=row_num, column=3, value=item['who'])
+        ws.cell(row=row_num, column=4, value=item['week'])
+        ws.cell(row=row_num, column=5, value=item['date'])
+        ws.cell(row=row_num, column=6, value=item['starttime'])
+        ws.cell(row=row_num, column=7, value=item['endtime'])
+        ws.cell(row=row_num, column=8, value=item['workinghours'])
+        ws.cell(row=row_num, column=9, value=item['overtime'])
+        ws.cell(row=row_num, column=10, value=item['location'])
+        ws.cell(row=row_num, column=11, value=item['worklog'])
+        row_num += 1
+
+    wb.save('data_from_vendor_audi.xlsx')
+
+def audi2python(r_in):
+    wb = load_workbook('guoqi.xlsx', data_only=True)
+    ws = wb['default']
+
+    row_num = 0
+    col_num = 0
+    
+    all_dict = []
+
+    for c in range(3, 112):
+        # for r in range(1, 7):
+        r = r_in
+        starttime = ws.cell(row=r, column=c).value
+        if not starttime or starttime == '00:00:00' or starttime == '0:00:00' or starttime == '-':
+            continue
+        r += 1
+        endtime = ws.cell(row=r, column=c).value
+        r += 1
+        workinghours = ws.cell(row=r, column=c).value
+        r += 1
+        overtime = ws.cell(row=r, column=c).value
+        r += 1
+        location = ws.cell(row=r, column=c).value
+        r += 1
+        worklog = ws.cell(row=r, column=c).value
+        week = ws.cell(row=1, column=c).value
+        date = ws.cell(row=2, column=c).value
+        who = ws.cell(row=r, column=1).value
+        t_dict = {'week':week, 'who':who, 'date':date, 'starttime':starttime, 'endtime':endtime, 'workinghours':workinghours, 'overtime':overtime, 'location':location, 'worklog':worklog}
+        all_dict.append(t_dict)
+        # print(t_dict)
+    
+    print(len(all_dict))
+    return all_dict
+
 # JSON file
 def read_config_json():
     with open('config/config.json', "r") as f:
@@ -205,3 +280,9 @@ def stage2_db2csv():
 
 if __name__ == '__main__':
     print('OK')
+    # db2xlsx()
+    # t_all_dict = []
+    # t_all2 = t_all_dict + audi2python(4) + audi2python(10) + audi2python(16) + audi2python(22) + audi2python(28) + audi2python(34)
+
+    # print(len(t_all2))
+    audi2excel()
